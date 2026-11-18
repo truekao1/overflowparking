@@ -1,0 +1,90 @@
+{
+  "slug": "st-code",
+  "city": "City",
+  "citySlug": "code",
+  "state": "ST",
+  "stateName": "State",
+  "airportCode": "CODE",
+  "airportName": "Airport Name",
+  "focus": "",
+  "lastUpdated": "YYYY-MM-DD",
+  "intro": "Replace with a short, factual intro. Do not invent coverage you did not research.",
+  "officialBookingUrl": "",
+  "officialLots": [
+    {
+      "name": "",
+      "category": "official",
+      "area": "",
+      "address": "",
+      "access": "",
+      "hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "driveUpDailyMax": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "",
+      "visitNotes": "",
+      "sources": [
+        {
+          "label": "",
+          "url": ""
+        }
+      ],
+      "rateAsOf": "YYYY-MM-DD",
+      "lastChecked": "YYYY-MM-DD"
+    }
+  ],
+  "listings": [
+    {
+      "name": "",
+      "category": "offsite",
+      "area": "",
+      "address": "",
+      "phone": "",
+      "website": "",
+      "bookingUrl": "",
+      "hours": {
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": ""
+      },
+      "shuttle": "",
+      "offers": [],
+      "offersNotes": "",
+      "flags": {
+        "shuttle": false,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "",
+      "feeNotes": "",
+      "sources": [
+        {
+          "label": "",
+          "url": ""
+        }
+      ],
+      "lastChecked": "YYYY-MM-DD"
+    }
+  ]
+}

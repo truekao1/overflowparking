@@ -1,0 +1,16 @@
+<aside class="affiliate-box" id="compare-and-book">
+  <p class="eyebrow">Advertisement · Affiliate disclosure</p>
+  <h2>Want to compare off-airport lots in one search?</h2>
+  <p><strong>Airport Parking Reservations</strong> is a public booking site for off-airport and overflow lots at major U.S. and Canadian airports. <strong>On Air Parking</strong> is another public reservation site; its homepage lists Los Angeles among the airports it covers. Until those programs issue a tracked link, the buttons below go to each company’s public website.</p>
+  <p class="disclosure">{{ site.disclosure }}</p>
+  <ul class="affiliate-links">
+    {% for key, program in site.affiliates %}
+    <li>
+      <a class="button" href="{{ program | affiliateHref }}" {% if program | affiliateIsTracked %}rel="sponsored nofollow noopener"{% else %}rel="noopener"{% endif %} target="_blank">{{ program.name }}</a>
+      {% if not (program | affiliateIsTracked) %}
+      <span class="muted small">Public website — not a tracked affiliate link yet.</span>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</aside>

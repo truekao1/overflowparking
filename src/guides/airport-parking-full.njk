@@ -1,0 +1,78 @@
+---
+layout: base.njk
+permalink: "/guides/airport-parking-full-what-to-do-and-where-to-park-instead/"
+eleventyComputed:
+  title: "Airport parking full? What to do and where to park instead · {{ site.name }}"
+  description: "What to do when official airport parking is sold out or expensive: official prebooking, off-airport shuttle lots, hotel park-and-fly, and transit parking. Rates on this site are dated, not live quotes."
+  ogType: "article"
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: "Airport parking full? What to do and where to park instead"
+      url: /guides/airport-parking-full-what-to-do-and-where-to-park-instead/
+faqs:
+  - q: "Should I still check the official airport lot if it looks sold out?"
+    a: "Yes. Official lots often sell prebooked reservations separately from drive-up spaces. At some airports you have to book a few hours ahead. Use the airport’s own reservation page rather than assuming a “full” sign on a comparison site is the last word."
+  - q: "Are off-airport lots always cheaper?"
+    a: "Not always. Off-airport lots often advertise a lower daily rate, but taxes, airport recovery fees, shuttle time, and last-minute walk-up prices can close the gap. Compare the total for your dates on the operator’s own site, and leave extra time for the shuttle."
+  - q: "Can I park at a hotel without staying overnight?"
+    a: "Only if the hotel’s official page says so. Many park-and-fly offers require a room night and a shuttle that is limited to registered guests. If we could not verify a park-without-a-stay option, we did not list one."
+  - q: "Why do rates on this site have dates on them?"
+    a: "Airport and off-airport prices change. We copy a published figure only when we can point to a public page, and we label it “as listed on” that date. That is a historical snapshot, not a live quote. Confirm the price when you book."
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Guide</p>
+  <h1>Airport parking full? What to do and where to park instead</h1>
+  <p>Official economy lots sell out, especially around holidays and school breaks. Drive-up rates at terminal garages can also be higher than a reserved rate. This guide is a practical order of operations, not a promise that any one lot will have a space today.</p>
+
+  <h2>1. Check the airport’s own reservation page first</h2>
+  <p>Start with the official parking page for your airport. Some official lots still accept online reservations when the drive-up lanes look full. JFK’s official parking page, checked November 18, 2026, says you can “save money and guarantee a spot when you book parking at least 3 hours in advance.” LAX sells reserved parking for Budget, Economy, and Central Terminal Area lots on its official reservation site.</p>
+  <p>If a published daily maximum is on our airport pages, it is labeled “as listed on” the date we copied it. Use the official booking page for the price that will actually be charged.</p>
+  <ul>
+    {% for airport in airports %}
+    <li><a href="{{ airport | airportPath }}">{{ airport.airportCode }} official lots and off-airport alternatives</a>{% if airport.officialBookingUrl %} · <a href="{{ airport.officialBookingUrl }}" rel="noopener">official reservation page</a>{% endif %}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>2. Use an off-airport lot with a published shuttle</h2>
+  <p>If the official lot you want is unavailable or more than you want to pay, an independent lot near the airport may sell a reserved space and a shuttle to the terminals. We only list shuttle facts that appear on the operator’s own website. Frequency, late-night pickup, and which curb the van uses can still change.</p>
+  <p>Leave more time than the lot’s published ride time. Holiday traffic, construction, and multiple terminal stops all add minutes. JFK’s official parking page tells customers to park on-airport or with an authorized off-airport provider; on that page, checked November 18, 2026, the authorized providers are SmartPark JFK and AirPark JFK / JFK Long-Term Parking Inc. Other lots can still be legitimate businesses; we label authorized status only when the airport’s page lists them.</p>
+
+  <h2>3. Consider a hotel park-and-fly package</h2>
+  <p>Some airport hotels sell a one-night stay plus several days of parking and a shuttle. Those offers are useful when you already need a room, or when lots are tight. Read the hotel’s official offer: how many parking days are included, whether the shuttle is for registered guests only, and whether you can extend parking after checkout. We do not invent package terms that the hotel page does not spell out.</p>
+
+  <h2>4. Look at transit parking when it is official</h2>
+  <p>A few airports publish a transit option that is cheaper than a terminal garage. At LAX, the official parking page also lists public parking at the Van Nuys FlyAway facility, available only for FlyAway bus patrons, with a published daily maximum. That is a bus-and-park product, not a shuttle lot at the terminals. If you use it, confirm the current FlyAway schedule and the parking rules on the official Van Nuys page.</p>
+  <p>Cell phone waiting lots are for picking someone up, not for overnight parking. Do not treat a free waiting lot as overflow storage for a trip.</p>
+
+  <h2>5. Confirm the price and the plan before you leave home</h2>
+  <ul>
+    <li>Book on the airport’s site or the operator’s own site. Third-party calendars can lag.</li>
+    <li>Treat any rate we quote as a dated snapshot, not a live price.</li>
+    <li>Save the lot address, the shuttle pickup instructions, and a phone number in case the lot is hard to find at night.</li>
+    <li>If you will be parked more than 30 days, read the airport’s long-stay rules. JFK and LAX both describe registration or impound policies for very long stays on their official pages.</li>
+  </ul>
+
+  <div>
+    {% include "partials/affiliate.njk" %}
+  </div>
+
+  <h2>Airport pages on this site</h2>
+  <ul>
+    {% for airport in airports %}
+    <li><a href="{{ airport | airportPath }}">{{ airport.airportCode }} — {{ airport.airportName }}</a> ({{ airport.officialLots | length }} official lots, {{ airport.listings | length }} off-airport listings, updated {{ airport.lastUpdated | displayDate }})</li>
+    {% endfor %}
+  </ul>
+  <p>Each listing has a source URL and a last-checked date. If a fact could not be verified, it was left out.</p>
+
+  <section class="faq" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Frequently asked questions</h2>
+    {% for faq in faqs %}
+    <details>
+      <summary>{{ faq.q }}</summary>
+      <p>{{ faq.a }}</p>
+    </details>
+    {% endfor %}
+  </section>
+</article>

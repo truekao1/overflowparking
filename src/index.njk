@@ -1,0 +1,40 @@
+---
+layout: base.njk
+permalink: "/"
+eleventyComputed:
+  title: "{{ site.name }} — official and off-airport parking when the airport lot is full"
+  description: "{{ site.description }}"
+  breadcrumbs:
+    - name: Home
+      url: /
+---
+<section class="page-hero wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">A public-source directory</p>
+  <h1>{{ site.tagline }}</h1>
+  <p class="lede">{{ site.description }} We only list hours, shuttle facts, and rates that a public page publishes, and we date every check. If we cannot verify it, it does not go on the page. We do not cache live prices or open spots — reserve on the airport’s or the operator’s own site.</p>
+</section>
+
+<section class="wrap" id="airports">
+  <div class="section-head">
+    <h2>Airports</h2>
+    <p class="muted">Each airport is one data file, so a new page can ship as soon as the listings are verified.</p>
+  </div>
+  <ul class="city-grid">
+    {% for airport in airports %}
+    <li>
+      <a class="city-card" href="{{ airport | airportPath }}">
+        <h3>{{ airport.airportCode }} — {{ airport.city }}, {{ airport.state }}</h3>
+        <p>{{ airport.officialLots | length }} official lots · {{ airport.listings | length }} off-airport listings</p>
+        <p class="small muted">Updated {{ airport.lastUpdated | displayDate }}</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="wrap tonight">
+  <h2>Why this directory exists</h2>
+  <p>People looking for airport parking often find that the cheaper official lot is sold out, or that drive-up rates are higher than they planned for. This site is for the other options: official lots and their published rate cards, off-airport shuttle lots, and hotel park-and-fly packages that the operator itself publishes.</p>
+  <p><a href="/guides/airport-parking-full-what-to-do-and-where-to-park-instead/">Read the sold-out parking guide</a> · <a href="/about/">How we research listings</a></p>
+</section>

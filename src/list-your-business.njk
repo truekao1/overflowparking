@@ -1,0 +1,31 @@
+---
+layout: base.njk
+permalink: "/list-your-business/"
+eleventyComputed:
+  title: "List your airport parking lot · {{ site.name }}"
+  description: "Ask to be included in OverflowParking. Listings are added only when address, hours, shuttle facts, and booking links can be verified from a public source."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: List your lot
+      url: /list-your-business/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">Off-airport and hotel parking</p>
+  <h1>List your lot</h1>
+  <p>If you operate an off-airport parking lot or a hotel park-and-fly package, and those facts are published on your website, we want the record to be accurate — especially the address, hours, shuttle instructions, and where people should book.</p>
+  <p>Send:</p>
+  <ul>
+    <li>Business name and the airport you serve</li>
+    <li>Street address, phone, and website</li>
+    <li>Hours for each day, including Saturday and Sunday if you publish them</li>
+    <li>Shuttle information, if you publish it (whether it is free, how often it runs, and where it picks up)</li>
+    <li>Whether you offer covered, uncovered, valet, or self-park, if those facts are on your site</li>
+    <li>A public page where we can verify those facts and a booking link on your own site</li>
+  </ul>
+  <p>We will not publish hours, shuttle facts, or rates we cannot check on a public source, and we may recrawl your page before each update. We will not list live prices or open spots as current inventory.</p>
+  <p>
+    <a class="button" href="mailto:{{ site.emailListings }}?subject=List%20an%20airport%20parking%20lot">Email {{ site.emailListings }}</a>
+  </p>
+</article>

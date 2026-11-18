@@ -1,0 +1,37 @@
+---
+layout: base.njk
+permalink: "/about/"
+eleventyComputed:
+  title: "About {{ site.name }}"
+  description: "OverflowParking is an independent directory of official airport lots and off-airport parking. We do not invent hours, shuttle facts, or prices."
+  breadcrumbs:
+    - name: Home
+      url: /
+    - name: About
+      url: /about/
+---
+<article class="prose wrap">
+  {% include "partials/breadcrumbs.njk" %}
+  <p class="eyebrow">About</p>
+  <h1>About OverflowParking</h1>
+  <p>OverflowParking is a small directory for a common problem: you need to park at the airport, and the official lot you wanted is full, reservation-only, or more expensive than you expected.</p>
+  <p>We are an independent website. We are not an airport, a parking operator, a booking marketplace, or a shuttle company. We do not sell parking, run shuttles, or guarantee that a listed lot has a space today.</p>
+
+  <h2>How listings get on this site</h2>
+  <ul>
+    <li>Every fact — hours, addresses, shuttle details, and published rates — must come from a real public source, usually the airport’s official parking page or the lot operator’s own website.</li>
+    <li>Each listing includes the source URL and the date we last checked it.</li>
+    <li>If we cannot verify a detail, we leave it out. We do not invent businesses, hours, shuttle frequencies, or prices.</li>
+    <li>Official daily rates are labeled “as listed on” the date we copied them. They are not live quotes.</li>
+    <li>Shuttle information is included only when the operator’s public page describes a shuttle. Pickup points and late-night rules can still change.</li>
+    <li>“Open 24 hours” is flagged only when a public page says the lot is open 24 hours, 24/7, or all day every day. “Not published” is used when a day’s hours are missing; we do not invent “Closed.”</li>
+    <li>We do not cache live prices or open spots. Booking links go to the airport or the operator’s own page.</li>
+  </ul>
+  <p>Rates and availability change, especially around holidays and school breaks. Confirm with the airport or the lot before you travel or pay. Broader options — official prebooking, off-airport shuttles, hotel park-and-fly, and transit parking — are in the <a href="/guides/airport-parking-full-what-to-do-and-where-to-park-instead/">sold-out parking guide</a>.</p>
+
+  <h2>Adding an airport</h2>
+  <p>Each airport is one JSON file. The research checklist for a new airport lives in the project’s <code>scripts/new-city.md</code> file, so a nightly pass can add one verified page at a time.</p>
+
+  <h2>Contact</h2>
+  <p>For corrections or questions, email <a href="mailto:{{ site.emailContact }}">{{ site.emailContact }}</a>. Parking operators that want to be listed can use the <a href="/list-your-business/">list your lot</a> page.</p>
+</article>

@@ -1,0 +1,612 @@
+{
+  "slug": "ca-lax",
+  "city": "Los Angeles",
+  "citySlug": "lax",
+  "state": "CA",
+  "stateName": "California",
+  "airportCode": "LAX",
+  "airportName": "Los Angeles International Airport",
+  "focus": "",
+  "lastUpdated": "2026-11-18",
+  "intro": "This page covers LAX\u2019s official Central Terminal Area, Economy, and Budget lots, plus Van Nuys FlyAway parking for bus patrons, with daily rates copied from Los Angeles World Airports pages on November 18, 2026. Below that are eight off-airport shuttle lots and hotel park-and-fly options whose addresses, hours, and shuttle facts come from each operator\u2019s own site. Fees on the official LAX page include a 10% Los Angeles City Parking Occupancy Tax. Rates here are dated snapshots, not live quotes.",
+  "officialBookingUrl": "https://parking.flylax.com/",
+  "officialLots": [
+    {
+      "name": "Central Terminal Area general parking",
+      "category": "official",
+      "area": "Eight parking structures across from the passenger terminals (P1\u2013P7 are named on the official reservation site)",
+      "address": "",
+      "access": "Walk to terminals. The official page says structures are open 24 hours a day, 7 days a week, including holidays.",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official parking page says the CTA parking structures are open 24 hours a day, 7 days a week, including holidays."
+      },
+      "driveUpDailyMax": "$60 maximum for each 24-hour period",
+      "prebookRate": "",
+      "hourlyOrIncrement": "10 minutes free; $9 first hour or fraction thereof ($11 at P3 and P4); $7 each 30 minutes after the first hour ($9 at P3 and P4)",
+      "rateNotes": "The official page says rates are subject to change, that you should check rates posted at the entrance, and that fees include a 10% Los Angeles City Parking Occupancy Tax. Online reserved rates were not copied as a single daily figure.",
+      "heightRestriction": "Parking Structures 1, 3, and 4 have a maximum vehicle height restriction of 7 feet, 6 inches. (Parking Structure 1 Valet has a maximum vehicle height restriction of 8 feet, 2 inches.) Other structure clearances should be read from the signs at each entrance; the official page says all CTA entrances are clearly marked.",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.flylax.com/lax-terminal.html",
+      "visitNotes": "Vehicles parked more than 30 days are subject to impound. Contact ABM at 310-646-2911 to request a longer stay. All vehicles entering the CTA are subject to random inspection.",
+      "sources": [
+        {
+          "label": "Official LAX parking page",
+          "url": "https://www.flylax.com/parking-at-lax"
+        },
+        {
+          "label": "Official LAX terminal parking reservation page",
+          "url": "https://parking.flylax.com/lax-terminal.html"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Central Terminal Area premium parking",
+      "category": "official",
+      "area": "Available in P1, P3, and P7, arrivals level",
+      "address": "",
+      "access": "Walk to terminals",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official parking page says the CTA parking structures are open 24 hours a day, 7 days a week, including holidays."
+      },
+      "driveUpDailyMax": "$70 maximum for each 24-hour period",
+      "prebookRate": "",
+      "hourlyOrIncrement": "10 minutes free; $11 first hour or fraction thereof; $9 each 30 minutes after the first hour",
+      "rateNotes": "The official page says rates are subject to change and that fees include a 10% Los Angeles City Parking Occupancy Tax.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.flylax.com/lax-terminal.html",
+      "visitNotes": "",
+      "sources": [
+        {
+          "label": "Official LAX parking page",
+          "url": "https://www.flylax.com/parking-at-lax"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Central Terminal Area valet parking",
+      "category": "official",
+      "area": "Available in P1, P3, P4, and P7",
+      "address": "",
+      "access": "Valet in CTA structures",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official parking page says the CTA parking structures are open 24 hours a day, 7 days a week, including holidays."
+      },
+      "driveUpDailyMax": "$75 maximum for each 24-hour period (24-hour minimum)",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "The official page lists a 24-hour minimum for valet. Fees include a 10% Los Angeles City Parking Occupancy Tax.",
+      "heightRestriction": "Parking Structure 1 Valet has a maximum vehicle height restriction of 8 feet, 2 inches, according to the official page.",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.flylax.com/lax-terminal.html",
+      "visitNotes": "",
+      "sources": [
+        {
+          "label": "Official LAX parking page",
+          "url": "https://www.flylax.com/parking-at-lax"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "LAX Economy Parking",
+      "category": "official",
+      "area": "Official remote garage, about 1 mile from the terminals according to the official Economy page",
+      "address": "6100 W. 94th Street, Los Angeles, CA 90045",
+      "access": "Free shuttle to every LAX terminal. Shuttles operate 24 hours a day, approximately every 15 minutes, from the ground level in the southeast corner of the facility. Return pickup is at the pink pillars on the inside curb on the ground level (outside baggage claim) at every terminal.",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official Economy page says shuttles operate 24 hours a day. A separate lot-hours schedule was not listed apart from that 24-hour shuttle."
+      },
+      "driveUpDailyMax": "$35 maximum for each 24-hour period",
+      "prebookRate": "",
+      "hourlyOrIncrement": "Drive-up: $8 first hour or fraction thereof; $7 each 30 minutes after the first hour",
+      "rateNotes": "The official page says rates are subject to change and that fees include a 10% Los Angeles City Parking Occupancy Tax. Online reserved rates were not copied as a single daily figure.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.flylax.com/lax-economy.html",
+      "visitNotes": "The official page says the garage has more than 4,000 stalls and that EV charging is available in the Economy garage on level 1 through the PowerFlex app, first come, first served. For shuttle questions, the Economy page lists (310) 486-8334.",
+      "sources": [
+        {
+          "label": "Official LAX parking page",
+          "url": "https://www.flylax.com/parking-at-lax"
+        },
+        {
+          "label": "Official LAX Economy Parking page",
+          "url": "https://parking.flylax.com/lax-economy.html"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "LAX Budget Parking",
+      "category": "official",
+      "area": "Official remote uncovered lot, approximately 2.5 miles from the terminals according to the official Budget page",
+      "address": "5455 W. 111th St, Los Angeles, CA 90045",
+      "access": "Free shuttle to Terminals 1\u20137 and Terminal B. The official Budget page says shuttles run 24/7, including holidays, about every 30 minutes. Board at blue shuttle stops in the lot (A4, B3, B8, B5, D5, E1, D3, and A7). On return, use the pink shuttle signs on the inside curb of the lower Arrivals level. The page says these times are operational estimates, not guarantees.",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official Budget page says both Budget Parking and the free shuttle operate 24/7, including holidays."
+      },
+      "driveUpDailyMax": "$20 maximum for each 24-hour period",
+      "prebookRate": "",
+      "hourlyOrIncrement": "Drive-up: $5 first hour or fraction thereof, according to the official LAX parking page; the official Budget page also describes a drive-up rate of $5 an hour, up to a $20 daily maximum.",
+      "rateNotes": "The official page says rates are subject to change and that fees include a 10% Los Angeles City Parking Occupancy Tax. Online reserved rates were not copied as a single daily figure. Reservations can be changed or canceled up to 2 hours before the scheduled entry time, according to the Budget page.",
+      "heightRestriction": "The official Budget page says the open-air lot can accommodate larger vehicles, and that trailers and RVs are not permitted.",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.flylax.com/lax-budget.html",
+      "visitNotes": "Uncovered surface lot. EV charging is not available here. Enter between Aviation Boulevard and La Cienega Boulevard, following signs for LAX Budget Parking.",
+      "sources": [
+        {
+          "label": "Official LAX parking page",
+          "url": "https://www.flylax.com/parking-at-lax"
+        },
+        {
+          "label": "Official LAX Budget Parking page",
+          "url": "https://parking.flylax.com/lax-budget.html"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Van Nuys FlyAway parking",
+      "category": "official",
+      "area": "Van Nuys FlyAway Bus Terminal \u2014 official LAWA parking for FlyAway bus patrons only, not a lot at the LAX terminals",
+      "address": "",
+      "access": "Available only for FlyAway bus patrons, on a first come, first served basis at the FlyAway Bus Terminal, according to the official LAX parking page. Reserved parking is also advertised there.",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Daily lot hours were not listed on the official LAX parking page checked November 18, 2026. Confirm hours on the official Van Nuys parking page."
+      },
+      "driveUpDailyMax": "$6 maximum per day",
+      "prebookRate": "",
+      "hourlyOrIncrement": "$1 per hour, up to the $6 daily maximum, as listed on the official LAX parking page",
+      "rateNotes": "This is a bus-and-park product at Van Nuys, not overflow parking in the LAX Central Terminal Area. Confirm current rates and rules at https://www.iflyvny.com/parking/parking-rates.",
+      "heightRestriction": "The official LAX parking page lists an 8-foot maximum vehicle height restriction.",
+      "reservationRequired": false,
+      "bookingUrl": "https://www.iflyvny.com/parking/parking-rates",
+      "visitNotes": "Use this only if you are riding the FlyAway bus. It is not a shuttle lot next to the LAX terminals.",
+      "sources": [
+        {
+          "label": "Official LAX parking page",
+          "url": "https://www.flylax.com/parking-at-lax"
+        },
+        {
+          "label": "Official Van Nuys FlyAway parking rates",
+          "url": "https://www.iflyvny.com/parking/parking-rates"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    }
+  ],
+  "listings": [
+    {
+      "name": "The Parking Spot Century",
+      "category": "offsite",
+      "area": "East of LAX on Century Boulevard, between the Westin Hotel and the Hilton",
+      "address": "5701 W. Century Blvd, Los Angeles, CA 90045",
+      "phone": "310.642.0947",
+      "website": "https://www.theparkingspot.com/locations/los-angeles",
+      "bookingUrl": "https://www.theparkingspot.com/locations/los-angeles",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator publishes 24/7 security and a late-night on-call shuttle from 10:00 PM to 6:00 AM. Daily lot opening hours were not stated as a 24-hour schedule on the location page we checked."
+      },
+      "shuttle": "Complimentary shuttle to and from LAX terminals, with luggage assistance. The operator\u2019s FAQ says shuttles run every few minutes, and that between 10:00 PM and 6:00 AM shuttles run on call (request pickup in the app or by calling the facility). The location is described as about 1.0 mile from the airport. Shuttle pick-up/drop-off is a short walk from your spot.",
+      "offers": [
+        "Uncovered rooftop",
+        "Covered self-park (9'2\" clearance)",
+        "Covered valet (9'2\" clearance; EV charging spaces 6'2\")",
+        "Car wash",
+        "EV charging"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Enter with a reservation QR code, according to the operator. Covered and valet options are published alongside uncovered rooftop parking.",
+      "feeNotes": "The operator said rates start as low as $20.95/day for select stays when we checked on November 18, 2026, and that the price depends on dates, parking type, and when you book. That starting figure is not a live quote. Use the reservation tool on the operator\u2019s site.",
+      "sources": [
+        {
+          "label": "The Parking Spot Los Angeles locations",
+          "url": "https://www.theparkingspot.com/locations/los-angeles"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The Parking Spot Sepulveda",
+      "category": "offsite",
+      "area": "North of LAX at Sepulveda Boulevard and Westchester Parkway, next to In-N-Out",
+      "address": "9101 S. Sepulveda Blvd, Los Angeles, CA 90045",
+      "phone": "310.846.4747",
+      "website": "https://www.theparkingspot.com/locations/los-angeles",
+      "bookingUrl": "https://www.theparkingspot.com/locations/los-angeles",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator publishes 24/7 security and a late-night on-call shuttle from 10:00 PM to 6:00 AM. Daily lot opening hours were not stated as a 24-hour schedule on the location page we checked."
+      },
+      "shuttle": "Complimentary shuttle to and from LAX terminals, with luggage assistance. The operator\u2019s FAQ says shuttles run every few minutes, and that between 10:00 PM and 6:00 AM shuttles run on call. The location is described as about 1.7 miles from the airport.",
+      "offers": [
+        "Uncovered rooftop",
+        "Covered parking",
+        "Premium covered parking",
+        "EV charging"
+      ],
+      "offersNotes": "Published clearances: 9'6\" at entry and ground level, 7'2\" on upper levels. Premium covered is described as the easiest exit.",
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "",
+      "feeNotes": "The operator said rates start as low as $20.95/day for select stays when we checked on November 18, 2026. That starting figure is not a live quote. Use the reservation tool on the operator\u2019s site.",
+      "sources": [
+        {
+          "label": "The Parking Spot Los Angeles locations",
+          "url": "https://www.theparkingspot.com/locations/los-angeles"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "FOX Parking LAX",
+      "category": "offsite",
+      "area": "About 1 1/2 miles from LAX, a 5\u201310-minute shuttle ride depending on traffic, according to the operator",
+      "address": "10211 Glasglow Place, Los Angeles, CA 90045",
+      "phone": "310-342-6445",
+      "website": "https://www.foxparking.com/lax-airport-parking/",
+      "bookingUrl": "https://www.foxparking.com/lax-airport-parking/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator says the facility is open 24 hours daily, including holidays and weekends."
+      },
+      "shuttle": "Free shuttle to and from the airport. The operator says the shuttle runs 24 hours daily at LAX, including holidays and weekends, approximately every 15\u201325 minutes during operating hours. On return, text your claim ticket number and last name to (310) 266-4255 or call (310) 342-6445, and wait upstairs on the departure level next to the red \u201cHotel & Private Parking Shuttle\u201d signs.",
+      "offers": [
+        "Self-park",
+        "Outdoor valet",
+        "EV charging (all-inclusive or pay-per-kWh)",
+        "Loyalty rewards"
+      ],
+      "offersNotes": "Indoor parking has a 6-foot-6-inch height restriction; outdoor parking has no published height restriction. The operator says it does not accept trailers, campers, RVs, dual-axle vehicles, or oversize vehicles.",
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The street name is published as \u201cGlasglow Place\u201d on the operator\u2019s LAX and contact pages; we copied that spelling rather than correcting it. Final payment is due when you return for the vehicle, according to the operator.",
+      "feeNotes": "The operator said the average daily rate is approximately $12.00 per day when we checked on November 18, 2026, and that rates fluctuate by dates and availability. That average is not a live quote. Confirm the price on the operator\u2019s site when you book.",
+      "sources": [
+        {
+          "label": "FOX Parking LAX page",
+          "url": "https://www.foxparking.com/lax-airport-parking/"
+        },
+        {
+          "label": "FOX Parking contact page",
+          "url": "https://www.foxparking.com/contact/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Airport Spectrum Parking",
+      "category": "offsite",
+      "area": "On Century Boulevard between the Hilton Los Angeles Airport and the Los Angeles Airport Marriott",
+      "address": "5757 W Century Blvd, Los Angeles, CA 90045",
+      "phone": "310-846-0804",
+      "website": "https://airportspectrumparking.com/",
+      "bookingUrl": "https://airportspectrumparking.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The FAQ says the parking facility is staffed 24 hours a day, seven days a week, and that the complimentary airport shuttle also operates 24/7."
+      },
+      "shuttle": "Complimentary shuttle, 24 hours a day, every day of the year. Arrival intervals are typically 20 to 30 minutes and may vary with LAX traffic, according to the location page. After parking, follow staff directions to the shuttle pickup area beside the facility (the FAQ says the alley beside the Hilton). On return, go to the upper/departures level and wait beneath a red \u201cHotel & Courtesy Shuttles\u201d sign; look for a blue shuttle marked Spectrum or 405. Shuttle help: 310-846-0804.",
+      "offers": [
+        "Covered underground garage",
+        "24/7 lot access",
+        "Complimentary 24/7 shuttle"
+      ],
+      "offersNotes": "Maximum clearance is 6 feet 2 inches. Standard reservations cannot accommodate oversized vehicles such as RVs.",
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Enter from Century Boulevard immediately after the Hilton entrance and before the bus stop, following the \u201cPull in Here\u201d sign. Pull a ticket and park only in spaces marked \u201cAirport and Visitor Parking.\u201d",
+      "feeNotes": "Without a reservation, the walk-in rate as listed on November 18, 2026, is $16.50 per calendar day for stays longer than two hours, subject to availability. Reserved rates are shown in the operator\u2019s booking flow and were not copied as a single daily figure. Confirm the price when you book.",
+      "sources": [
+        {
+          "label": "Airport Spectrum homepage",
+          "url": "https://airportspectrumparking.com/"
+        },
+        {
+          "label": "Airport Spectrum location and shuttle page",
+          "url": "https://airportspectrumparking.com/location"
+        },
+        {
+          "label": "Airport Spectrum FAQ",
+          "url": "https://airportspectrumparking.com/faq"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "South Garage LAX",
+      "category": "offsite",
+      "area": "El Segundo, on Imperial Highway east of Aviation Boulevard",
+      "address": "2240 Imperial Hwy, El Segundo, CA 90245",
+      "phone": "+1 (310) 615-1888",
+      "website": "https://southgaragelax.com/",
+      "bookingUrl": "https://southgaragelax.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator says the garage is open 24/7, 365 days a year, including holidays, and is staffed during all garage hours."
+      },
+      "shuttle": "Free shuttle to every LAX terminal, 24 hours a day, 365 days a year, generally every 15\u201325 minutes. No call is needed on departure; walk to the pickup area at the garage entrance. On return, go to the Departures level, look for green \u201cHotel/Private Shuttle\u201d signs, and call the number in the confirmation (the site also lists +1 (310) 615-1888). The operator describes an average shuttle ride of 5\u201310 minutes.",
+      "offers": [
+        "Covered indoor self-park",
+        "Free 24/7 shuttle",
+        "QR code entry",
+        "EV charging"
+      ],
+      "offersNotes": "Maximum vehicle height clearance is 6 feet 6 inches.",
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": true,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The operator says you park in any available space and scan a QR code at the gate. EV charging availability is limited; the site recommends contacting the garage before arrival to confirm a charger.",
+      "feeNotes": "The homepage advertised parking \u201cfrom $7.77/day\u201d when checked on November 18, 2026. That is a starting figure, not a live quote for your dates. Confirm the price when you book.",
+      "sources": [
+        {
+          "label": "South Garage LAX homepage",
+          "url": "https://southgaragelax.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "QuikPark Los Angeles Airport",
+      "category": "offsite",
+      "area": "Described by the operator as a half block from LAX, at 9821 Vicksburg Ave",
+      "address": "9821 Vicksburg Ave",
+      "phone": "1 (310) 645-7754",
+      "website": "https://www.quikparklosangelesairport.com/",
+      "bookingUrl": "https://www.quikparklosangelesairport.com/reservations/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator\u2019s homepage lists \u201c24 hours 7 days.\u201d"
+      },
+      "shuttle": "The operator lists \u201cFree shuttle service.\u201d Frequency, late-night rules, and terminal pickup points were not published on the homepage we checked.",
+      "offers": [
+        "Covered indoor parking",
+        "Valet parking",
+        "Self parking",
+        "Free shuttle",
+        "Luggage assistance"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The homepage also links to ACE Parking and to Airport Parking Connection. We used the operator\u2019s own reservations page as the booking link.",
+      "feeNotes": "The operator advertises \u201clow competitive rates\u201d but did not publish a single daily figure on the homepage we checked. Confirm pricing on the reservations page when you book.",
+      "sources": [
+        {
+          "label": "QuikPark Los Angeles Airport homepage",
+          "url": "https://www.quikparklosangelesairport.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Hilton Los Angeles Airport (Park, Stay, & Go)",
+      "category": "hotel",
+      "area": "Century Boulevard, near LAX",
+      "address": "5711 West Century Boulevard, Los Angeles, California, 90045, USA",
+      "phone": "+1 310-410-4000",
+      "website": "https://www.hilton.com/en/hotels/laxahhh-hilton-los-angeles-airport/hotel-info/",
+      "bookingUrl": "https://www.hilton.com/en/hotels/laxahhh-hilton-los-angeles-airport/offers/park-go-2000000053/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel lists a complimentary LAX shuttle 24/7. A separate public parking-lot hours schedule was not published on the pages we checked."
+      },
+      "shuttle": "The official hotel information page lists a complimentary LAX airport shuttle, 24/7 loop, every 30 minutes. The Park, Stay, & Go offer page says shuttle service is for registered guests only.",
+      "offers": [
+        "Park, Stay, & Go package",
+        "Self-parking",
+        "Valet parking",
+        "EV charging",
+        "Covered parking",
+        "In/out privileges"
+      ],
+      "offersNotes": "The official offer page says: book a 1-night stay at a participating hotel and enjoy parking for up to 7 nights, plus shuttle service to and from select airports. The offer is limited to 1 vehicle per room.",
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "This is a hotel package, not a standalone parking lot. Confirm current offer rules, blackout dates, and whether the shuttle remains guest-only before you book.",
+      "feeNotes": "Regular parking as listed on November 18, 2026, on the hotel information page: self-parking $74.00 per day; valet parking $86.00. The Park, Stay, & Go package price depends on the room rate. Confirm current prices when you book; these are not live quotes.",
+      "sources": [
+        {
+          "label": "Official Hilton Los Angeles Airport Park, Stay, & Go offer",
+          "url": "https://www.hilton.com/en/hotels/laxahhh-hilton-los-angeles-airport/offers/park-go-2000000053/"
+        },
+        {
+          "label": "Official Hilton Los Angeles Airport hotel information",
+          "url": "https://www.hilton.com/en/hotels/laxahhh-hilton-los-angeles-airport/hotel-info/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Sheraton Gateway Los Angeles Hotel (Park Here, Fly There)",
+      "category": "hotel",
+      "area": "West Century Boulevard, listed as less than one mile from LAX and 0.5 miles from the airport on the official hotel page",
+      "address": "6101 West Century Boulevard, Los Angeles, California, USA, 90045",
+      "phone": "+1 310-642-1111",
+      "website": "https://www.marriott.com/en-us/hotels/laxsi-sheraton-gateway-los-angeles-hotel/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/laxsi-sheraton-gateway-los-angeles-hotel/overview/parking/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel lists a complimentary airport shuttle 24 hours a day, 7 days a week, and 24-hour property services. A separate public parking-lot hours schedule was not published on the pages we checked."
+      },
+      "shuttle": "Complimentary airport shuttle service, available 24 hours a day, 7 days a week, to and from the terminals, according to the official hotel pages. Shuttle frequency was not published on the pages we checked.",
+      "offers": [
+        "Park Here, Fly There package",
+        "Valet parking",
+        "Long-term parking listed as an amenity",
+        "Complimentary 24-hour airport shuttle"
+      ],
+      "offersNotes": "The official parking page advertises a \u201cPark Here, Fly There Package\u201d with the line \u201cStay here, fly there, and leave your car with us,\u201d but it does not spell out how many parking days are included. We did not invent those terms.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "This is a hotel package, not a standalone parking lot. The official FAQ says the hotel does not have EV charging stations.",
+      "feeNotes": "Valet as listed on November 18, 2026: $75.00 daily, with additional parking information stating \u201c$75 + Tax.\u201d Confirm current valet and package prices when you book; these are not live quotes.",
+      "sources": [
+        {
+          "label": "Official Sheraton Gateway Los Angeles parking page",
+          "url": "https://www.marriott.com/en-us/hotels/laxsi-sheraton-gateway-los-angeles-hotel/overview/parking/"
+        },
+        {
+          "label": "Official Sheraton Gateway Los Angeles overview",
+          "url": "https://www.marriott.com/en-us/hotels/laxsi-sheraton-gateway-los-angeles-hotel/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}

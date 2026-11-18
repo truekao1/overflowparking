@@ -1,0 +1,15 @@
+{
+  "name": "overflowparking",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "OverflowParking is a static directory of official airport lots and verified off-airport parking when the official lot is full or expensive.",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

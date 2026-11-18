@@ -1,0 +1,548 @@
+{
+  "slug": "ny-jfk",
+  "city": "New York",
+  "citySlug": "jfk",
+  "state": "NY",
+  "stateName": "New York",
+  "airportCode": "JFK",
+  "airportName": "John F. Kennedy International Airport",
+  "focus": "",
+  "lastUpdated": "2026-11-18",
+  "intro": "This page covers JFK\u2019s official lots \u2014 the Long-Term Parking Lot, the Terminal 4 Blue, Terminal 5 Yellow, and Terminal 8 Red lots, and the reservation-only Federal Circle Station Lot \u2014 with daily rates copied from the airport\u2019s parking page on November 18, 2026. Below that are eight off-airport options whose addresses, hours, and shuttle facts come from each operator\u2019s own site, including two lots the airport lists as authorized off-airport providers. Rates here are dated snapshots, not live quotes.",
+  "officialBookingUrl": "https://parking.jfkairport.com/book/JFK/Parking",
+  "officialLots": [
+    {
+      "name": "Long-Term Parking Lot",
+      "category": "official",
+      "area": "On-airport; AirTrain to the terminals from this lot. The airport\u2019s FAQs say long-term parking is near Lefferts Boulevard Station.",
+      "access": "AirTrain to the terminals",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Daily opening hours were not listed on the official parking page checked November 18, 2026."
+      },
+      "driveUpDailyMax": "$45 24-hour maximum",
+      "prebookRate": "As low as $35 per day",
+      "hourlyOrIncrement": "",
+      "rateNotes": "The official table is labeled \u201cDrive-Up Rate\u201d and \u201cPrebook Rate (Book At Least 3 Hours in Advance).\u201d",
+      "heightRestriction": "11'6\"",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.jfkairport.com/book/JFK/Parking",
+      "visitNotes": "The airport says you can take AirTrain to the terminals from this lot. Vehicles parked more than 30 days must be registered with ABM Parking or may be treated as abandoned.",
+      "sources": [
+        {
+          "label": "Official JFK parking page",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Terminal 4 Blue Lot",
+      "category": "official",
+      "area": "On-airport terminal garage at Terminal 4",
+      "access": "The airport\u2019s FAQs say each terminal station is next to its short-term parking lot.",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Daily opening hours were not listed on the official parking page checked November 18, 2026."
+      },
+      "driveUpDailyMax": "$82 24-hour maximum",
+      "prebookRate": "As low as $66 per day",
+      "hourlyOrIncrement": "Drive-up: $6 for 1/2 hour; $12 for each additional half hour or fraction thereof (over a three-hour stay)",
+      "rateNotes": "The official table is labeled \u201cDrive-Up Rate\u201d and \u201cPrebook Rate (Book At Least 3 Hours in Advance).\u201d",
+      "heightRestriction": "6'4\"",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.jfkairport.com/book/JFK/Parking",
+      "visitNotes": "The airport says parking availability is reduced during construction, and that prebook discounts are also available in the adjacent Red Garage. Restricted-mobility parkers with a valid ADA placard or tag do not need to prebook.",
+      "sources": [
+        {
+          "label": "Official JFK parking page",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Terminal 5 Yellow Lot",
+      "category": "official",
+      "area": "On-airport terminal garage at Terminal 5",
+      "access": "The airport\u2019s FAQs say each terminal station is next to its short-term parking lot.",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Daily opening hours were not listed on the official parking page checked November 18, 2026."
+      },
+      "driveUpDailyMax": "$75 per day 24-hour maximum",
+      "prebookRate": "As low as $59 per day",
+      "hourlyOrIncrement": "Drive-up: $6 for 1/2 hour; $12 for each additional half hour or fraction thereof (over a three-hour stay)",
+      "rateNotes": "The official table is labeled \u201cDrive-Up Rate\u201d and \u201cPrebook Rate (Book At Least 3 Hours in Advance).\u201d The airport also says Level 2 ChargePoint charging in this lot is free, but you must still pay to enter the lot.",
+      "heightRestriction": "Level 1 (surface under garage): 8'2\"; levels 2 and above: 7'6\"",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.jfkairport.com/book/JFK/Parking",
+      "visitNotes": "Level 2 ChargePoint chargers are in this lot, according to the official parking page.",
+      "sources": [
+        {
+          "label": "Official JFK parking page",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Terminal 8 Red Lot",
+      "category": "official",
+      "area": "On-airport terminal garage at Terminal 8",
+      "access": "The airport\u2019s FAQs say each terminal station is next to its short-term parking lot.",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Daily opening hours were not listed on the official parking page checked November 18, 2026."
+      },
+      "driveUpDailyMax": "$70 24-hour maximum",
+      "prebookRate": "As low as $56 per day",
+      "hourlyOrIncrement": "Drive-up: $6 for 1/2 hour; $12 for each additional half hour or fraction thereof (over a three-hour stay)",
+      "rateNotes": "The official table is labeled \u201cDrive-Up Rate\u201d and \u201cPrebook Rate (Book At Least 3 Hours in Advance).\u201d",
+      "heightRestriction": "Level 1 (surface under garage): 8'2\"; levels 2 and above: 7'6\"",
+      "reservationRequired": false,
+      "bookingUrl": "https://parking.jfkairport.com/book/JFK/Parking",
+      "visitNotes": "The airport recommends this lot if you are using Terminal 1.",
+      "sources": [
+        {
+          "label": "Official JFK parking page",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Federal Circle Station Lot",
+      "category": "official",
+      "area": "On-airport, at Federal Circle AirTrain",
+      "access": "Uncovered path to AirTrain",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "Daily opening hours were not listed on the official parking page checked November 18, 2026."
+      },
+      "driveUpDailyMax": "N/A",
+      "prebookRate": "As low as $45 per day",
+      "hourlyOrIncrement": "",
+      "rateNotes": "The official table lists the drive-up 24-hour maximum as N/A. Prebook requires a reservation at least 3 hours in advance.",
+      "heightRestriction": "",
+      "reservationRequired": true,
+      "bookingUrl": "https://parking.jfkairport.com/book/JFK/Parking",
+      "visitNotes": "Available by reservation only, subject to availability. The airport says no ADA discounts are available at this lot, and the path to AirTrain is uncovered.",
+      "sources": [
+        {
+          "label": "Official JFK parking page",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    }
+  ],
+  "listings": [
+    {
+      "name": "SmartPark JFK",
+      "category": "offsite",
+      "area": "South Ozone Park",
+      "address": "123-10 South Conduit Ave., South Ozone Park, NY 11420",
+      "phone": "(877) 535-7275",
+      "website": "https://smartparkparking.com/",
+      "bookingUrl": "https://smartparkparking.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator says it serves JFK 24 hours a day, 365 days a year."
+      },
+      "shuttle": "The operator\u2019s FAQ says shuttles leave for the airport terminals every few minutes and drop you at the departure level of your airline. The trip is described as about 7 minutes; the lot is about 1.5 miles from the terminal. On return, call (877) 535-PARK after you have your luggage.",
+      "offers": [
+        "Valet parking",
+        "Free online reservations",
+        "On-demand shuttle"
+      ],
+      "offersNotes": "The operator says it is officially licensed by the New York City Department of Consumer Affairs and a certified vendor of the Port Authority of NY/NJ. JFK\u2019s official parking page lists SmartPark JFK as an authorized off-airport option.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": true,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Payment is made when you return for the vehicle, according to the FAQ. Standard reservations do not require a credit card, the operator says.",
+      "feeNotes": "Rate as listed on November 18, 2026: $27.99 per day, plus a 10.375% New York City parking tax and a 6.625% Airport Use Recovery Fee. Rates are calculated on a 24-hour day from check-in. Confirm the price when you book; this is not a live quote.",
+      "sources": [
+        {
+          "label": "SmartPark JFK homepage",
+          "url": "https://smartparkparking.com/"
+        },
+        {
+          "label": "SmartPark JFK FAQ",
+          "url": "https://smartparkparking.com/frequently-asked-questions/"
+        },
+        {
+          "label": "Official JFK authorized off-airport list",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "JFK Long Term Parking Inc. (AirPark JFK)",
+      "category": "offsite",
+      "area": "South Ozone Park",
+      "address": "122-02 South Conduit Ave, South Ozone Park, NY 11420",
+      "phone": "(718) 843-8400",
+      "website": "https://jfklongtermparking.com/",
+      "bookingUrl": "https://jfklongtermparking.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator\u2019s site says \u201cOpen 24/7 365 Days a Year.\u201d"
+      },
+      "shuttle": "The operator says complimentary shuttle service operates around the clock between the facility and the airport terminals, with luggage assistance on request. The FAQ says shuttles run continuously, 24 hours a day, 7 days a week, 365 days a year, and that the lot is about 5 minutes from the terminals.",
+      "offers": [
+        "Valet-style check-in",
+        "Complimentary 24/7 shuttle",
+        "Short-term and long-term parking"
+      ],
+      "offersNotes": "The operator\u2019s homepage says \u201cAirpark Kennedy Is Now Located at JFK Longterm Parking.\u201d JFK\u2019s official parking page lists \u201cAirPark JFK/JFK Long-Term Parking Inc.\u201d as an authorized off-airport option and links to this operator. The official table shows a different phone number, +1 (718) 898-8400; the operator\u2019s JFK listing uses (718) 843-8400, which is the number published on its own site.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": true,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The operator says reservations can be made without a credit card, and that the lot is licensed by the Port Authority of NY & NJ.",
+      "feeNotes": "Rate as listed on November 18, 2026: $18.95/plus tax for Kennedy (JFK). Confirm the price when you book; this is not a live quote.",
+      "sources": [
+        {
+          "label": "JFK Long Term Parking homepage",
+          "url": "https://jfklongtermparking.com/"
+        },
+        {
+          "label": "JFK Long Term Parking FAQ",
+          "url": "https://jfklongtermparking.com/faqs/"
+        },
+        {
+          "label": "Official JFK authorized off-airport list",
+          "url": "https://www.jfkairport.com/transportation/airport-parking"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Safe Park JFK",
+      "category": "offsite",
+      "area": "Jamaica, Queens",
+      "address": "151-67 North Conduit Ave., Jamaica, NY 11434",
+      "phone": "718-276-1000",
+      "website": "https://www.safeparkparkingjfk.com/",
+      "bookingUrl": "https://www.safeparkparkingjfk.com/",
+      "hours": {
+        "monday": "12:00 AM\u201311:45 PM",
+        "tuesday": "12:00 AM\u201311:45 PM",
+        "wednesday": "12:00 AM\u201311:45 PM",
+        "thursday": "12:00 AM\u201311:45 PM",
+        "friday": "12:00 AM\u201311:45 PM",
+        "saturday": "12:00 AM\u201311:45 PM",
+        "sunday": "12:00 AM\u201311:45 PM",
+        "notes": "The operator\u2019s hours table lists 12:00 am\u201311:45 pm each day. The same homepage also says \u201cOpen 24/7.\u201d"
+      },
+      "shuttle": "The operator\u2019s homepage advertises \u201c24/7 Free Valet and shuttle service.\u201d Shuttle frequency was not published on the pages we checked.",
+      "offers": [
+        "Valet",
+        "Free shuttle",
+        "Free online reservations",
+        "Short-term and long-term parking"
+      ],
+      "offersNotes": "The operator says one day is the minimum stay, and that a $5 fee is added for oversized vehicles.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The operator warns of heavier traffic because of ongoing construction at JFK and asks travelers to allow extra time. This lot is not on the airport\u2019s authorized off-airport table.",
+      "feeNotes": "Rate as listed on November 18, 2026: $27.95/day + tax, with every 7th day free as advertised on the homepage. Confirm the price when you book; this is not a live quote.",
+      "sources": [
+        {
+          "label": "Safe Park JFK homepage",
+          "url": "https://www.safeparkparkingjfk.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "FlyPark JFK (The Parking Point)",
+      "category": "offsite",
+      "area": "Springfield Gardens",
+      "address": "15057 183rd Street, Springfield Gardens, NY 11413",
+      "phone": "+1 (347) 960-7065",
+      "website": "https://flyparkjfk.com/",
+      "bookingUrl": "https://flyparkjfk.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator says the lot is open 24 hours a day, 7 days a week, including holidays."
+      },
+      "shuttle": "The operator says a free round-trip shuttle runs 24 hours a day. Pickup frequency was not published on the operator\u2019s own homepage we checked.",
+      "offers": [
+        "Compound valet parking",
+        "Free round-trip shuttle",
+        "Pay later at the lot or online"
+      ],
+      "offersNotes": "The operator says free valet is included with every reservation, and that no upfront payment is required to reserve.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "This lot is not on the airport\u2019s authorized off-airport table. A second phone number, +1 (347) 960-7095, also appears on the operator\u2019s site.",
+      "feeNotes": "The homepage advertised a \u201c$12.99 starting daily rate\u201d when checked on November 18, 2026. That is a starting figure, not a live quote for your dates. Confirm the price when you book.",
+      "sources": [
+        {
+          "label": "FlyPark JFK homepage",
+          "url": "https://flyparkjfk.com/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Prime Park JFK",
+      "category": "offsite",
+      "area": "South Ozone Park",
+      "address": "15115 Lefferts Blvd, South Ozone Park, NY 11420",
+      "phone": "(800) 884-0153",
+      "website": "https://prime-park.com/jfk-airport-parking/",
+      "bookingUrl": "https://prime-park.com/jfk-airport-parking/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator says the facility is monitored 24/7. Daily opening hours were not published as a 24-hour schedule on the page we checked."
+      },
+      "shuttle": "The operator says complimentary shuttle service to and from JFK is included for all customers. Frequency and late-night rules were not published on the page we checked.",
+      "offers": [
+        "Complimentary shuttle",
+        "Short-term and long-term parking",
+        "24/7 monitored facility"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "This lot is not on the airport\u2019s authorized off-airport table.",
+      "feeNotes": "The operator says it offers competitive short-term and long-term rates but did not publish a single daily figure on the JFK page we checked. Confirm pricing on the operator\u2019s site when you book.",
+      "sources": [
+        {
+          "label": "Prime Park JFK page",
+          "url": "https://prime-park.com/jfk-airport-parking/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "ARB Parking JFK",
+      "category": "offsite",
+      "area": "South Ozone Park",
+      "address": "128-20 152nd Ave, South Ozone Park, NY 11420, USA",
+      "phone": "(718) 480-6663",
+      "website": "https://www.arbpark.com/",
+      "bookingUrl": "https://www.arbpark.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The JFK FAQ says ARB Parking operates 24 hours a day, 365 days a year. The homepage also advertises 24/7 availability."
+      },
+      "shuttle": "The operator advertises a 24/7 free shuttle. The JFK FAQ says the trip usually takes about 5 minutes, that shuttles leave every few minutes, and that they drop you at the departure level of your airline. On return, call 718-480-6663 after you have your luggage. A second phone number, (718) 480-6664, is also listed on the homepage.",
+      "offers": [
+        "Free 24/7 shuttle",
+        "Short-term and long-term parking",
+        "Free cancellation options as published"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The FAQ says payment is made at check-in, and that a 3-hour grace period after the 24-hour day applies only to reservations made directly with ARB Parking. This lot is not on the airport\u2019s authorized off-airport table.",
+      "feeNotes": "The operator advertises a lowest-price guarantee but did not publish a single daily figure on the pages we checked. Confirm pricing on the operator\u2019s site when you book.",
+      "sources": [
+        {
+          "label": "ARB Parking homepage",
+          "url": "https://www.arbpark.com/"
+        },
+        {
+          "label": "ARB Parking JFK FAQ",
+          "url": "https://www.arbpark.com/Home/FAQ_JFK"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Courtyard by Marriott New York JFK Airport",
+      "category": "hotel",
+      "area": "Jamaica, Queens",
+      "address": "145-11 North Conduit Avenue, Jamaica, New York, USA, 11436",
+      "phone": "+1 718-848-2121",
+      "website": "https://www.marriott.com/en-us/hotels/nycjf-courtyard-new-york-jfk-airport/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/nycjf-courtyard-new-york-jfk-airport/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel lists a gated lot with 24-hour in/out privileges for valet parking. A separate 24-hour public lot schedule was not published."
+      },
+      "shuttle": "The hotel\u2019s official page says a complimentary 24-hour JFK shuttle is available. To reserve a spot, it says to call 718-848-2121 or use https://trackmyshuttle.com/a/2121/q. The hotel is listed as 0.5 miles from JFK.",
+      "offers": [
+        "Park & Fly package",
+        "Valet parking",
+        "Complimentary 24-hour airport shuttle"
+      ],
+      "offersNotes": "The official hotel page describes Park & Fly as: \u201cBook a one-night hotel stay and receive five consecutive days of secure parking.\u201d Regular valet is also listed separately.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel says valet parking is very limited. This is a hotel package, not a standalone parking lot. The official page also says the hotel does not have EV charging stations.",
+      "feeNotes": "Regular valet as listed on November 18, 2026: $50.00 per day. The Park & Fly package terms quoted above do not include a separate cash price on that overview page. Confirm current package and valet prices when you book; these are not live quotes.",
+      "sources": [
+        {
+          "label": "Official Courtyard New York JFK Airport page",
+          "url": "https://www.marriott.com/en-us/hotels/nycjf-courtyard-new-york-jfk-airport/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Marriott New York JFK Airport",
+      "category": "hotel",
+      "area": "Jamaica, Queens",
+      "address": "135-25 142nd Street, Jamaica, New York, USA, 11436",
+      "phone": "+1 718-848-2552",
+      "website": "https://www.marriott.com/en-us/hotels/nycxk-marriott-new-york-jfk-airport/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/nycxk-marriott-new-york-jfk-airport/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The property lists 24-hour services. A separate daily parking-lot hours schedule was not published on the overview page we checked."
+      },
+      "shuttle": "The official page says the complimentary airport shuttle from the hotel runs every 30 minutes on the top and bottom of the hour, with no reservation needed. From the airport, it says to take AirTrain to Federal Circle and request pickup at TrackMyShuttle.com/2552. The hotel is listed as 0.5 miles from JFK.",
+      "offers": [
+        "Park N Fly package",
+        "Valet parking",
+        "Complimentary airport shuttle"
+      ],
+      "offersNotes": "The official overview mentions a \u201cconvenient Park N Fly package\u201d but does not spell out how many parking days are included. We did not invent those terms.",
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "This is a hotel package, not a standalone parking lot. The official page says the hotel does not have EV charging and does not allow pets (service animals only).",
+      "feeNotes": "Valet as listed on November 18, 2026: $55.00 per day; oversized vehicles $65.00 per day. Confirm current valet and Park N Fly prices when you book; these are not live quotes.",
+      "sources": [
+        {
+          "label": "Official Marriott New York JFK Airport page",
+          "url": "https://www.marriott.com/en-us/hotels/nycxk-marriott-new-york-jfk-airport/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
