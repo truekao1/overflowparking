@@ -1,0 +1,691 @@
+{
+  "slug": "ga-atl",
+  "city": "Atlanta",
+  "citySlug": "atl",
+  "state": "GA",
+  "stateName": "Georgia",
+  "airportCode": "ATL",
+  "airportName": "Hartsfield-Jackson Atlanta International Airport",
+  "focus": "",
+  "lastUpdated": "2026-11-18",
+  "intro": "This page covers ATL’s official Domestic Hourly, Daily, Economy, Park-Ride, ATL West Deck, ATL Select, International Hourly, and International Park Ride lots, with daily rates copied from the official Hartsfield-Jackson parking pages on November 18, 2026. Below that are eight off-airport shuttle lots from four operators whose addresses, shuttle rules, and terminal coverage come from each operator’s own site; we chose operators that publish a street address and shuttle details. Many off-airport lots serve the Domestic Terminal only, so check terminal coverage before you book an international trip. Rates here are dated snapshots, not live quotes.",
+  "officialBookingUrl": "https://myparkatl.com/AtlantaBooking",
+  "officialLots": [
+    {
+      "name": "Domestic Hourly parking (North and South)",
+      "category": "official",
+      "area": "Closest lots to the North and South Domestic Terminal entrances",
+      "address": "",
+      "access": "Walk to the Domestic Terminal",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official ATL parking page says the Airport offers 24/7 parking at the Domestic and International terminals."
+      },
+      "driveUpDailyMax": "$50 maximum for the first day; $75 maximum each additional day",
+      "prebookRate": "",
+      "hourlyOrIncrement": "$10 per hour (official details page)",
+      "rateNotes": "Official rates as listed on 2026-11-18. The official page describes hourly parking as ideal for picking up or dropping off. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://www.atl.com/parking/",
+      "visitNotes": "Hourly lots are not listed among the reservable lots on the official page.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Domestic Daily parking (covered deck)",
+      "category": "official",
+      "area": "4-level overnight deck directly across from each domestic terminal",
+      "address": "",
+      "access": "Walk to the Domestic Terminal",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official ATL parking page says the Airport offers 24/7 parking at the Domestic and International terminals."
+      },
+      "driveUpDailyMax": "$30 per day (flat rate)",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "Official rate as listed on 2026-11-18. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://www.atl.com/parking/",
+      "visitNotes": "First come, first served, according to the official page.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Domestic Economy parking (North)",
+      "category": "official",
+      "area": "North Economy, next to the domestic parking decks",
+      "address": "",
+      "access": "Next to the domestic parking decks, according to the official page. The official page does not spell out terminal access for this lot; follow on-site signs.",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official ATL parking page says the Airport offers 24/7 parking at the Domestic and International terminals."
+      },
+      "driveUpDailyMax": "$20 per day (flat rate)",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "Official rate as listed on 2026-11-18. The official EV list says South Economy is temporarily closed. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://www.atl.com/parking/",
+      "visitNotes": "First come, first served. Not listed among the reservable lots.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Domestic Park-Ride",
+      "category": "official",
+      "area": "Domestic Park-Ride lot (official drive-cam routes reach it from I-85, I-75, Camp Creek Parkway, and Riverdale Road)",
+      "address": "",
+      "access": "Complimentary shuttle, according to the official parking overview",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official page does not publish separate hours for this lot."
+      },
+      "driveUpDailyMax": "$15 per day (flat rate)",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "Official rate as listed on 2026-11-18. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://www.atl.com/parking/",
+      "visitNotes": "",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "ATL West Parking Deck",
+      "category": "official",
+      "area": "ATL West, near the Rental Car Center",
+      "address": "4199 Skytrain Way, College Park, GA 30337",
+      "access": "SkyTrain from level 4 of the deck; the official page says it is a 3–5 minute SkyTrain ride to check-in and arrivals",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official page does not publish separate hours for this deck."
+      },
+      "driveUpDailyMax": "$30 per day",
+      "prebookRate": "",
+      "hourlyOrIncrement": "$10 per hour (official details page)",
+      "rateNotes": "Official rates as listed on 2026-11-18. Ticketless: the system reads your license plate on entry and exit. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://myparkatl.com/AtlantaBooking",
+      "visitNotes": "Online reservations are available for this deck through the official ParkATL site, for stays over 24 hours and booked at least 24 hours ahead.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        },
+        {
+          "label": "Official ParkATL reservation site",
+          "url": "https://myparkatl.com/AtlantaBooking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "ATL Select",
+      "category": "official",
+      "area": "Sullivan Road, College Park",
+      "address": "1800 Sullivan Rd, College Park, GA 30337",
+      "access": "Complimentary shuttle, according to the official parking overview",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official page does not publish separate hours for this lot."
+      },
+      "driveUpDailyMax": "$15 per day uncovered; $20 per day covered; $40 per day oversized vehicles (flat rates)",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "Official rates as listed on 2026-11-18. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://myparkatl.com/AtlantaBooking",
+      "visitNotes": "Reservable through the official ParkATL site; credit-card entry is available here, according to the official page.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        },
+        {
+          "label": "Official ParkATL reservation site",
+          "url": "https://myparkatl.com/AtlantaBooking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "International Hourly parking",
+      "category": "official",
+      "area": "Deck steps from international check-in and arrivals, off Maynard H. Jackson Jr. Boulevard",
+      "address": "",
+      "access": "Walk to the International Terminal",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The official ATL parking page says the Airport offers 24/7 parking at the Domestic and International terminals."
+      },
+      "driveUpDailyMax": "$70 maximum for the first day; $100 maximum each additional day",
+      "prebookRate": "",
+      "hourlyOrIncrement": "$10 first hour; $15 per hour for hours 2–5 (official details page)",
+      "rateNotes": "Official rates as listed on 2026-11-18. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://myparkatl.com/AtlantaBooking",
+      "visitNotes": "The official page says the deck has more than 1,100 spaces and that online reservations are available here.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        },
+        {
+          "label": "Official ParkATL reservation site",
+          "url": "https://myparkatl.com/AtlantaBooking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "International Park Ride (covered deck)",
+      "category": "official",
+      "area": "Maynard H. Jackson Jr. Boulevard, just west of Loop Road",
+      "address": "",
+      "access": "Free shuttle, about a three-minute ride to the international terminal Departures level; pickup at the Arrivals level on return",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official page says the free shuttle is available 24 hours a day; it does not separately publish lot hours."
+      },
+      "driveUpDailyMax": "$30 per day (flat rate)",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "rateNotes": "Official rate as listed on 2026-11-18. The official page lists the lost-ticket fee as the maximum daily rate plus duration of stay.",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "bookingUrl": "https://myparkatl.com/AtlantaBooking",
+      "visitNotes": "The official page lists 2,400 spaces and says online reservations are available here.",
+      "sources": [
+        {
+          "label": "Official ATL parking page (rates table)",
+          "url": "https://www.atl.com/parking/"
+        },
+        {
+          "label": "Official ATL parking details page (rates effective May 1, 2025)",
+          "url": "https://www.atl.com/parking-old/"
+        },
+        {
+          "label": "Official ParkATL reservation site",
+          "url": "https://myparkatl.com/AtlantaBooking"
+        }
+      ],
+      "rateAsOf": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    }
+  ],
+  "listings": [
+    {
+      "name": "The Parking Spot 1 (Camp Creek Parkway)",
+      "category": "offsite",
+      "area": "Camp Creek Parkway at Potomac Drive, off I-85 exit 72; 2.4 miles to the airport per the operator",
+      "address": "2741 Camp Creek Parkway, Atlanta, GA 30337",
+      "phone": "404.761.3300",
+      "website": "https://www.theparkingspot.com/locations/atlanta",
+      "bookingUrl": "https://www.theparkingspot.com/locations/atlanta",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator's Atlanta page does not publish daily lot hours."
+      },
+      "shuttle": "Shuttle picks you up at your vehicle. Serves both the Domestic and International terminals. The operator says domestic shuttles run every few minutes and international shuttles run every 30 minutes from the International Covered area.",
+      "offers": [
+        "Uncovered",
+        "Covered",
+        "Premium covered",
+        "International covered"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The only one of the operator's four Atlanta lots with International Terminal service. Park in the International Covered area for that shuttle.",
+      "feeNotes": "The operator's page says prices depend on your dates and the reservation tool; no dated rate was copied.",
+      "sources": [
+        {
+          "label": "The Parking Spot Atlanta locations page",
+          "url": "https://www.theparkingspot.com/locations/atlanta"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The Parking Spot 2 (Desert Drive)",
+      "category": "offsite",
+      "area": "Camp Creek Parkway at Desert Drive, off I-285 exit 2; 3.2 miles to the airport per the operator",
+      "address": "3600 N. Desert Drive, East Point, GA 30344",
+      "phone": "404.761.7711",
+      "website": "https://www.theparkingspot.com/locations/atlanta",
+      "bookingUrl": "https://www.theparkingspot.com/locations/atlanta",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator's Atlanta page does not publish daily lot hours."
+      },
+      "shuttle": "Shuttle picks you up at your vehicle. Domestic Terminal service only, according to the operator.",
+      "offers": [
+        "Uncovered",
+        "Covered",
+        "Premium covered"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Domestic Terminal only.",
+      "feeNotes": "The operator's page says prices depend on your dates and the reservation tool; no dated rate was copied.",
+      "sources": [
+        {
+          "label": "The Parking Spot Atlanta locations page",
+          "url": "https://www.theparkingspot.com/locations/atlanta"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The Parking Spot Fly (Conley Street)",
+      "category": "offsite",
+      "area": "Camp Creek Parkway at Conley Street, off I-85 exit 72; 0.8 miles to the airport per the operator",
+      "address": "3950 Conley St, College Park, GA 30337",
+      "phone": "404.763.3185",
+      "website": "https://www.theparkingspot.com/locations/atlanta",
+      "bookingUrl": "https://www.theparkingspot.com/locations/atlanta",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator's Atlanta page does not publish daily lot hours."
+      },
+      "shuttle": "Shuttle picks you up at your vehicle. Domestic Terminal service only, according to the operator.",
+      "offers": [
+        "Uncovered",
+        "Premium uncovered"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Formerly Park N Fly Atlanta, according to the operator's FAQ. Domestic Terminal only.",
+      "feeNotes": "The operator's page says prices depend on your dates and the reservation tool; no dated rate was copied.",
+      "sources": [
+        {
+          "label": "The Parking Spot Atlanta locations page",
+          "url": "https://www.theparkingspot.com/locations/atlanta"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "The Parking Spot Plus (Camp Creek Parkway)",
+      "category": "offsite",
+      "area": "Camp Creek Parkway and Herschel Road, off I-85 exit 72; 2.0 miles to the airport per the operator",
+      "address": "2525 Camp Creek Pkwy, College Park, GA 30337",
+      "phone": "404.761.0364",
+      "website": "https://www.theparkingspot.com/locations/atlanta",
+      "bookingUrl": "https://www.theparkingspot.com/locations/atlanta",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator's Atlanta page does not publish daily lot hours."
+      },
+      "shuttle": "Shuttle picks you up at your vehicle. Domestic Terminal service only, according to the operator.",
+      "offers": [
+        "Uncovered",
+        "Covered",
+        "Covered valet",
+        "Uncovered valet"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Formerly Park N Fly Plus, according to the operator's FAQ. The operator lists Jiffy Lube, pet boarding, car wash services, and a gas station on the premises.",
+      "feeNotes": "The operator's page says prices depend on your dates and the reservation tool; no dated rate was copied.",
+      "sources": [
+        {
+          "label": "The Parking Spot Atlanta locations page",
+          "url": "https://www.theparkingspot.com/locations/atlanta"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Peachy Airport Parking — Outdoor lot (Sylvan Road)",
+      "category": "offsite",
+      "area": "Sylvan Road, north of the airport",
+      "address": "3100 Sylvan Rd, Atlanta, GA 30354",
+      "phone": "404-767-7275",
+      "website": "https://www.peachyairportparking.com/",
+      "bookingUrl": "https://www.peachyairportparking.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator's outdoor-lot page says the free shuttle runs 24 hours a day, but it does not state lot hours for the outdoor lot itself."
+      },
+      "shuttle": "Free shuttle to the Domestic Terminal only, 24 hours a day, according to the operator. The operator says it does not run shuttles from the outdoor lot to the International Terminal. Domestic pickup is Row D, Space 4 in the off-airport shuttle area outside Door W-1 (North) or W-2 (South).",
+      "offers": [
+        "Outdoor self-park",
+        "Extra-wide spaces"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The operator lists 1,500 outdoor spaces and a gated, well-lit lot. Book the covered or indoor lot for international departures.",
+      "feeNotes": "The operator says outdoor rates vary by length of stay and season; no dated rate was copied.",
+      "sources": [
+        {
+          "label": "Peachy Airport Parking home page",
+          "url": "https://www.peachyairportparking.com/"
+        },
+        {
+          "label": "Peachy outdoor parking page",
+          "url": "https://www.peachyairportparking.com/services/atlanta-outdoor-parking/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Peachy Airport Parking — Covered and Indoor (Sylvan Road)",
+      "category": "offsite",
+      "area": "Sylvan Road, across the street from the Peachy outdoor lot entrance",
+      "address": "3025 Sylvan Road, Atlanta, GA 30354",
+      "phone": "404-767-7275",
+      "website": "https://www.peachyairportparking.com/",
+      "bookingUrl": "https://www.peachyairportparking.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator says its covered and indoor facilities are open 24 hours a day, 7 days a week."
+      },
+      "shuttle": "Free, climate-controlled shuttle 24 hours a day to the Domestic and International terminals, according to the operator. Domestic and international covered lots each have their own shuttle, so book the lot for your departure terminal.",
+      "offers": [
+        "Covered parking",
+        "Indoor parking",
+        "EV charging (Level 1 indoor with your own cord; Level 2 in Building A of Covered)"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": true,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Entry uses license-plate recognition and QR codes, according to the operator. The operator says free Level 1 charging during an indoor reservation is a rewards-member benefit.",
+      "feeNotes": "No dated rate was copied.",
+      "sources": [
+        {
+          "label": "Peachy Airport Parking home page",
+          "url": "https://www.peachyairportparking.com/"
+        },
+        {
+          "label": "Peachy covered parking page",
+          "url": "https://www.peachyairportparking.com/services/atlanta-covered-parking/"
+        },
+        {
+          "label": "Peachy indoor parking page",
+          "url": "https://www.peachyairportparking.com/services/atlanta-indoor-parking/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "PreFlight Airport Parking ATL",
+      "category": "offsite",
+      "area": "Global Gateway Connector, College Park",
+      "address": "4000 Global Gateway Connector, College Park, GA 30337",
+      "phone": "(404) 767-8000",
+      "website": "https://www.preflightairportparking.com/location/ATL",
+      "bookingUrl": "https://www.preflightairportparking.com/location/ATL",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator's ATL page does not publish lot hours. It says airport pickups between midnight and 7:00 AM require a call or text."
+      },
+      "shuttle": "Free shuttle every 7–10 minutes with real-time tracking, picking up and dropping off at your vehicle, according to the operator. Domestic pickup is space D3 at the Ground Transportation Center; between midnight and 7:00 AM call (404) 767-8000 or text (312) 533-8796. International service requires a Covered (International Only) reservation and parking in rows R, S, V, or W; that shuttle runs on the hour and 30 minutes after the hour.",
+      "offers": [
+        "Covered domestic self-park",
+        "Covered international parking",
+        "Uncovered domestic self-park",
+        "EV charging (120V outlet, bring your own charger, based on availability)"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Call 24 hours ahead for a wheelchair-accessible shuttle, according to the operator.",
+      "feeNotes": "No dated rate was copied.",
+      "sources": [
+        {
+          "label": "PreFlight Airport Parking ATL location page",
+          "url": "https://www.preflightairportparking.com/location/ATL"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "name": "Park'N Ticket",
+      "category": "offsite",
+      "area": "Conley Street, College Park; 1.2 miles to the Domestic Terminal per the operator",
+      "address": "3945 Conley Street, College Park, GA 30337",
+      "phone": "(404) 669-3800",
+      "website": "https://parknticket.com/",
+      "bookingUrl": "https://parknticket.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator's FAQ says it is open 24/7 all year and always has a person on site."
+      },
+      "shuttle": "Shuttles run continuously 24 hours a day, according to the operator. International Terminal service is limited to 6:00 AM–9:00 PM daily; outside those hours, take the ATL airport bus to the Domestic Terminal. Domestic return pickup is South Ground Transportation slot D2; international pickup is lower-level Door A2 (call after clearing customs).",
+      "offers": [
+        "Uncovered self parking",
+        "Covered self parking",
+        "International parking",
+        "Valet"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Independently owned and not affiliated with the airport, according to the operator. Drive-up is accepted; reservations require a 2-day minimum.",
+      "feeNotes": "The operator says charges run on a 24-hour clock, hourly up to the fourth hour and a full day rate after that. Oversized vehicles are $20 per day, as listed on 2026-11-18 (call first to confirm space).",
+      "sources": [
+        {
+          "label": "Park'N Ticket home page",
+          "url": "https://parknticket.com/"
+        },
+        {
+          "label": "Park'N Ticket FAQ",
+          "url": "https://parknticket.com/faqs/"
+        }
+      ],
+      "lastChecked": "2026-11-18"
+    }
+  ]
+}
