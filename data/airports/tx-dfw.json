@@ -1,0 +1,501 @@
+{
+  "slug": "tx-dfw",
+  "city": "Dallas–Fort Worth",
+  "citySlug": "dfw",
+  "state": "TX",
+  "stateName": "Texas",
+  "airportCode": "DFW",
+  "airportName": "Dallas Fort Worth International Airport",
+  "focus": "",
+  "lastUpdated": "2026-11-19",
+  "intro": "This page covers DFW’s official Terminal garages, Express North, Remote North and South, and DFW Airport Valet, with rates copied from the official DFW parking pages on November 19, 2026 (tables labeled effective October 1, 2026). Below those are eight off-airport options: The Parking Spot’s three DFW lots, an independent Euless lot, and four Irving hotels whose own pages describe a park-and-fly package. We chose operators that publish a street address and shuttle details on their own pages; this is a sample, not every lot near the airport. Shuttle hours vary a lot here, from 24/7 to a 6 AM–11 PM window, so check before a late flight. Rates are dated snapshots, not live quotes.",
+  "officialBookingUrl": "https://www.dfwairport.com/park/",
+  "officialLots": [
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "The official page says prebooking can save up to 50% off TollTag rates; no dated prebook rate was copied.",
+      "hourlyOrIncrement": "Credit card at exit: 0–8 min $15.00; 8–30 min $3.00; 30–60 min $5.00; 1–2 hrs $7.00; 2–4 hrs $13.00; 4–6 hrs $18.00 (TollTag rates are lower)",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "name": "Terminal Parking (garages at Terminals A–E)",
+      "area": "Garages directly next to each of DFW’s five terminals",
+      "access": "Walk to the terminal",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official DFW parking pages do not publish lot opening hours; they list late-night shuttle call numbers for Express and Remote. The Terminal page says Terminal C’s south garage section has been closed for construction since 9/14/24; central and north sections remain open."
+      },
+      "driveUpDailyMax": "$40.00 per 6–24 hours paying by credit card at exit; $37.00 with TollTag",
+      "rateNotes": "Official rates as listed on 2026-11-19 (table labeled effective October 1, 2026). No cash accepted; major credit cards and NTTA TollTags with a card on file only. Parking is limited to 90 days.",
+      "bookingUrl": "https://www.dfwairport.com/park/",
+      "visitNotes": "Garages A, D, and E have a digital parking guidance system. The official page says EV charging is available for Valet customers in every terminal and in select locations in Terminals A and E.",
+      "sources": [
+        {
+          "label": "Official DFW Terminal Parking page (rates effective October 1, 2026)",
+          "url": "https://www.dfwairport.com/park/terminal/"
+        },
+        {
+          "label": "Official DFW Prebooked Parking page",
+          "url": "https://www.dfwairport.com/park/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "The official page says prebooking can save up to 50% off TollTag rates; no dated prebook rate was copied.",
+      "hourlyOrIncrement": "0–2 hrs $4.00; 2–4 hrs $5.00; 4–6 hrs $8.00",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "name": "Express North (covered and uncovered)",
+      "area": "Near the North airport entry/exit",
+      "access": "Free shuttle with pickup at your vehicle’s trunk to all terminals; average ride 4–5 minutes per the official page",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official DFW parking pages do not publish lot opening hours; they list late-night shuttle call numbers for Express and Remote. The Express page says guests must call +1-972-574-7500 between 11 p.m. and 5 a.m."
+      },
+      "driveUpDailyMax": "Uncovered: $22.00 per 6–24 hours by credit card ($20.00 TollTag). Covered: $25.00 per 6–24 hours by credit card ($23.00 TollTag)",
+      "rateNotes": "Official rates as listed on 2026-11-19 (table labeled effective October 1, 2026). No cash accepted. Parking is limited to 90 days.",
+      "bookingUrl": "https://www.dfwairport.com/park/",
+      "visitNotes": "Express drop-off and pick-up areas are on the lower level of each terminal.",
+      "sources": [
+        {
+          "label": "Official DFW Express Parking page (rates effective October 1, 2026)",
+          "url": "https://www.dfwairport.com/park/express/"
+        },
+        {
+          "label": "Official DFW Prebooked Parking page",
+          "url": "https://www.dfwairport.com/park/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "The official page says prebooking can save up to 50% off TollTag rates; no dated prebook rate was copied.",
+      "hourlyOrIncrement": "0–2 hrs $3.00; 2–4 hrs $4.00; 4–6 hrs $6.00",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "name": "Remote North and Remote South",
+      "area": "Just before the North and South airport entry/exits",
+      "access": "Free non-stop shuttle bus to every terminal",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official DFW parking pages do not publish lot opening hours; they list late-night shuttle call numbers for Express and Remote. The Remote page says guests must call +1-972-973-3838 between 12 a.m. and 5 a.m."
+      },
+      "driveUpDailyMax": "$16.00 per 6–24 hours by credit card at exit; $14.00 with TollTag",
+      "rateNotes": "Official rates as listed on 2026-11-19 (table labeled effective October 1, 2026). The official page calls Remote its most economical on-airport option. No cash accepted. Parking is limited to 90 days.",
+      "bookingUrl": "https://www.dfwairport.com/park/",
+      "visitNotes": "Remote drop-off and pick-up areas are on the lower level of each terminal.",
+      "sources": [
+        {
+          "label": "Official DFW Remote North and South Lots page (rates effective October 1, 2026)",
+          "url": "https://www.dfwairport.com/park/remote/"
+        },
+        {
+          "label": "Official DFW Prebooked Parking page",
+          "url": "https://www.dfwairport.com/park/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-19",
+      "lastChecked": "2026-11-19",
+      "name": "DFW Airport Valet",
+      "area": "Arrivals level (Level 3) of Terminals A, B, C, and E; Departures curb at Terminal D",
+      "access": "Hand off your car at the terminal",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official Valet page does not publish valet stand hours."
+      },
+      "driveUpDailyMax": "$55 per day",
+      "rateNotes": "Official rate as listed on 2026-11-19 (labeled effective October 1, 2026). Prebooked Parking discounts are not valid for valet. Cash is not accepted.",
+      "bookingUrl": "https://www.dfwairport.com/park/valet/",
+      "visitNotes": "Valet stands are in the 1-hour zones of the garages at A15, A20, A29, B9, B30, C7, C21, E7 (reservation drop-off only), E17, and E28, and curbside at D30 and D18. Reservations and help: +1-972-574-2407. Car wash and detail services are offered.",
+      "sources": [
+        {
+          "label": "Official DFW Valet page (rate effective October 1, 2026)",
+          "url": "https://www.dfwairport.com/park/valet/"
+        }
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "name": "The Parking Spot North",
+      "category": "offsite",
+      "area": "Off TX-114 (John Carpenter Fwy) north of the airport; 2.8 miles to the airport per the operator",
+      "address": "4505 Plaza Drive, Irving, TX 75063",
+      "phone": "972.426.5239",
+      "website": "https://www.theparkingspot.com/locations/dallas/dfw",
+      "bookingUrl": "https://www.theparkingspot.com/locations/dallas/dfw",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator’s DFW page does not publish lot hours. It says its shuttle services are 24/7."
+      },
+      "shuttle": "Shuttle picks you up at your vehicle. The operator says its shuttle services are 24/7.",
+      "offers": [
+        "Standard uncovered",
+        "Standard covered (8' clearance)",
+        "Car wash"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Entrance is on Plaza Drive, around the corner from the Holiday Inn Express & Suites Irving DFW Airport.",
+      "feeNotes": "The operator’s page says DFW rates start at $9/day for Basic Parking at DFW South (as listed on 2026-11-19); other prices depend on your dates in the reservation tool.",
+      "sources": [
+        {
+          "label": "The Parking Spot DFW locations page",
+          "url": "https://www.theparkingspot.com/locations/dallas/dfw"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The Parking Spot South",
+      "category": "offsite",
+      "area": "Just south of TX-183 (Airport Fwy); 2.9 miles to the airport per the operator",
+      "address": "1945 Valley View Lane, Irving, TX 75061",
+      "phone": "972.399.7768",
+      "website": "https://www.theparkingspot.com/locations/dallas/dfw",
+      "bookingUrl": "https://www.theparkingspot.com/locations/dallas/dfw",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator’s DFW page does not publish lot hours. It says its shuttle services are 24/7."
+      },
+      "shuttle": "Standard parkers are picked up at their vehicle. Basic parkers walk to the Basic Shuttle Pickup Area and are returned there. The operator says its shuttle services are 24/7.",
+      "offers": [
+        "Standard uncovered",
+        "Standard covered (7'1\" clearance)",
+        "Basic uncovered"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The operator says this lot suits drivers coming from Fort Worth, Arlington, and the mid-cities. Basic Parking is pay-now and non-refundable per the operator’s FAQ.",
+      "feeNotes": "The operator’s page says DFW rates start at $9/day for Basic Parking at DFW South (as listed on 2026-11-19); other prices depend on your dates in the reservation tool.",
+      "sources": [
+        {
+          "label": "The Parking Spot DFW locations page",
+          "url": "https://www.theparkingspot.com/locations/dallas/dfw"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "The Parking Spot Premium",
+      "category": "offsite",
+      "area": "Off TX-114 (John Carpenter Fwy) at the Freeport Pkwy exit; 3.5 miles to the airport per the operator",
+      "address": "5100 W. John Carpenter Fwy., Irving, TX 75063",
+      "phone": "972.915.3672",
+      "website": "https://www.theparkingspot.com/locations/dallas/dfw",
+      "bookingUrl": "https://www.theparkingspot.com/locations/dallas/dfw",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator’s DFW page does not publish lot hours. It says its shuttle services are 24/7."
+      },
+      "shuttle": "Shuttle picks you up at your vehicle; the operator says Premium guests are dropped off first and picked up closest to the terminals. Shuttle services are 24/7 per the operator.",
+      "offers": [
+        "Premium covered (13' clearance)",
+        "Premium extra-wide uncovered",
+        "Premium extra-wide covered",
+        "Car wash"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Entrance is on W John Carpenter Freeway, just west of the Best Western Plus DFW Airport Suites. Extra-wide spaces suit large vehicles.",
+      "feeNotes": "The operator’s page does not publish a dated Premium rate; prices depend on your dates in the reservation tool.",
+      "sources": [
+        {
+          "label": "The Parking Spot DFW locations page",
+          "url": "https://www.theparkingspot.com/locations/dallas/dfw"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "DFW Airport Parking by Ausby",
+      "category": "offsite",
+      "area": "Euless, about 4 miles from DFW per the operator",
+      "address": "977 Del Paso St, 2nd Level, Euless, TX 76040",
+      "phone": "(214) 494-1744",
+      "website": "https://dfwairportparkingbyausby.com/",
+      "bookingUrl": "https://dfwairportparkingbyausby.com/",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours",
+        "notes": "The operator’s page says the facility is open 24/7, 365 days a year."
+      },
+      "shuttle": "Optional complimentary shuttle run by an independent third-party operator to all DFW terminals (A–E). It must be booked in advance (call at least 30 minutes before pickup). After-hours service from 9:31 PM to 9:59 AM costs an additional fee, per the operator.",
+      "offers": [
+        "Self-park on a second-level facility",
+        "Optional third-party shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "The operator calls itself a parking-only company; shuttle concerns go to the shuttle provider. The same site also lists 1001 W Euless Blvd, 2nd Level, Euless, TX 76040 as a contact address, so confirm the entrance when you book.",
+      "feeNotes": "No dated rate was copied; the booking tool quotes by date.",
+      "sources": [
+        {
+          "label": "DFW Airport Parking by Ausby official site",
+          "url": "https://dfwairportparkingbyausby.com/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Courtyard by Marriott Dallas DFW Airport North/Irving",
+      "category": "hotel",
+      "area": "Irving, north of the airport; 2.5 miles from DFW per the hotel page",
+      "address": "4949 Regent Boulevard, Irving, TX 75063",
+      "phone": "+1 972-929-4004",
+      "website": "https://www.marriott.com/en-us/hotels/dfwcy-courtyard-dallas-dfw-airport-north-irving/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/dfwcy-courtyard-dallas-dfw-airport-north-irving/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Free shuttle to and from DFW on request; call +1 972-929-4004 with your terminal and gate after you collect bags. Shuttle hours are 4:30 AM–11:00 PM per the hotel page.",
+      "offers": [
+        "Park & Fly long-term parking",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says to check its park-and-fly packages and lists long-term parking.",
+      "feeNotes": "Park & Fly as listed on 2026-11-19: $10 per day for the first 7 days, and $5 per day for days of 7 or more.",
+      "sources": [
+        {
+          "label": "Courtyard Dallas DFW Airport North/Irving official hotel page",
+          "url": "https://www.marriott.com/en-us/hotels/dfwcy-courtyard-dallas-dfw-airport-north-irving/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Residence Inn by Marriott Dallas DFW Airport North/Irving",
+      "category": "hotel",
+      "area": "Freeport Business Park, Irving; 3.5 miles from DFW per the hotel page",
+      "address": "8600 Esters Blvd., Irving, TX 75063",
+      "phone": "+1 972-871-1331",
+      "website": "https://www.marriott.com/en-us/hotels/dfwra-residence-inn-dallas-dfw-airport-north-irving/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/dfwra-residence-inn-dallas-dfw-airport-north-irving/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary DFW airport shuttle on request (+1 972-871-1331). The hotel page does not publish shuttle hours.",
+      "offers": [
+        "Park and Fly long-term parking",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page lists long-term parking and says to contact Sales for RV and bus parking.",
+      "feeNotes": "Park and Fly as listed on 2026-11-19: $35/week. The same page lists self-parking at $12 per day (effective October 24, 2022).",
+      "sources": [
+        {
+          "label": "Residence Inn Dallas DFW Airport North/Irving official hotel page",
+          "url": "https://www.marriott.com/en-us/hotels/dfwra-residence-inn-dallas-dfw-airport-north-irving/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Candlewood Suites DFW Airport North – Irving",
+      "category": "hotel",
+      "area": "Irving, north of the airport; about 2.3 miles from DFW per the hotel page",
+      "address": "5000 Plaza Drive, Irving, TX 75063",
+      "phone": "+1-469-472-9400",
+      "website": "https://www.ihg.com/candlewood/hotels/us/en/irving/dfwrn/hoteldetail",
+      "bookingUrl": "https://www.ihg.com/candlewood/hotels/us/en/irving/dfwrn/hoteldetail",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary DFW shuttle 4:00 AM–12:00 AM daily per the hotel page. At the airport, head downstairs to ground transportation, look for the purple pillar, and call 469-472-9400.",
+      "offers": [
+        "Park, Stay and Go package",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "Parking is for registered guests; leaving your car while you fly requires the park-and-fly package.",
+      "feeNotes": "The hotel page says Park, Stay and Go packages are available at an additional cost; no rate is published.",
+      "sources": [
+        {
+          "label": "Candlewood Suites DFW Airport North – Irving official hotel page (IHG)",
+          "url": "https://www.ihg.com/candlewood/hotels/us/en/irving/dfwrn/hoteldetail"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Dallas Ft. Worth Airport South",
+      "category": "hotel",
+      "area": "Off TX-183 at the south entrance of DFW; about 1 mile from DFW per the hotel page",
+      "address": "4235 West Airport Freeway, Irving, TX 75062",
+      "phone": "+1-972-659-1272",
+      "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/irving/dfwwf/hoteldetail",
+      "bookingUrl": "https://www.ihg.com/holidayinnexpress/hotels/us/en/irving/dfwwf/hoteldetail",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary DFW shuttle 6:00 AM–11:00 PM daily per the hotel page; call the hotel for pickup information.",
+      "offers": [
+        "Park and fly package",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says no extended parking is available unless the park-and-fly package is purchased.",
+      "feeNotes": "The hotel page says to ask about Park and Stay rates; no rate is published.",
+      "sources": [
+        {
+          "label": "Holiday Inn Express & Suites DFW Airport South official hotel page (IHG)",
+          "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/irving/dfwwf/hoteldetail"
+        }
+      ],
+      "lastChecked": "2026-11-19"
+    }
+  ]
+}
