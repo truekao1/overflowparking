@@ -1,0 +1,635 @@
+{
+  "slug": "il-ord",
+  "city": "Chicago",
+  "citySlug": "ord",
+  "state": "IL",
+  "stateName": "Illinois",
+  "airportCode": "ORD",
+  "airportName": "Chicago O’Hare International Airport",
+  "focus": "",
+  "lastUpdated": "2026-11-20",
+  "intro": "This page covers O’Hare’s official Main Garage and Lots B and C, the Terminal 5 garage and Lot D, Economy Lots F, G, and H, Premier Parking, and Reserved Parking. Rates were copied from the Chicago Department of Aviation’s official parking pages on November 20, 2026. Below those are nine off-airport options: six independent lots in Schiller Park and Franklin Park, a Rosemont hotel lot booked through The Parking Spot, and two hotels whose own pages describe a park-and-fly offer. We chose operators that publish a street address on their own pages; this is a sample, not every lot near the airport. O’Hare sends all off-airport shuttles to the Terminal 2 Arrivals curb, and several lots say they run 24/7, while the Marriott partner lot’s shuttle stops at 11 PM, so check before a late flight. Rates are dated snapshots, not live quotes.",
+  "officialBookingUrl": "https://ohareparking.flychicago.com/book/ORD/Parking",
+  "officialLots": [
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "0–1 hr $3.00; 1–2 hrs $6.00; 2–3 hrs $10.00; 3–4 hrs $14.00; 4–8 hrs $36.00",
+      "heightRestriction": "Main garage 6'6\"; Lot B 9'0\"; Lot C 8'5\"",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "name": "Main Garage daily parking (Levels 2–6) and Lots B and C",
+      "area": "Main garage and adjacent outdoor Lots B and C, next to domestic Terminals 1, 2, and 3",
+      "access": "Walk to Terminals 1–3",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official O’Hare parking pages do not publish lot opening hours. Hourly parking is on Level 1 of the main garage."
+      },
+      "driveUpDailyMax": "$43.00 per 8–24 hours",
+      "rateNotes": "Official rates as listed on 2026-11-20. The official page does not recommend the main garage for extended overnight stays because its daily rates are higher than the Economy lots. Payments are made to the cashier on exit; the official page lists cash and major credit cards. Rates include all taxes. Parking over 30 days must be arranged in advance with the Parking Garage Office at (773) 686-7530 or the vehicle may be towed.",
+      "bookingUrl": "https://www.flychicago.com/ohare/tofrom/parking/Pages/maindaily.aspx",
+      "visitNotes": "Note which level you parked on before leaving the garage, as the official page advises.",
+      "sources": [
+        {
+          "label": "Official O’Hare Main Garage – Daily page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/maindaily.aspx"
+        },
+        {
+          "label": "Official O’Hare Daily Lot page (Lots B and C)",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/daily.aspx"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "0–1 hr $3.00; 1–2 hrs $6.00; 2–3 hrs $10.00; 3–4 hrs $14.00; 4–8 hrs $36.00",
+      "heightRestriction": "Terminal 5 garage 8'6\"",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "name": "Terminal 5 Parking Garage and Lot D",
+      "area": "Next to the International Terminal 5",
+      "access": "Enclosed pedestrian bridge from the garage to Terminal 5",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official O’Hare parking pages do not publish lot opening hours."
+      },
+      "driveUpDailyMax": "$43.00 per 8–24 hours",
+      "rateNotes": "Official rates as listed on 2026-11-20. Payments are made to the cashier on exit; the official page lists cash and major credit cards. Rates include all taxes. Parking over 30 days must be arranged in advance with the Parking Garage Office at (773) 686-7530 or the vehicle may be towed.",
+      "bookingUrl": "https://www.flychicago.com/ohare/tofrom/parking/Pages/Terminal5.aspx",
+      "visitNotes": "The official page says the six-story garage has about 1,700 spaces, parking-assist signs showing real-time availability, and 48 Level II EV charging stations (20 on Level 1, 10 on Level 2, 10 on Level 3, and 8 on Level 4). Surface Lot D next door offers outdoor parking.",
+      "sources": [
+        {
+          "label": "Official O’Hare Terminal 5 Parking Garage and Lot D page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/Terminal5.aspx"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "10255 W. Zemke Blvd., Chicago, IL 60666",
+      "prebookRate": "",
+      "hourlyOrIncrement": "0–1 hr $3.00; 1–2 hrs $6.00; 2–3 hrs $10.00; 3–4 hrs $14.00",
+      "heightRestriction": "8'4\"",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "name": "Economy Lot F (Multi-Modal Facility, covered)",
+      "area": "Floors 4 and 5 of the Multi-Modal Facility, southeast corner of Mannheim and Zemke Rd",
+      "access": "Free Airport Transit System (ATS) train to all terminals",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official O’Hare parking pages do not publish lot opening hours. The Economy page says the ATS and economy shuttle buses run every 5–10 minutes, 24 hours a day."
+      },
+      "driveUpDailyMax": "$30.00 per 4–24 hours",
+      "rateNotes": "Official rates as listed on 2026-11-20. Payments are made to the cashier on exit; the official page lists cash and major credit cards. Rates include all taxes. Parking over 30 days must be arranged in advance with the Parking Garage Office at (773) 686-7530 or the vehicle may be towed.",
+      "bookingUrl": "https://www.flychicago.com/ohare/tofrom/parking/Pages/economy.aspx",
+      "visitNotes": "The official page calls Lot F a long-term covered option and lists 24 Level II EV charging stations on Level 4 (Rows G–J). Reserved spaces are on Level 4.",
+      "sources": [
+        {
+          "label": "Official O’Hare Economy Parking page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/economy.aspx"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "0–1 hr $3.00",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "name": "Economy Lots G and H",
+      "area": "Along Bessie Coleman Drive near Mannheim and Zemke Rd, north of Terminal 5",
+      "access": "Shuttle bus to the Multi-Modal Facility, then the free ATS train to all terminals",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official O’Hare parking pages do not publish lot opening hours. The Economy page says the ATS and economy shuttle buses run every 5–10 minutes, 24 hours a day. The two official pages describe Lot H’s location differently: the Economy page says the southeast corner of Mannheim and Zemke Rd, while the General Parking page says the northeast corner of Bessie Coleman and Coffey Rd."
+      },
+      "driveUpDailyMax": "$16.00 per 1–24 hours",
+      "rateNotes": "Official rates as listed on 2026-11-20. The official page calls Lot G the cheapest on-airport parking. The General Parking page marks Lot H as credit card only. Payments are made to the cashier on exit; the official page lists cash and major credit cards. Rates include all taxes. Parking over 30 days must be arranged in advance with the Parking Garage Office at (773) 686-7530 or the vehicle may be towed.",
+      "bookingUrl": "https://www.flychicago.com/ohare/tofrom/parking/Pages/economy.aspx",
+      "visitNotes": "The shuttle buses from Lots G and H make their last stop at the Multi-Modal Facility, where you board the ATS.",
+      "sources": [
+        {
+          "label": "Official O’Hare Economy Parking page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/economy.aspx"
+        },
+        {
+          "label": "Official O’Hare General Parking Information page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/general.aspx"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "name": "Premier Parking (Main Garage)",
+      "area": "Main Parking Garage, under 300 feet from Terminals 1 and 3",
+      "access": "Walk to Terminal 1 or Terminal 3",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official O’Hare parking pages do not publish lot opening hours. Follow signs for Hourly Parking at the Main Garage, then signs for Premier Parking."
+      },
+      "driveUpDailyMax": "$63 per day, including all taxes and fees",
+      "rateNotes": "Official rate as listed on 2026-11-20. Spaces are covered and first-come, first-served; no advance booking.",
+      "bookingUrl": "https://www.flychicago.com/ohare/tofrom/parking/Pages/Premier-Parking-Info.aspx",
+      "visitNotes": "The official page says Terminal 1 is United’s main departure terminal and Terminal 3 is American’s.",
+      "sources": [
+        {
+          "label": "Official O’Hare Premier Parking page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/Premier-Parking-Info.aspx"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "$10 per space, per day reservation fee, plus the regular parking rate, taxes, and fees",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "",
+      "reservationRequired": true,
+      "rateAsOf": "2026-11-20",
+      "lastChecked": "2026-11-20",
+      "name": "Reserved Parking (Main Garage, Terminal 5 Garage, Economy Lot F)",
+      "area": "Level 4 of the Main Garage, Level 2 of the Terminal 5 garage, and Level 4 of Economy Lot F",
+      "access": "Depends on the garage: walk (Main Garage, Terminal 5) or ATS train (Lot F)",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The official O’Hare parking pages do not publish lot opening hours."
+      },
+      "rateNotes": "Official fee as listed on 2026-11-20. The official page says reserved spaces are covered and guaranteed even when the garage is full.",
+      "bookingUrl": "https://ohareparking.flychicago.com/book/ORD/Parking",
+      "visitNotes": "Book on the official reservation site. Point-to-point directions come with the reservation.",
+      "sources": [
+        {
+          "label": "Official O’Hare Reserved Parking page",
+          "url": "https://www.flychicago.com/ohare/tofrom/parking/Pages/reserved.aspx"
+        },
+        {
+          "label": "Official O’Hare parking reservation site",
+          "url": "https://ohareparking.flychicago.com/book/ORD/Parking"
+        }
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "category": "offsite",
+      "phone": "(847) 678-9000",
+      "website": "https://ohareblueskyparking.com/",
+      "offersNotes": "",
+      "visitNotes": "The operator says no deposit is needed to reserve and payment is due at pickup. It recommends arriving 45–60 minutes before you want to be at the terminal.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "O’Hare Blue Sky Parking",
+      "area": "Schiller Park, about 5 minutes from the terminals per the operator",
+      "address": "10415 United Parkway, Schiller Park, IL 60176",
+      "bookingUrl": "https://ohareblueskyparking.com/",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The operator’s FAQ says it operates 24 hours a day, 7 days a week, with shuttle and valet staff around the clock."
+      },
+      "shuttle": "Free 24/7 shuttle to all terminals. Average wait is 10–15 minutes depending on traffic, per the operator. On return, call (847) 678-9000 with your ticket number; pickup is at Terminal 2 Door #2A (middle lane) for Terminals 1–3 and Door #5E at Terminal 5.",
+      "offers": [
+        "Indoor covered valet",
+        "Outdoor open-air valet",
+        "Free 24/7 shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "O’Hare Blue Sky Parking official site",
+          "url": "https://ohareblueskyparking.com/"
+        }
+      ]
+    },
+    {
+      "category": "offsite",
+      "phone": "847-678-9234",
+      "website": "https://www.preflightairportparking.com/site/location/ORD",
+      "offersNotes": "The operator lists EV charging as a 120V outlet, based on availability, and you bring your own charger.",
+      "visitNotes": "Wheelchair-accessible shuttles should be requested at least 24 hours ahead at 847-678-9234.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "PreFlight Airport Parking O’Hare",
+      "area": "Mannheim Rd, Schiller Park; a 7–15 minute shuttle ride per the operator",
+      "address": "4155 Mannheim Road, Schiller Park, IL 60176",
+      "bookingUrl": "https://www.preflightairportparking.com/site/location/ORD",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator lists customer service hours as open 24/7 but does not publish lot hours separately."
+      },
+      "shuttle": "Free shuttle every 7–10 minutes with real-time tracking, per the operator. From Terminals 1, 2, and 3 between midnight and 8:00 AM, call 847.678.9234 or text 224.330.9402 for pickup. From the International Terminal, call after customs and go to the lower level, outer curb, outside door 5E.",
+      "offers": [
+        "Economy covered (floors 2 and 3)",
+        "Premium covered (ground floor, widest spaces)",
+        "Rooftop parking",
+        "Free shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "PreFlight Airport Parking O’Hare location page",
+          "url": "https://www.preflightairportparking.com/site/location/ORD"
+        }
+      ]
+    },
+    {
+      "category": "offsite",
+      "phone": "(847) 671-7275",
+      "website": "https://parknjetchicago.com/",
+      "offersNotes": "",
+      "visitNotes": "The operator says it is family-owned and has served O’Hare since 1997, with fenced, well-lit lots. It suggests arriving 20 minutes before you want to be at the airport.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "Park N Jet O’Hare",
+      "area": "Mannheim Rd, Schiller Park; 7–10 minute drive to the terminals per the operator",
+      "address": "4005 Mannheim Rd, Schiller Park, IL 60176",
+      "bookingUrl": "https://parknjetchicago.com/",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The operator’s FAQ says it is open 24/7/365 and staffed 24/7."
+      },
+      "shuttle": "Free shuttles to the domestic and international terminals; the ride is 7–10 minutes per the operator. Call or text when you land; your drop-off ticket lists the number. Drivers drop you off and pick you up at your vehicle.",
+      "offers": [
+        "Self-park",
+        "Valet (same price as self-park)",
+        "Free shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "Park N Jet Chicago official site",
+          "url": "https://parknjetchicago.com/"
+        }
+      ]
+    },
+    {
+      "category": "offsite",
+      "phone": "",
+      "website": "https://www.ohareparking.com/",
+      "offersNotes": "",
+      "visitNotes": "The site does not show a phone number in its page text; use the booking page or directions link.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "One Spot Airport Valet",
+      "area": "River St, Schiller Park; about 6 minutes from the airport per the operator",
+      "address": "9500 River St, Schiller Park, IL 60176",
+      "bookingUrl": "https://www.ohareparking.com/",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The operator advertises 24/7 security and access."
+      },
+      "shuttle": "Complimentary shuttle 24/7/365, per the operator. See the shuttle instructions on its site.",
+      "offers": [
+        "Covered indoor parking",
+        "Outdoor uncovered parking",
+        "Full valet service",
+        "Free 24/7 shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "One Spot O’Hare Parking & Valet official site",
+          "url": "https://www.ohareparking.com/"
+        }
+      ]
+    },
+    {
+      "category": "offsite",
+      "phone": "847-678-1234",
+      "website": "https://www.pride-parking.com/",
+      "offersNotes": "The operator says no payment is needed to reserve, you pay at check-in, and it gives a 7% discount for cash.",
+      "visitNotes": "",
+      "feeNotes": "Car delivery to the terminal (6 AM–9 PM) $40, as listed on 2026-11-20. Daily valet rates on the operator’s prices page vary by length of stay; check the page for current rates.",
+      "lastChecked": "2026-11-20",
+      "name": "Pride Airport Parking",
+      "area": "Mannheim Rd, Franklin Park, near O’Hare",
+      "address": "3950 Mannheim Rd, Franklin Park, IL",
+      "bookingUrl": "https://www.pride-parking.com/reserve.html",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The operator’s FAQ says it is open 24/7."
+      },
+      "shuttle": "Free shuttle to and from the airport. The operator says waits can be 10–30 minutes or longer depending on the time of day.",
+      "offers": [
+        "Outdoor valet",
+        "Free shuttle",
+        "Car delivery to the terminal",
+        "Car wash and detailing"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": true,
+        "open24Hours": true,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "Pride Airport Parking FAQ",
+          "url": "https://www.pride-parking.com/faq.html"
+        },
+        {
+          "label": "Pride Airport Parking services page",
+          "url": "https://www.pride-parking.com/services.html"
+        },
+        {
+          "label": "Pride Airport Parking contact page",
+          "url": "https://www.pride-parking.com/contact-us.html"
+        }
+      ]
+    },
+    {
+      "category": "offsite",
+      "phone": "(847) 671-4000",
+      "website": "https://www.routesairportparking.com/",
+      "offersNotes": "",
+      "visitNotes": "The directions page gives routes from O’Hare via I-190 and O’Hare Way to Mannheim Rd.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "Routes Airport Parking Chicago",
+      "area": "Mannheim Rd, Schiller Park",
+      "address": "3901 Mannheim Rd., Schiller Park, IL 60176",
+      "bookingUrl": "https://www.routesairportparking.com/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator’s site does not publish lot hours."
+      },
+      "shuttle": "The operator’s site does not describe its shuttle; call (847) 671-4000 before you book.",
+      "offers": [
+        "Online reservations"
+      ],
+      "flags": {
+        "shuttle": false,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "Routes Airport Parking reservations page",
+          "url": "https://www.routesairportparking.com/"
+        },
+        {
+          "label": "Routes Airport Parking directions page",
+          "url": "https://www.routesairportparking.com/directions/"
+        }
+      ]
+    },
+    {
+      "category": "offsite",
+      "phone": "847.696.4400",
+      "website": "https://www.theparkingspot.com/locations/chicago/ord",
+      "offersNotes": "",
+      "visitNotes": "The Parking Spot says this lot is a partner location that it does not own or operate, and Spot Club points do not apply. Book through The Parking Spot’s ORD page.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "Chicago Marriott Suites O’Hare (The Parking Spot partner lot)",
+      "area": "N River Rd, Rosemont; 2.6 miles to the airport per The Parking Spot",
+      "address": "6155 N River Rd, Rosemont, IL 60018",
+      "bookingUrl": "https://www.theparkingspot.com/locations/chicago/ord",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The Parking Spot’s page does not publish lot hours. It says the shuttle runs from 5:00 AM to 11:00 PM."
+      },
+      "shuttle": "Shuttle to the terminals from 5:00 AM to 11:00 PM, per The Parking Spot’s page.",
+      "offers": [
+        "Uncovered open-air parking",
+        "Shuttle to terminal",
+        "Luggage assistance",
+        "Online reservations"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "sources": [
+        {
+          "label": "The Parking Spot ORD partner page",
+          "url": "https://www.theparkingspot.com/locations/chicago/ord"
+        }
+      ]
+    },
+    {
+      "category": "hotel",
+      "phone": "+1-844-382-7378",
+      "website": "https://www.hilton.com/en/hotels/ordrbup-the-rose-hotel-chicago-ohare/hotel-location/",
+      "offersNotes": "",
+      "visitNotes": "The hotel page says parking is not covered or secured, valet and EV charging are not available, and in/out privileges are available.",
+      "feeNotes": "On-site self-parking $37.00 per day, as listed on 2026-11-20. Package prices are not published on the page.",
+      "lastChecked": "2026-11-20",
+      "name": "The Rose Hotel Chicago O’Hare, Tapestry Collection by Hilton",
+      "area": "Rosemont, 2 miles from O’Hare per the hotel page",
+      "address": "5200 Pearl Street, Rosemont, IL 60018",
+      "bookingUrl": "https://www.hilton.com/en/hotels/ordrbup-the-rose-hotel-chicago-ohare/hotel-location/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours."
+      },
+      "shuttle": "Complimentary airport shuttle; call for pickup, per the hotel page.",
+      "offers": [
+        "Stay, Park and Fly packages",
+        "On-site self-parking",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "sources": [
+        {
+          "label": "The Rose Hotel official Hilton location page",
+          "url": "https://www.hilton.com/en/hotels/ordrbup-the-rose-hotel-chicago-ohare/hotel-location/"
+        }
+      ]
+    },
+    {
+      "category": "hotel",
+      "phone": "",
+      "website": "http://www.ohareinnsuites.com/chicago-area-hotels/hotel-ohare-airport.html",
+      "offersNotes": "",
+      "visitNotes": "The hotel’s own page is titled “Sleep Park and Fly By Ohare Airport” but does not list package prices or terms. Call the hotel to confirm before you book.",
+      "feeNotes": "",
+      "lastChecked": "2026-11-20",
+      "name": "O’Hare Inn & Suites",
+      "area": "Mannheim Rd, Schiller Park; 2 miles from the terminals per the hotel",
+      "address": "4101 Mannheim Rd, Schiller Park, IL 60176",
+      "bookingUrl": "http://www.ohareinnsuites.com/chicago-area-hotels/hotel-ohare-airport.html",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours."
+      },
+      "shuttle": "Courtesy shuttle to and from the airport, and within 2.5 miles of the hotel, per the hotel page. Shuttle hours are not published.",
+      "offers": [
+        "Sleep, park and fly",
+        "Courtesy airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "sources": [
+        {
+          "label": "O’Hare Inn & Suites official park-and-fly page",
+          "url": "http://www.ohareinnsuites.com/chicago-area-hotels/hotel-ohare-airport.html"
+        }
+      ]
+    }
+  ]
+}
