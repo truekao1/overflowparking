@@ -1,0 +1,638 @@
+{
+ "slug": "co-den",
+ "city": "Denver",
+ "citySlug": "den",
+ "state": "CO",
+ "stateName": "Colorado",
+ "airportCode": "DEN",
+ "airportName": "Denver International Airport",
+ "focus": "",
+ "lastUpdated": "2026-11-21",
+ "intro": "This page covers DEN’s official East and West Garages, Premium Reserve, the East and West Economy lots, the Pikes Peak shuttle lot (with Longs Peak as overflow), and the 61st and Peña lot, with rates copied from DEN’s own parking pages on November 21, 2026 (61st and Peña from DEN’s rate table effective May 14, 2025). Below those are nine off-airport options: six shuttle lots that DEN’s official parking page lists by name — The Parking Spot West and South, Canopy, Fine Airport Parking, ParkDIA, and Park2Jet — plus three Tower Road-area hotels whose own pages describe a park-and-fly package. WallyPark is also on DEN’s list, but we could not load its own page to verify details, so it is not included yet. Several lots moved airport pickups to the east side in November 2026, so check the pickup door before you land. Rates are dated snapshots, not live quotes.",
+ "officialBookingUrl": "https://www.flydenver.com/parking-and-transportation/parking-lots/",
+ "officialLots": [
+  {
+   "name": "East and West Garages",
+   "category": "official",
+   "area": "Garages adjacent to Jeppesen Terminal on the east and west sides",
+   "address": "",
+   "access": "Walk to the terminal",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "DEN does not publish garage opening hours on its parking pages."
+   },
+   "driveUpDailyMax": "$35 per day",
+   "prebookRate": "No prebooking for regular garage spaces; DEN says reservations are only available in Premium Reserve.",
+   "hourlyOrIncrement": "$7 per hour for 1–5 hours, up to the $35 daily maximum",
+   "rateNotes": "Official rates as listed on 2026-11-21: the Premium Reserve page lists Regular Garage at $35/day (covered on Levels 1–4, uncovered on Level 5). The hourly rate comes from DEN’s rate table effective May 14, 2025. Cash is accepted only at Level 5 kiosks (doors 504/506 west, 507/509 east). Lost ticket: charged the facility’s daily maximum.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.flydenver.com/parking-and-transportation/parking-lots/",
+   "visitNotes": "The official page lists 36 free EV charging stations on Level 1 of the garages (standard parking rates apply). ADA parking is on Level 1 of the West Garage and Levels 1, 2, 4, and 5 of the East Garage per the DEN parking guide. Garage and Economy lots have a seven-minute grace period. Vehicles parked over 30 days need advance approval.",
+   "sources": [
+    {
+     "label": "Official DEN Parking Lots page",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    },
+    {
+     "label": "Official DEN Premium Reserve page (rate comparison table)",
+     "url": "https://www.flydenver.com/reserveparking/"
+    },
+    {
+     "label": "Official DEN press release with the rate table effective May 14, 2025",
+     "url": "https://www.flydenver.com/press-release/den-to-change-parking-rates-effective-may-14/"
+    },
+    {
+     "label": "Official DEN parking guide (October 6, 2026)",
+     "url": "https://www.flydenver.com/blog/den-parking-guide-which-parking-lot-is-right-for-your-trip/"
+    }
+   ],
+   "rateAsOf": "2026-11-21",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Premium Reserve (East and West, Arrivals Level 4)",
+   "category": "official",
+   "area": "Arrivals Level 4 in the East and West garages",
+   "address": "",
+   "access": "Walk to the terminal (1–5 minutes per DEN)",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "Hours are not published. Reservations are made 24 hours to 90 days ahead, and you may enter up to 3 hours before your reservation starts."
+   },
+   "driveUpDailyMax": "",
+   "prebookRate": "$45 per day plus a one-time $5 reservation fee (as listed on 2026-11-21)",
+   "hourlyOrIncrement": "Overstays are charged at $45 per additional day",
+   "rateNotes": "Official rate as listed on 2026-11-21 on the Premium Reserve page. Operated by LAZ Parking in partnership with DEN. Cancel up to 15 minutes before the reserved arrival; reservations cannot be modified, only canceled and rebooked.",
+   "heightRestriction": "",
+   "reservationRequired": true,
+   "bookingUrl": "https://go.lazparking.com/flydenver/park",
+   "visitNotes": "Covered, guaranteed spaces closest to the terminal near security. Entry is by QR code with license plate recognition.",
+   "sources": [
+    {
+     "label": "Official DEN Premium Reserve page (rate comparison table)",
+     "url": "https://www.flydenver.com/reserveparking/"
+    }
+   ],
+   "rateAsOf": "2026-11-21",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "East and West Economy Lots",
+   "category": "official",
+   "area": "Surface lots adjacent to the East and West garages",
+   "address": "",
+   "access": "Walk, or free DEN shuttle (every 7–10 minutes, 24/7)",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "DEN does not publish lot opening hours on its parking pages. Its parking FAQ says the free lot shuttles operate 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$20 per day",
+   "prebookRate": "No prebooking; DEN says reservations are only available in Premium Reserve.",
+   "hourlyOrIncrement": "Flat daily rate; no hourly rate published",
+   "rateNotes": "Official rate as listed on 2026-11-21 on the Premium Reserve page (Economy Lots $20/day, uncovered, 10–12 minutes to the terminal). Seven-minute grace period on entry.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.flydenver.com/parking-and-transportation/parking-lots/",
+   "visitNotes": "Shuttles pick up at the shelters in the Economy lots. On return, Economy shuttles pick up at the DEN Transit Center on the ground level outside the Westin, reached through the south end of the terminal. DEN notes shuttle stops can change during construction.",
+   "sources": [
+    {
+     "label": "Official DEN Parking Lots page",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    },
+    {
+     "label": "Official DEN Premium Reserve page (rate comparison table)",
+     "url": "https://www.flydenver.com/reserveparking/"
+    },
+    {
+     "label": "Official DEN press release with the rate table effective May 14, 2025",
+     "url": "https://www.flydenver.com/press-release/den-to-change-parking-rates-effective-may-14/"
+    }
+   ],
+   "rateAsOf": "2026-11-21",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Pikes Peak Shuttle Lot (Longs Peak overflow)",
+   "category": "official",
+   "area": "Remote airport-operated shuttle lots",
+   "address": "",
+   "access": "Free DEN shuttle (every 7–10 minutes, 24/7)",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "DEN does not publish lot opening hours. The DEN parking guide says the Longs Peak lot is usually only open during heavy travel periods as overflow for Pikes Peak."
+   },
+   "driveUpDailyMax": "$10 per day",
+   "prebookRate": "No prebooking; DEN says reservations are only available in Premium Reserve.",
+   "hourlyOrIncrement": "Flat daily rate; no hourly rate published",
+   "rateNotes": "Official rate as listed on 2026-11-21 on the Premium Reserve page (Shuttle Lots $10/day, uncovered, 7–15 minutes via shuttle). There is no grace period at Pikes Peak and Longs Peak: if you enter, you are charged to exit.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.flydenver.com/parking-and-transportation/parking-lots/",
+   "visitNotes": "DEN’s Passio Go app shows real-time shuttle locations; QR codes for it are posted at every shuttle stop.",
+   "sources": [
+    {
+     "label": "Official DEN Parking Lots page",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    },
+    {
+     "label": "Official DEN Premium Reserve page (rate comparison table)",
+     "url": "https://www.flydenver.com/reserveparking/"
+    },
+    {
+     "label": "Official DEN parking guide (October 6, 2026)",
+     "url": "https://www.flydenver.com/blog/den-parking-guide-which-parking-lot-is-right-for-your-trip/"
+    },
+    {
+     "label": "Official DEN press release with the rate table effective May 14, 2025",
+     "url": "https://www.flydenver.com/press-release/den-to-change-parking-rates-effective-may-14/"
+    }
+   ],
+   "rateAsOf": "2026-11-21",
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "61st and Peña Lot",
+   "category": "official",
+   "area": "At RTD’s 61st & Peña station",
+   "address": "",
+   "access": "RTD A Line train to the terminal (about 11 minutes per DEN; train fare not included)",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "DEN does not publish lot opening hours."
+   },
+   "driveUpDailyMax": "$8 per day",
+   "prebookRate": "No prebooking; DEN says reservations are only available in Premium Reserve.",
+   "hourlyOrIncrement": "$6 for up to 12 hours",
+   "rateNotes": "Rates from DEN’s official rate table effective May 14, 2025 ($6 for 12 hours, $8 per day); the current parking pages we checked on 2026-11-21 did not restate this lot’s rate, so confirm with DEN’s fee estimator.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.flydenver.com/parking-and-transportation/parking-lots/",
+   "visitNotes": "No DEN shuttle: you ride RTD’s A Line to the airport. The official page lists EV charging stations along the south and west sides of this lot.",
+   "sources": [
+    {
+     "label": "Official DEN press release with the rate table effective May 14, 2025",
+     "url": "https://www.flydenver.com/press-release/den-to-change-parking-rates-effective-may-14/"
+    },
+    {
+     "label": "Official DEN parking guide (October 6, 2026)",
+     "url": "https://www.flydenver.com/blog/den-parking-guide-which-parking-lot-is-right-for-your-trip/"
+    },
+    {
+     "label": "Official DEN Parking Lots page",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "rateAsOf": "2026-11-21",
+   "lastChecked": "2026-11-21"
+  }
+ ],
+ "listings": [
+  {
+   "name": "The Parking Spot West",
+   "category": "offsite",
+   "area": "Commerce City, off E-470 and Tower Rd west of the airport; 7.6 miles to the airport per the operator",
+   "address": "18000 E 81st Ave, Commerce City, CO 80022",
+   "phone": "303.371.7575",
+   "website": "https://www.theparkingspot.com/locations/denver/den",
+   "bookingUrl": "https://www.theparkingspot.com/locations/denver/den",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The operator’s DEN FAQ says all its DEN locations are open 24 hours a day, 7 days a week, 365 days a year, with 24/7 shuttle service."
+   },
+   "shuttle": "Free 24/7 shuttle. Airport pickup on Level 5: Door 511, Island 3 (east) or Door 506, Island 3 (west), per the operator’s FAQ. Look for the blue “West” badge. DEN’s official page lists The Parking Spot West among west-side pickups.",
+   "offers": [
+    "Standard covered (7'6\" clearance)",
+    "Standard uncovered (8'2\" clearance)",
+    "Premium extra-wide covered"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Formerly USAirport Parking. Entrance is on E 81st Ave, directly west of the 7-Eleven on Tower Rd. The operator says it does not offer valet or EV charging in Denver and does not accept cash.",
+   "feeNotes": "No dated rate copied; the operator’s page says to use its booking calendar for current rates.",
+   "sources": [
+    {
+     "label": "The Parking Spot Denver locations page",
+     "url": "https://www.theparkingspot.com/locations/denver/den"
+    },
+    {
+     "label": "Official DEN Parking Lots page (off-airport shuttle parking list)",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "The Parking Spot South",
+   "category": "offsite",
+   "area": "Aurora, on E 56th Ave between the toll road and Peña Blvd, southwest of the airport; 9.7 miles to the airport per the operator",
+   "address": "19901 E 56th Ave, Aurora, CO 80019",
+   "phone": "303.373.4892",
+   "website": "https://www.theparkingspot.com/locations/denver/den",
+   "bookingUrl": "https://www.theparkingspot.com/locations/denver/den",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The operator’s DEN FAQ says all its DEN locations are open 24 hours a day, 7 days a week, 365 days a year, with 24/7 shuttle service."
+   },
+   "shuttle": "Free 24/7 shuttle; Standard customers are picked up at their car, Basic customers at the Basic Shuttle Pickup Area. Airport pickup on Level 5: Door 511, Island 3 (east) or Door 506, Island 3 (west). Look for the red “South” badge.",
+   "offers": [
+    "Standard uncovered (shuttle pickup at your car)",
+    "Basic uncovered (walk to shuttle pickup area)"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "A few blocks east of Sprouts Farmers Market on E 56th Ave. Basic parking is pay-now and non-refundable per the operator. No valet, EV charging, or cash payments in Denver per the operator.",
+   "feeNotes": "No dated rate copied; the operator’s page says to use its booking calendar for current rates.",
+   "sources": [
+    {
+     "label": "The Parking Spot Denver locations page",
+     "url": "https://www.theparkingspot.com/locations/denver/den"
+    },
+    {
+     "label": "Official DEN Parking Lots page (off-airport shuttle parking list)",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Canopy Airport Parking",
+   "category": "offsite",
+   "area": "Commerce City, on Tower Rd",
+   "address": "8100 Tower Rd, Commerce City, CO 80022",
+   "phone": "303.574.9800",
+   "website": "https://canopyairportparking.com/",
+   "bookingUrl": "https://canopyairportparking.com/",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The operator’s FAQ says its shuttle fleet cycles to the airport every 10–15 minutes, 24 hours a day, 7 days a week. Lot hours are not stated separately."
+   },
+   "shuttle": "Free shuttle every 10–15 minutes, 24/7; between 12 AM and 6 AM call (303) 574-9800 for an airport pickup. Since November 3, 2026, all Canopy airport pickups are on the East Side at Island 3 (drop-offs stay on both sides), per the operator’s homepage.",
+   "offers": [
+    "Uncovered self-park",
+    "Covered self-park",
+    "Indoor valet",
+    "EV charging"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": true,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "The homepage update about east-side pickups supersedes older door numbers still shown in the operator’s FAQ. The FAQ mentions covered self-park EV charging stations.",
+   "feeNotes": "The homepage says Denver airport parking from $8/day when you book online (as listed on 2026-11-21); actual prices depend on your dates.",
+   "sources": [
+    {
+     "label": "Canopy Airport Parking homepage",
+     "url": "https://canopyairportparking.com/"
+    },
+    {
+     "label": "Canopy Airport Parking FAQ",
+     "url": "https://canopyairportparking.com/faq/"
+    },
+    {
+     "label": "Official DEN Parking Lots page (off-airport shuttle parking list)",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Fine Airport Parking (DIA)",
+   "category": "offsite",
+   "area": "Aurora, about 5 miles from DIA per the operator",
+   "address": "5950 N. Jackson Gap Way, Aurora, CO 80019",
+   "phone": "(303) 340-3463",
+   "website": "https://fineairportparking.com/den/",
+   "bookingUrl": "https://fineairportparking.com/den/",
+   "hours": {
+    "monday": "24 hours",
+    "tuesday": "24 hours",
+    "wednesday": "24 hours",
+    "thursday": "24 hours",
+    "friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "notes": "The operator’s DEN page says it is open 24/7, year-round, and that the main lobby is staffed 24/7/365."
+   },
+   "shuttle": "Complimentary 24/7 shuttle every 7–10 minutes; covered and uncovered parkers are picked up at their vehicle, valet parkers at the main lobby. Return pickup: East Side, Island 3, outside Level 5 baggage claim door 507.",
+   "offers": [
+    "Valet parking",
+    "Covered parking (1,800+ spaces)",
+    "Uncovered parking",
+    "Auto detailing"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": true,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "The operator says its covered garage has angled 9'2\" spaces and the uncovered lot fits oversized vehicles and roof racks.",
+   "feeNotes": "Starting rates as listed on 2026-11-21: valet $28/day ($196/week), covered $21/day ($147/week), uncovered $9.99/day ($69.93/week). The page says final rates depend on dates, availability, and discounts.",
+   "sources": [
+    {
+     "label": "Fine Airport Parking Denver page",
+     "url": "https://fineairportparking.com/den/"
+    },
+    {
+     "label": "Official DEN Parking Lots page (off-airport shuttle parking list)",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "ParkDIA",
+   "category": "offsite",
+   "area": "Aurora, on E 68th Ave",
+   "address": "25200 East 68th Ave, Aurora, CO 80019",
+   "phone": null,
+   "website": "https://www.parkdia.com/",
+   "bookingUrl": "https://www.parkdia.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator’s homepage does not publish lot hours. It mentions 24/7 CCTV monitoring, and its contact page title says to call 24/7, but no phone number was shown on the pages we checked."
+   },
+   "shuttle": "Complimentary shuttle. The homepage says that effective Tuesday, November 3, all shuttle pickups and drop-offs are on the east side only. DEN’s official page lists ParkDIA as an off-airport shuttle operator.",
+   "offers": [
+    "Uncovered parking",
+    "Covered parking",
+    "EV parking"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "The operator says it has nearly 7,500 spaces. Contact is by email (info@parkdia.com) on the pages we checked.",
+   "feeNotes": "As listed on 2026-11-21: uncovered from $8.25/day and covered from $16.50/day, both including a 10% airport fee; actual prices depend on your dates.",
+   "sources": [
+    {
+     "label": "ParkDIA homepage",
+     "url": "https://www.parkdia.com/"
+    },
+    {
+     "label": "Official DEN Parking Lots page (off-airport shuttle parking list)",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Park2Jet Denver",
+   "category": "offsite",
+   "area": "Commerce City, on E 81st Ave",
+   "address": "18121 E 81st Ave, Commerce City, CO 80022",
+   "phone": "303-558-9790",
+   "website": "https://park2jetdenver.com/",
+   "bookingUrl": "https://park2jetdenver.com/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "Lot hours are not published. Shuttle hours: every 10–15 minutes from 4:00 AM to midnight; from midnight to 4:00 AM call 303-558-9790 for pickup."
+   },
+   "shuttle": "Free shuttle every 10–15 minutes, 4:00 AM–midnight; call 303-558-9790 between midnight and 4:00 AM. The operator’s FAQ says airport pickups and drop-offs are on Level 5, Island 3 (West Side only) via Door 510.",
+   "offers": [
+    "Outdoor self-park",
+    "Covered self-park"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Locally owned per the operator. Free battery jumps and tire inflation are listed. DEN’s official page lists Park2Jet among west-side pickups.",
+   "feeNotes": "Promotional rates as listed on 2026-11-21: outdoor $9.99/day (regular $14.99) and covered $13.99/day (regular $18.99).",
+   "sources": [
+    {
+     "label": "Park2Jet Denver homepage",
+     "url": "https://park2jetdenver.com/"
+    },
+    {
+     "label": "Park2Jet Denver FAQs",
+     "url": "https://park2jetdenver.com/faqs/"
+    },
+    {
+     "label": "Official DEN Parking Lots page (off-airport shuttle parking list)",
+     "url": "https://www.flydenver.com/parking-and-transportation/parking-lots/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Courtyard by Marriott Denver Airport",
+   "category": "hotel",
+   "area": "Tower Road; 3.9 miles from DEN per the hotel page",
+   "address": "6901 Tower Road, Denver, CO 80249",
+   "phone": "+1 303-371-0300",
+   "website": "https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+   },
+   "shuttle": "Complimentary shuttle every 15 minutes, seven days a week. Pickup at the West Terminal: exit door 512 and cross to Island 5; call 303-371-0300 for the schedule. Look for a Desert Coach Mercedes Sprinter with the Courtyard Denver Airport logo.",
+   "offers": [
+    "Park Here, Fly There package",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page describes its Park Here, Fly There package as free extended parking plus the complimentary shuttle when you book the package.",
+   "feeNotes": "Standard on-site parking is $21.00 per day (as listed on 2026-11-21); package rates are not published on the page.",
+   "sources": [
+    {
+     "label": "Courtyard Denver Airport official hotel page",
+     "url": "https://www.marriott.com/en-us/hotels/denap-courtyard-denver-airport/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "SpringHill Suites by Marriott Denver Airport",
+   "category": "hotel",
+   "area": "East 68th Avenue; 7.0 miles from DEN per the hotel page",
+   "address": "18350 East 68th Avenue, Denver, CO 80249",
+   "phone": "+1 303-371-9400",
+   "website": "https://www.marriott.com/en-us/hotels/denda-springhill-suites-denver-airport/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/denda-springhill-suites-denver-airport/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+   },
+   "shuttle": "Complimentary shuttle every 30 minutes, 3:30–9 AM, 10 AM–7 PM, and 8–11:30 PM. Drops off at the West Side terminal and picks up at West Side baggage claim; schedule at the front desk (limited seats).",
+   "offers": [
+    "Park and Fly package",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page says Park Here Fly There packages are available for a fee. No EV charging per the hotel FAQ.",
+   "feeNotes": "Daily on-site parking $14.00, subject to availability (as listed on 2026-11-21); package rates are not published on the page.",
+   "sources": [
+    {
+     "label": "SpringHill Suites Denver Airport official hotel page",
+     "url": "https://www.marriott.com/en-us/hotels/denda-springhill-suites-denver-airport/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  },
+  {
+   "name": "Staybridge Suites Denver International Airport",
+   "category": "hotel",
+   "area": "Tower Road, up the hill off the Peña Blvd exit",
+   "address": "6951 Tower Road, Denver, CO 80249",
+   "phone": "+1-303-5831800",
+   "website": "https://www.ihg.com/staybridge/hotels/us/en/denver/densb/hoteldetail/directions",
+   "bookingUrl": "https://www.ihg.com/staybridge/hotels/us/en/denver/densb/hoteldetail/directions",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel’s parking page does not publish lot hours. It lists a complimentary DEN shuttle every day, 12:00 AM–12:00 AM."
+   },
+   "shuttle": "Complimentary airport shuttle to DEN listed for Monday–Sunday, 12:00 AM–12:00 AM, on the hotel’s parking and transportation page. Pickup instructions are not published there.",
+   "offers": [
+    "Park and Fly package",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page says overnight parking is for registered guests and that Park and Fly packages are available for guests needing parking while out of town.",
+   "feeNotes": "Overnight parking for registered guests $15.99 per vehicle per day (as listed on 2026-11-21); the page does not publish a separate package price.",
+   "sources": [
+    {
+     "label": "Staybridge Suites DEN official parking and transportation page",
+     "url": "https://www.ihg.com/staybridge/hotels/us/en/denver/densb/hoteldetail/directions"
+    }
+   ],
+   "lastChecked": "2026-11-21"
+  }
+ ]
+}
