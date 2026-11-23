@@ -1,0 +1,641 @@
+{
+  "slug": "nc-clt",
+  "city": "Charlotte",
+  "citySlug": "clt",
+  "state": "NC",
+  "stateName": "North Carolina",
+  "airportCode": "CLT",
+  "airportName": "Charlotte Douglas International Airport",
+  "focus": "",
+  "lastUpdated": "2026-11-22",
+  "intro": "This page covers CLT’s official Hourly Deck, Daily Decks, Daily North Lot, Long Term Lots 1 and 2, the two Express Decks, and Valet, with rates copied from the official CLT parking pages on November 22, 2026. Several official products — Long Term Lot 1 ($14 cap), the Daily Decks, and both Express Decks — are sold only online, so a drive-up traveler on a busy day is often looking at Long Term Lot 2, Daily North, or the Hourly Deck. Below the official lots are eight off-airport options: The Parking Spot on Wilkinson Blvd and seven nearby hotels whose own pages describe a park-and-fly or parking package. Off-airport choices at CLT are fewer than at most big hubs; we included only operators that publish a street address and parking details on their own pages, so this is a sample, not every lot near the airport. Hotel shuttle hours vary a lot, so check before an early or late flight. Rates are dated snapshots, not live quotes.",
+  "officialBookingUrl": "https://www.cltairport.com/parking/",
+  "officialLots": [
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "The official page says booking online at parkclt.com or in the CLT Airport app gets the best available rate; no dated online rate was copied.",
+      "hourlyOrIncrement": "First 15 minutes free; $8 per hour on the first day",
+      "heightRestriction": "7'",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Hourly Deck",
+      "area": "On Josh Birmingham Pkwy to the left as you approach the terminal; hourly spaces on Levels 4–7",
+      "access": "Walk to the terminal via bridges or lower-level walkways",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "CLT’s main parking page says all CLT parking facilities are open 24 hours a day, 365 days a year."
+      },
+      "driveUpDailyMax": "$35 daily maximum, credit card only",
+      "rateNotes": "Official rates as listed on 2026-11-22. The page says drive-up may be available if online booking is sold out. Levels 1–3 house the Rental Car Facility.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/hourly-deck/",
+      "visitNotes": "EV charging stations on Levels 4, 5, and 6 per the official page. Spaces are first come, first served unless booked online.",
+      "sources": [
+        {
+          "label": "Official CLT Hourly Deck page",
+          "url": "https://www.cltairport.com/parking/parking-options/hourly-deck/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "$28 daily maximum, booked online at parkclt.com or in the CLT Airport app",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "8'4\" at the entrance and first level; 7' on all other levels",
+      "reservationRequired": true,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Daily Decks",
+      "area": "On Josh Birmingham Pkwy to the left as you approach the terminal; keep left for the Daily entrance",
+      "access": "Free shuttle to and from the shelter between the two decks",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "CLT’s main parking page says all CLT parking facilities are open 24 hours a day, 365 days a year."
+      },
+      "driveUpDailyMax": "Not available — online booking only",
+      "rateNotes": "Official rate as listed on 2026-11-22. The page says this product is available only via online booking.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/daily-decks/",
+      "visitNotes": "Entry is by license-plate read at the gate; if the arm does not open, scan the QR code from your booking confirmation.",
+      "sources": [
+        {
+          "label": "Official CLT Daily Decks page",
+          "url": "https://www.cltairport.com/parking/parking-options/daily-decks/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        },
+        {
+          "label": "Official CLT parking tips and FAQs",
+          "url": "https://www.cltairport.com/parking/parking-tips-and-faqs/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Daily North Lot",
+      "area": "On Josh Birmingham Pkwy to the left as you approach the terminal, between Long Term Lot 2 and the Daily Decks",
+      "access": "Free shuttle to and from shelters in the lot",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "CLT’s main parking page says all CLT parking facilities are open 24 hours a day, 365 days a year."
+      },
+      "driveUpDailyMax": "$18 daily maximum, credit card only",
+      "rateNotes": "Official rate as listed on 2026-11-22.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/daily-north-lot/",
+      "visitNotes": "A drive-up option per the official page (credit card only).",
+      "sources": [
+        {
+          "label": "Official CLT Daily North Lot page",
+          "url": "https://www.cltairport.com/parking/parking-options/daily-north-lot/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        },
+        {
+          "label": "Official CLT parking tips and FAQs",
+          "url": "https://www.cltairport.com/parking/parking-tips-and-faqs/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "$14 daily maximum, booked online at parkclt.com or in the CLT Airport app",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "",
+      "reservationRequired": true,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Long Term Lot 1",
+      "area": "On Josh Birmingham Pkwy to the right as you approach the terminal; entrance just south of the Cell Phone Lot",
+      "access": "Free shuttle to and from shelters in the lot",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "CLT’s main parking page says all CLT parking facilities are open 24 hours a day, 365 days a year."
+      },
+      "driveUpDailyMax": "Not available — online booking only",
+      "rateNotes": "Official rate as listed on 2026-11-22. The page says this product is available only via online booking.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/long-term-lot-1/",
+      "visitNotes": "Entry is by license-plate read at the gate; if the arm does not open, scan the QR code from your booking confirmation.",
+      "sources": [
+        {
+          "label": "Official CLT Long Term Lot 1 page",
+          "url": "https://www.cltairport.com/parking/parking-options/long-term-lot-1/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        },
+        {
+          "label": "Official CLT parking tips and FAQs",
+          "url": "https://www.cltairport.com/parking/parking-tips-and-faqs/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Long Term Lot 2",
+      "area": "On Josh Birmingham Pkwy to the left as you approach the terminal",
+      "access": "Free shuttle to and from shelters in the lot",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "CLT’s main parking page says all CLT parking facilities are open 24 hours a day, 365 days a year."
+      },
+      "driveUpDailyMax": "$14 daily maximum, credit card only",
+      "rateNotes": "Official rate as listed on 2026-11-22.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/long-term-lot-2/",
+      "visitNotes": "The lowest drive-up daily maximum CLT publishes, per the official parking pages checked on November 22, 2026.",
+      "sources": [
+        {
+          "label": "Official CLT Long Term Lot 2 page",
+          "url": "https://www.cltairport.com/parking/parking-options/long-term-lot-2/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        },
+        {
+          "label": "Official CLT parking tips and FAQs",
+          "url": "https://www.cltairport.com/parking/parking-tips-and-faqs/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "5625 Wilkinson Boulevard (Preferred) and 5633 Wilkinson Boulevard (Self-Park), Charlotte, NC 28208",
+      "prebookRate": "$24 daily maximum for either deck, booked online at parkclt.com or in the CLT Airport app",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "7'6\" at the entrance",
+      "reservationRequired": true,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Express Deck Preferred and Express Deck Self-Park",
+      "area": "Corner of Wilkinson Blvd and Harlee Ave, entrances on Harlee Ave",
+      "access": "Dedicated non-stop Express Deck shuttle to and from the terminal’s lower level, Zone 2",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "CLT’s main parking page says all CLT parking facilities are open 24 hours a day, 365 days a year."
+      },
+      "driveUpDailyMax": "Not available — online booking only",
+      "rateNotes": "Official rates as listed on 2026-11-22. Both pages say these products are available only via online booking.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/express-deck-self-park/",
+      "visitNotes": "The Preferred page says that as of July 1, 2026, Express Deck Preferred changed from valet to a self-parking deck; it keeps the same name, online-only booking, and shuttle. On return, exit the Baggage Claim/Lower Level doors to the Zone 2 Express Deck shuttle stop.",
+      "sources": [
+        {
+          "label": "Official CLT Express Deck Self-Park page",
+          "url": "https://www.cltairport.com/parking/parking-options/express-deck-self-park/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        },
+        {
+          "label": "Official CLT Express Deck Preferred page",
+          "url": "https://www.cltairport.com/parking/parking-options/express-deck-preferred/"
+        }
+      ]
+    },
+    {
+      "category": "official",
+      "address": "",
+      "prebookRate": "The official page says booking online at parkclt.com or in the CLT Airport app gets the best available rate; no dated online rate was copied.",
+      "hourlyOrIncrement": "",
+      "heightRestriction": "7' to enter the valet area in the deck",
+      "reservationRequired": false,
+      "rateAsOf": "2026-11-22",
+      "lastChecked": "2026-11-22",
+      "name": "Valet",
+      "area": "Valet entrance is the last exit on the left before the terminal; valet is on Level 1 of the Hourly Deck",
+      "access": "Hand off your car near the terminal; call 704.629.8111 on return or go to the Valet office near the end of the east underground walkway",
+      "hours": {
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "notes": "The official Valet page says valet is available 24 hours a day, 7 days a week."
+      },
+      "driveUpDailyMax": "$50 daily maximum",
+      "rateNotes": "Official rate as listed on 2026-11-22. The main parking page says valet bookings must be made at least 3 hours in advance; the valet page says drive-up is available if online is sold out.",
+      "bookingUrl": "https://www.cltairport.com/parking/parking-options/valet/",
+      "visitNotes": "The page says valet is available 24 hours a day, 7 days a week, and a physical key is required. Car wash services are available; attendants offer luggage help.",
+      "sources": [
+        {
+          "label": "Official CLT Valet page",
+          "url": "https://www.cltairport.com/parking/parking-options/valet/"
+        },
+        {
+          "label": "Official CLT Airport Parking page",
+          "url": "https://www.cltairport.com/parking/"
+        }
+      ]
+    }
+  ],
+  "listings": [
+    {
+      "name": "The Parking Spot Charlotte (CLT)",
+      "category": "offsite",
+      "area": "Off US-74 (Wilkinson Blvd) near I-485, across from the airport’s economy parking; 0.6 miles to the airport per the operator",
+      "address": "6210 Wilkinson Blvd., Charlotte, NC 28214",
+      "phone": "704.398.3776",
+      "website": "https://www.theparkingspot.com/locations/charlotte",
+      "bookingUrl": "https://www.theparkingspot.com/locations/charlotte",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The operator’s Charlotte page does not publish lot hours or shuttle hours."
+      },
+      "shuttle": "The shuttle picks you up at your vehicle and helps with luggage, per the operator. The Charlotte page does not publish shuttle hours or frequency.",
+      "offers": [
+        "Uncovered",
+        "Covered (9'6\" clearance)",
+        "Premium covered (9'6\" clearance; first drop-off on return)",
+        "Car wash",
+        "EV charging (premium)"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": true,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": false
+      },
+      "visitNotes": "Take the US 74/29 Andrew Jackson Hwy exit from I-485; the lot is on the north side of the road. Entry is by scanning the QR code from your reservation. The page says you can change a reservation up to 1 hour before check-in.",
+      "feeNotes": "The operator’s page title says Charlotte rates start from $10.95/day (as listed on 2026-11-22); your price depends on dates in the reservation tool.",
+      "sources": [
+        {
+          "label": "The Parking Spot Charlotte location page",
+          "url": "https://www.theparkingspot.com/locations/charlotte"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Sheraton Charlotte Airport Hotel",
+      "category": "hotel",
+      "area": "Scott Futrell Dr, off I-85; 2.0 miles from CLT per the hotel page",
+      "address": "3315 Scott Futrell Drive, Charlotte, NC 28208",
+      "phone": "+1 704-392-1200",
+      "website": "https://www.marriott.com/en-us/hotels/cltsc-sheraton-charlotte-airport-hotel/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/cltsc-sheraton-charlotte-airport-hotel/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary airport shuttle, on request at +1 704-392-1200, per the hotel page. Shuttle hours are not published there.",
+      "offers": [
+        "Park and Fly packages",
+        "Long-term parking",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page lists long-term parking and says Park and Fly packages are available. It says the hotel has no EV charging.",
+      "feeNotes": "On-site self parking as listed on 2026-11-22: $10.00 per day or $50.00 per week. Park and Fly package prices are not published.",
+      "sources": [
+        {
+          "label": "Sheraton Charlotte Airport Hotel official page (Marriott)",
+          "url": "https://www.marriott.com/en-us/hotels/cltsc-sheraton-charlotte-airport-hotel/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Courtyard by Marriott Charlotte Airport North",
+      "category": "hotel",
+      "area": "N Josh Birmingham Pkwy, north of the airport; 1.0 mile from CLT per the hotel page",
+      "address": "1625 N Josh Birmingham Pkwy, Charlotte, NC 28214",
+      "phone": "+1 704-319-9900",
+      "website": "https://www.marriott.com/en-us/hotels/cltca-courtyard-charlotte-airport-north/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/cltca-courtyard-charlotte-airport-north/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary airport shuttle, on request at +1 704-319-9900, per the hotel page. Shuttle hours are not published there.",
+      "offers": [
+        "Park & Fly packages for multi-night parking",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says Park & Fly packages are available for multi-night parking and that the hotel has EV charging stations, subject to availability.",
+      "feeNotes": "The hotel page lists a $10 parking fee per day, as listed on 2026-11-22. Park & Fly package prices are not published.",
+      "sources": [
+        {
+          "label": "Courtyard Charlotte Airport North official page (Marriott)",
+          "url": "https://www.marriott.com/en-us/hotels/cltca-courtyard-charlotte-airport-north/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Courtyard by Marriott Charlotte Airport LoSo",
+      "category": "hotel",
+      "area": "W. Woodlawn Rd in the LoSo area off Billy Graham Pkwy; 5.9 miles from CLT per the hotel page",
+      "address": "321 W. Woodlawn Road, Charlotte, NC 28217",
+      "phone": "+1 704-945-6800",
+      "website": "https://www.marriott.com/en-us/hotels/cltsw-courtyard-charlotte-airport-loso/overview/",
+      "bookingUrl": "https://www.marriott.com/en-us/hotels/cltsw-courtyard-charlotte-airport-loso/overview/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary airport shuttle from 4 AM to 2 AM per the hotel page; reservation required. Contact the front desk.",
+      "offers": [
+        "Park Here, Fly There rates",
+        "Gated self-parking",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says “Park Here, Fly There” rates are available and parking is gated. EV charging is listed at $0.50/kWh. The Woodlawn LYNX Blue Line station is listed nearby.",
+      "feeNotes": "Gated self-parking is $12/day and EV charging $0.50/kWh, as listed on 2026-11-22. Park Here, Fly There rates are not published.",
+      "sources": [
+        {
+          "label": "Courtyard Charlotte Airport LoSo official page (Marriott)",
+          "url": "https://www.marriott.com/en-us/hotels/cltsw-courtyard-charlotte-airport-loso/overview/"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "DoubleTree by Hilton Hotel Charlotte Airport",
+      "category": "hotel",
+      "area": "Lake Pointe Business Park on Yorkmont Rd; about 4–5 miles from CLT per the hotel page",
+      "address": "2600 Yorkmont Road, Charlotte, NC 28208",
+      "phone": "+1 704-357-9100",
+      "website": "https://www.hilton.com/en/hotels/cltapdt-doubletree-charlotte-airport/",
+      "bookingUrl": "https://www.hilton.com/en/hotels/cltapdt-doubletree-charlotte-airport/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary airport shuttle, listed as 24 hours on the hotel page; about a 10-minute ride per the hotel.",
+      "offers": [
+        "Park and Fly rate",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page lists complimentary self-parking for guests, with in/out privileges, and a separate Park and Fly daily rate. It says there is no EV charging and no covered or secured parking.",
+      "feeNotes": "Park and Fly rates are $9.00 per day, as listed on 2026-11-22.",
+      "sources": [
+        {
+          "label": "DoubleTree Charlotte Airport official hotel page (Hilton)",
+          "url": "https://www.hilton.com/en/hotels/cltapdt-doubletree-charlotte-airport/"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Wingate by Wyndham Charlotte Airport I-85/I-485",
+      "category": "hotel",
+      "area": "Business Center Dr off I-85; less than three miles from CLT per the hotel page",
+      "address": "4238 Business Center Drive, Charlotte, NC 28214",
+      "phone": "+1-704-594-1550",
+      "website": "https://www.wyndhamhotels.com/wingate/charlotte-north-carolina/wingate-by-wyndham-charlotte-airport-i-85-i-485/overview",
+      "bookingUrl": "https://www.wyndhamhotels.com/wingate/charlotte-north-carolina/wingate-by-wyndham-charlotte-airport-i-85-i-485/overview",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests. Its shuttle runs only in the windows listed under Shuttle, so check before a midday departure or a late-night return."
+      },
+      "shuttle": "Airport shuttle 5 a.m.–12:30 p.m. to the airport and 4 p.m.–12 a.m. from the airport, per the hotel page. Book rides to the airport at the front desk; call the hotel for pickup from the airport.",
+      "offers": [
+        "Park & Fly packages for long-term parking",
+        "Airport shuttle (reservation required)"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": true,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says it offers Park & Fly packages for long-term parking and lists one EV and two Tesla charging stations.",
+      "feeNotes": "The hotel page does not publish Park & Fly prices.",
+      "sources": [
+        {
+          "label": "Wingate by Wyndham Charlotte Airport official page",
+          "url": "https://www.wyndhamhotels.com/wingate/charlotte-north-carolina/wingate-by-wyndham-charlotte-airport-i-85-i-485/overview"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Hampton Inn & Suites Charlotte-Airport",
+      "category": "hotel",
+      "area": "N Josh Birmingham Pkwy, off I-85; 1 mile from CLT per the hotel’s location page",
+      "address": "1550 N Josh Birmingham Pkwy, Charlotte, NC 28214",
+      "phone": "+1 704-394-6455",
+      "website": "https://www.hilton.com/en/hotels/cltathx-hampton-suites-charlotte-airport/",
+      "bookingUrl": "https://www.hilton.com/en/hotels/cltathx-hampton-suites-charlotte-airport/",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Complimentary hotel shuttle to CLT per the hotel page. Shuttle hours are not published there.",
+      "offers": [
+        "Parking Package (required to leave a vehicle)",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says you must book a Parking Package to leave your vehicle. It lists no EV charging and no covered or secured parking.",
+      "feeNotes": "Self-parking is $14.00 per day, as listed on 2026-11-22. Parking Package prices are not published.",
+      "sources": [
+        {
+          "label": "Hampton Inn & Suites Charlotte-Airport official hotel page (Hilton)",
+          "url": "https://www.hilton.com/en/hotels/cltathx-hampton-suites-charlotte-airport/"
+        },
+        {
+          "label": "Hampton Inn & Suites Charlotte-Airport location page (Hilton)",
+          "url": "https://www.hilton.com/en/hotels/cltathx-hampton-suites-charlotte-airport/hotel-location/"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    },
+    {
+      "name": "Microtel Inn & Suites by Wyndham Charlotte Airport",
+      "category": "hotel",
+      "area": "Queen City Dr off I-85 near I-77, west of Uptown",
+      "address": "3412 Queen City Drive, Charlotte, NC 28208",
+      "phone": "+1-704-412-4630",
+      "website": "https://www.wyndhamhotels.com/microtel/charlotte-north-carolina/microtel-inn-charlotte-airport/overview",
+      "bookingUrl": "https://www.wyndhamhotels.com/microtel/charlotte-north-carolina/microtel-inn-charlotte-airport/overview",
+      "hours": {
+        "monday": "Not published",
+        "tuesday": "Not published",
+        "wednesday": "Not published",
+        "thursday": "Not published",
+        "friday": "Not published",
+        "saturday": "Not published",
+        "sunday": "Not published",
+        "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+      },
+      "shuttle": "Free airport shuttle to and from CLT daily from 5 a.m. to 12 a.m., per the hotel page.",
+      "offers": [
+        "Park Before You Fly rates",
+        "Free airport shuttle"
+      ],
+      "flags": {
+        "shuttle": true,
+        "covered": false,
+        "valet": false,
+        "open24Hours": false,
+        "evCharging": false,
+        "authorizedOffAirport": false,
+        "hotelParkAndFly": true
+      },
+      "visitNotes": "The hotel page says guests can take advantage of its Park Before You Fly rates.",
+      "feeNotes": "The hotel page does not publish Park Before You Fly prices.",
+      "sources": [
+        {
+          "label": "Microtel Inn & Suites by Wyndham Charlotte Airport official page",
+          "url": "https://www.wyndhamhotels.com/microtel/charlotte-north-carolina/microtel-inn-charlotte-airport/overview"
+        }
+      ],
+      "lastChecked": "2026-11-22"
+    }
+  ]
+}
