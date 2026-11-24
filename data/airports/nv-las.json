@@ -1,0 +1,641 @@
+{
+ "slug": "nv-las",
+ "city": "Las Vegas",
+ "citySlug": "las",
+ "state": "NV",
+ "stateName": "Nevada",
+ "airportCode": "LAS",
+ "airportName": "Harry Reid International Airport",
+ "focus": "",
+ "lastUpdated": "2026-11-23",
+ "intro": "This page covers LAS’s official Long Term garages and Economy lots at Terminal 1 and Terminal 3, Short Term, Valet, and the Remote Lot on Gilespie Street, with rates copied from the official Harry Reid parking pages on November 23, 2026. Every official option is open 24 hours; the cheapest are the Economy lots and the Remote Lot at a $14 daily maximum, and Terminal 3 Long Term drops to $16 a day Saturday–Wednesday when you reserve ahead. LAS has very few independent off-airport shuttle lots with their own websites, so the eight off-airport options below are hotels whose official pages describe a park-and-fly package, paid or long-term parking, or airport parking — four with a named package (Best Western Harry Reid Inn, DoubleTree Las Vegas Airport, and two Marriott hotels in Henderson). This is a sample, not every lot near the airport. Shuttle hours are rarely published, so check before an early or late flight. Rates are dated snapshots, not live quotes.",
+ "officialBookingUrl": "https://parking.harryreidairport.com/book/LAS/Parking",
+ "officialLots": [
+  {
+   "name": "Terminal 1 Long Term Garage",
+   "category": "official",
+   "area": "Garage immediately adjacent to Terminal 1, Levels 1M and 3–6 (A, B, C and D gates)",
+   "address": "",
+   "access": "Walk to Terminal 1",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$20 daily maximum",
+   "prebookRate": "Reservation rate $30 at Terminal 1, as listed on the main parking page",
+   "hourlyOrIncrement": "0–2 hours $12; each additional hour $4",
+   "rateNotes": "Official rates as listed on 2026-11-23. Pre-booked parking is located in the Long Term garages. The official pages list a 15-minute drive-through grace period at no charge; long-term parking has a 30-day maximum without prior arrangement (702-261-5122).",
+   "heightRestriction": "8'0\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://parking.harryreidairport.com/book/LAS/Parking",
+   "visitNotes": "The Terminal 1 page says the Long Term garage may fill during summer and holiday peaks; when it closes, drivers are redirected to the Terminal 1 Economy lot.",
+   "sources": [
+    {
+     "label": "Official LAS Terminal 1 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-1-parking"
+    },
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Terminal 3 Long Term Garage",
+   "category": "official",
+   "area": "Garage immediately adjacent to Terminal 3, Levels 2–6 (international carriers and D/E gates)",
+   "address": "",
+   "access": "Walk to Terminal 3; tram to the D gates",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$20 daily maximum",
+   "prebookRate": "Reserve & Save: $16 per day Saturday–Wednesday and $20 Thursday–Friday, reservation required (standard Terminal 3 reservation rate $23), as listed on the main parking page",
+   "hourlyOrIncrement": "0–2 hours $12; each additional hour $4",
+   "rateNotes": "Official rates as listed on 2026-11-23. The main parking page says discounted Terminal 3 Long Term parking requires a reservation, availability is limited, and drive-up parking is charged at posted rates. The official pages list a 15-minute drive-through grace period at no charge; long-term parking has a 30-day maximum without prior arrangement (702-261-5122).",
+   "heightRestriction": "8'2\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://parking.harryreidairport.com/book/LAS/Parking",
+   "visitNotes": "The main parking page recommends Terminal 3 for long-term covered parking. International travelers are told to park on the east (“club”) side; domestic travelers on the west (“diamond”) side.",
+   "sources": [
+    {
+     "label": "Official LAS Terminal 3 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-3-parking"
+    },
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Terminal 1 Economy",
+   "category": "official",
+   "area": "Surface lot next to the Terminal 1 Long Term garage",
+   "address": "",
+   "access": "Walk to Terminal 1",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$14 daily maximum",
+   "prebookRate": "No separate online rate was listed for Economy",
+   "hourlyOrIncrement": "0–2 hours $6; each additional hour $2",
+   "rateNotes": "Official rates as listed on 2026-11-23. The official pages list a 15-minute drive-through grace period at no charge; long-term parking has a 30-day maximum without prior arrangement (702-261-5122).",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.harryreidairport.com/parking",
+   "visitNotes": "The main parking page describes Economy as uncovered parking a short walk to the terminals. Overnight parking of oversize vehicles is prohibited.",
+   "sources": [
+    {
+     "label": "Official LAS Terminal 1 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-1-parking"
+    },
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Terminal 3 Economy",
+   "category": "official",
+   "area": "Surface lot adjacent to the Terminal 3 parking garage",
+   "address": "",
+   "access": "Walk to Terminal 3 ticketing and check-in",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$14 daily maximum",
+   "prebookRate": "No separate online rate was listed for Economy",
+   "hourlyOrIncrement": "0–2 hours $6; each additional hour $2",
+   "rateNotes": "Official rates as listed on 2026-11-23. Fees are paid at the exit gates or an Express Exit pay station; cash or credit cards accepted. The official pages list a 15-minute drive-through grace period at no charge; long-term parking has a 30-day maximum without prior arrangement (702-261-5122).",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.harryreidairport.com/parking",
+   "visitNotes": "Uncovered. Overnight parking of oversize vehicles is prohibited.",
+   "sources": [
+    {
+     "label": "Official LAS Terminal 3 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-3-parking"
+    },
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Short Term (Terminal 1 and Terminal 3 garages)",
+   "category": "official",
+   "area": "Level 1 of the covered garage at each terminal",
+   "address": "",
+   "access": "Walk to the terminal",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$38 daily maximum",
+   "prebookRate": "",
+   "hourlyOrIncrement": "0–1 hour $4; 1–2 hours $8; each additional hour $5",
+   "rateNotes": "Official rates as listed on 2026-11-23. The terminal pages say Short Term is intended for stays of three hours or less.",
+   "heightRestriction": "7'0\" (T1); 9'4\" (T3)",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.harryreidairport.com/parking",
+   "visitNotes": "Best for pickups and short trips, not multi-day parking.",
+   "sources": [
+    {
+     "label": "Official LAS Terminal 1 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-1-parking"
+    },
+    {
+     "label": "Official LAS Terminal 3 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-3-parking"
+    },
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Valet (Terminal 1 and Terminal 3)",
+   "category": "official",
+   "area": "Terminal 1 garage Level 2; valet also offered at Terminal 3",
+   "address": "",
+   "access": "Drop the car at the valet stand in the terminal garage",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$34 per day",
+   "prebookRate": "",
+   "hourlyOrIncrement": "",
+   "rateNotes": "Official rate as listed on 2026-11-23. Valet parking is operated by ABM Aviation Inc. (702-261-6999).",
+   "heightRestriction": "7' (T1 valet)",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.harryreidairport.com/parking",
+   "visitNotes": "",
+   "sources": [
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    },
+    {
+     "label": "Official LAS Terminal 1 Parking page",
+     "url": "https://www.harryreidairport.com/parking/terminal-1-parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Remote Lot",
+   "category": "official",
+   "area": "7150 Gilespie Street, across from the Airport Rent-A-Car Center",
+   "address": "7150 Gilespie Street, Las Vegas, NV",
+   "access": "Free shuttles to and from the terminals",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "LAS’s main parking page says its parking facilities are open 24 hours a day, seven days a week."
+   },
+   "driveUpDailyMax": "$14 daily maximum",
+   "prebookRate": "",
+   "hourlyOrIncrement": "0–2 hours $6; each additional hour $2",
+   "rateNotes": "Official rates as listed on 2026-11-23. Credit cards only. 15-minute grace period to drive through at no charge.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.harryreidairport.com/parking/remote-lot",
+   "visitNotes": "Overnight parking of oversize vehicles is not allowed. Questions: 702-261-5122 or parkingservices@lasairport.com.",
+   "sources": [
+    {
+     "label": "Official LAS Remote Lot page",
+     "url": "https://www.harryreidairport.com/parking/remote-lot"
+    },
+    {
+     "label": "Official LAS Parking page",
+     "url": "https://www.harryreidairport.com/parking"
+    }
+   ],
+   "rateAsOf": "2026-11-23",
+   "lastChecked": "2026-11-23"
+  }
+ ],
+ "listings": [
+  {
+   "name": "Best Western Harry Reid Inn — Sleep N Fly",
+   "category": "hotel",
+   "area": "Paradise Rd, less than one mile from LAS per the hotel site",
+   "address": "4970 Paradise Rd, Las Vegas, NV 89119",
+   "phone": "702-798-5530",
+   "website": "https://www.bestwesternhotel.vegas/hotel-deal-las-vegas-airport/sleep-fly-packages-las-vegas/",
+   "bookingUrl": "https://www.bestwesternhotel.vegas/hotel-deal-las-vegas-airport/sleep-fly-packages-las-vegas/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel site does not publish parking-lot or shuttle hours."
+   },
+   "shuttle": "Complimentary Harry Reid Airport (LAS) shuttle, per the Sleep N Fly page. Shuttle hours and frequency are not published there.",
+   "offers": [
+    "Sleep N Fly package (one night plus parking up to seven days)",
+    "Free airport shuttle"
+   ],
+   "offersNotes": "The Sleep N Fly page says package guests can park for up to seven days and get complimentary LAS shuttle service, breakfast, and internet.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "Book the package on the hotel site or call. Confirm shuttle times before an early or late flight.",
+   "feeNotes": "Package price is not published on the page we checked.",
+   "sources": [
+    {
+     "label": "Best Western Sleep N Fly package page",
+     "url": "https://www.bestwesternhotel.vegas/hotel-deal-las-vegas-airport/sleep-fly-packages-las-vegas/"
+    },
+    {
+     "label": "Best Western hotel homepage",
+     "url": "https://www.bestwesternhotel.vegas/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Courtyard by Marriott Las Vegas Henderson/Green Valley — Park and Fly",
+   "category": "hotel",
+   "area": "Henderson (Green Valley), about 5.5 miles from LAS per the hotel page",
+   "address": "2800 North Green Valley Parkway, Henderson, NV 89014",
+   "phone": "+1 702-434-4700",
+   "website": "https://www.marriott.com/en-us/hotels/lasgv-courtyard-las-vegas-henderson-green-valley/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/lasgv-courtyard-las-vegas-henderson-green-valley/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+   },
+   "shuttle": "Complimentary round-trip airport shuttle; the page says a reservation is required at +1 702-434-4700. Shuttle hours are not published.",
+   "offers": [
+    "Las Vegas Park and Fly Package (one night, up to 7 nights of parking, round-trip shuttle)",
+    "Complimentary on-site parking",
+    "EV charging"
+   ],
+   "offersNotes": "The hotel page lists a Las Vegas Park and Fly Package with a one-night stay, up to 7 nights of parking, and roundtrip airport shuttle service. It also lists long-term parking.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "EV charging stations are listed, subject to availability. Pets are welcome with a $150 non-refundable fee per stay.",
+   "feeNotes": "Package price is not published on the page we checked.",
+   "sources": [
+    {
+     "label": "Courtyard Las Vegas Henderson/Green Valley official page (Marriott)",
+     "url": "https://www.marriott.com/en-us/hotels/lasgv-courtyard-las-vegas-henderson-green-valley/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Residence Inn Las Vegas Henderson/Green Valley — Park Here, Fly There",
+   "category": "hotel",
+   "area": "Henderson (Green Valley), about 5.0 miles from LAS per the hotel page",
+   "address": "2190 Olympic Avenue, Henderson, NV 89014",
+   "phone": "+1 702-434-2700",
+   "website": "https://www.marriott.com/en-us/hotels/lasgr-residence-inn-las-vegas-henderson-green-valley/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/lasgr-residence-inn-las-vegas-henderson-green-valley/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+   },
+   "shuttle": "Complimentary airport shuttle on request at +1 702-434-2700, per the hotel page. Shuttle hours are not published.",
+   "offers": [
+    "Park Here, Fly There package (one night plus up to 7 nights of self-parking for one vehicle)",
+    "Free airport shuttle",
+    "EV charging"
+   ],
+   "offersNotes": "The hotel page lists a Las Vegas Park and Fly Package: book a one-night stay and receive up to 7 nights of self-parking for one vehicle.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "All-suite hotel with free breakfast. EV charging stations are listed, subject to availability.",
+   "feeNotes": "Package price is not published on the page we checked.",
+   "sources": [
+    {
+     "label": "Residence Inn Las Vegas Henderson/Green Valley official page (Marriott)",
+     "url": "https://www.marriott.com/en-us/hotels/lasgr-residence-inn-las-vegas-henderson-green-valley/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "DoubleTree by Hilton Hotel Las Vegas Airport — Park and Fly",
+   "category": "hotel",
+   "area": "Pollock Dr near I-215 and Warm Springs Rd (Exit 9); 2 miles from LAS per the hotel page",
+   "address": "7250 Pollock Drive, Las Vegas, NV 89119",
+   "phone": "+1 702-948-4000",
+   "website": "https://www.hilton.com/en/hotels/laschdt-doubletree-las-vegas-airport/hotel-location/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/laschdt-doubletree-las-vegas-airport/hotel-location/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary Harry Reid International Airport shuttle, based upon request, per the hotel page. Shuttle hours are not published there.",
+   "offers": [
+    "Park and Fly (required for extended parking)",
+    "Self-parking",
+    "Free airport shuttle on request"
+   ],
+   "offersNotes": "The hotel location page says “Must book Park and Fly for extended parking.” Self-parking is uncovered and not secured per the page.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "In/out privileges are listed as available. Valet is not available.",
+   "feeNotes": "As listed on 2026-11-23: self-parking $12.00 per day for hotel guests. A separate Park and Fly price is not published on the page.",
+   "sources": [
+    {
+     "label": "DoubleTree Las Vegas Airport location and parking page (Hilton)",
+     "url": "https://www.hilton.com/en/hotels/laschdt-doubletree-las-vegas-airport/hotel-location/"
+    },
+    {
+     "label": "DoubleTree Las Vegas Airport hotel information page (Hilton)",
+     "url": "https://www.hilton.com/en/hotels/laschdt-doubletree-las-vegas-airport/hotel-info/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Silver Sevens Hotel & Casino — paid parking with airport shuttle",
+   "category": "hotel",
+   "area": "Paradise Rd, east of the Strip",
+   "address": "4100 Paradise Rd, Las Vegas, NV 89169",
+   "phone": "(702) 733-7000",
+   "website": "https://www.silversevenscasino.com/hotel/",
+   "bookingUrl": "https://www.silversevenscasino.com/hotel/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel site does not publish parking-lot hours. The posted shuttle schedule runs from 4:00 AM to 11:00 PM (see shuttle notes)."
+   },
+   "shuttle": "Complimentary LAS shuttle for registered hotel guests and paid parking customers, per the hotel page. The posted schedule (subject to change) leaves the hotel hourly from 4:00 AM to 11:00 PM except 8:00 AM and 5:00 PM, and picks up at Terminal 1 Zero Level 20 minutes after each departure. Terminal 3 arrivals call 725.226.6170 for pickup.",
+   "offers": [
+    "Paid parking with airport shuttle",
+    "Free airport shuttle (posted schedule)"
+   ],
+   "offersNotes": "The hotel page says the airport shuttle is for registered hotel guests and paid parking customers. The parking price and booking method are not published on the page we checked.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Call the hotel to set up paid parking before your trip.",
+   "feeNotes": "Parking price not published on the page we checked.",
+   "sources": [
+    {
+     "label": "Silver Sevens hotel page (airport shuttle section)",
+     "url": "https://www.silversevenscasino.com/hotel/"
+    },
+    {
+     "label": "Silver Sevens airport shuttle schedule (PDF)",
+     "url": "https://www.silversevenscasino.com/wp-content/uploads/2025/12/25-SS-DEC-Shuttle-Schedule.pdf"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Hilton Garden Inn Las Vegas Strip South — long-term parking",
+   "category": "hotel",
+   "area": "South Las Vegas Blvd next to the Las Vegas South outlets; 3 miles from LAS per the hotel page",
+   "address": "7830 South Las Vegas Boulevard, Las Vegas, NV 89123",
+   "phone": "+1-877-782-9444",
+   "website": "https://www.hilton.com/en/hotels/lasgigi-hilton-garden-inn-las-vegas-strip-south/hotel-location/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/lasgigi-hilton-garden-inn-las-vegas-strip-south/hotel-location/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary Harry Reid International Airport shuttle per the hotel page. Shuttle hours are not published there.",
+   "offers": [
+    "Long-term parking (per the hotel page)",
+    "Complimentary self-parking for guests",
+    "Free airport shuttle",
+    "EV charging on-site"
+   ],
+   "offersNotes": "The hotel location page says “Long term parking available” and points to a third-party booking site. We link the hotel’s own page.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Phone shown is the brand reservation line published on the page.",
+   "feeNotes": "Long-term parking price is not published on the hotel page.",
+   "sources": [
+    {
+     "label": "Hilton Garden Inn Las Vegas Strip South location and parking page (Hilton)",
+     "url": "https://www.hilton.com/en/hotels/lasgigi-hilton-garden-inn-las-vegas-strip-south/hotel-location/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Hampton Inn & Suites Las Vegas Airport",
+   "category": "hotel",
+   "area": "South Eastern Ave; 4 miles from LAS per the hotel page",
+   "address": "6575 South Eastern Avenue, Las Vegas, NV 89119",
+   "phone": "+1-800-426-7866",
+   "website": "https://www.hilton.com/en/hotels/lasethx-hampton-suites-las-vegas-airport/hotel-location/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/lasethx-hampton-suites-las-vegas-airport/hotel-location/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary Harry Reid International Airport shuttle per the hotel page. Shuttle hours are not published there.",
+   "offers": [
+    "Self-parking",
+    "Free airport shuttle"
+   ],
+   "offersNotes": "The hotel location page says to contact the front desk regarding airport parking; it does not describe a packaged park-and-fly rate.",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Ask the front desk about airport parking terms before you book. In/out privileges are listed as not available. Phone shown is the brand line published on the page.",
+   "feeNotes": "As listed on 2026-11-23: self-parking $7.00 per day on-site.",
+   "sources": [
+    {
+     "label": "Hampton Inn & Suites Las Vegas Airport location and parking page (Hilton)",
+     "url": "https://www.hilton.com/en/hotels/lasethx-hampton-suites-las-vegas-airport/hotel-location/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  },
+  {
+   "name": "Residence Inn Las Vegas Airport — long-term parking (no shuttle)",
+   "category": "hotel",
+   "area": "South Las Vegas Blvd; 4.6 miles from LAS per the hotel page",
+   "address": "7690 South Las Vegas Boulevard, Las Vegas, NV 89123",
+   "phone": "+1 702-407-1942",
+   "website": "https://www.marriott.com/en-us/hotels/lasvr-residence-inn-las-vegas-airport/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/lasvr-residence-inn-las-vegas-airport/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "The hotel page says it does not provide airport shuttle service. It lists SuperShuttle as alternate transportation at $23.00 one way, reservation required.",
+   "offers": [
+    "Long-term parking (per the hotel page)",
+    "On-site self-parking"
+   ],
+   "offersNotes": "The hotel page lists “Long Term Parking” under parking but does not describe a park-and-fly package.",
+   "flags": {
+    "shuttle": false,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "No hotel shuttle, so budget for a shuttle, taxi, or rideshare to the terminal.",
+   "feeNotes": "As listed on 2026-11-23: on-site parking $20.00 per day. Long-term parking terms are not published.",
+   "sources": [
+    {
+     "label": "Residence Inn Las Vegas Airport official page (Marriott)",
+     "url": "https://www.marriott.com/en-us/hotels/lasvr-residence-inn-las-vegas-airport/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-23"
+  }
+ ]
+}
