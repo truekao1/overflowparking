@@ -1,0 +1,671 @@
+{
+ "slug": "fl-mco",
+ "city": "Orlando",
+ "citySlug": "mco",
+ "state": "FL",
+ "stateName": "Florida",
+ "airportCode": "MCO",
+ "airportName": "Orlando International Airport",
+ "focus": "",
+ "lastUpdated": "2026-11-24",
+ "intro": "This page covers MCO’s official Parking Garages A, B, and C, Terminal Top, Valet, and the North Park Place, South Park Place, and West Park economy lots, with rates copied from the official flymco.com parking pages on November 24, 2026. The garages cap at $24 per 24 hours and the economy lots at $14; Garage C is the only official garage you can reserve ($32 per 24 hours online). The train-station surface lots were left out. Below the official lots are nine off-airport options: five independent shuttle lots (The Parking Spot, Fast Park & Relax, Drive & Park, OMNI, and Gold Park) and four nearby hotels whose own pages describe a park-and-fly package. We included only operators that publish a street address and parking details on their own pages, so this is a sample, not every lot near the airport. Hotel shuttle hours vary, so check before an early or late flight. Rates are dated snapshots, not live quotes.",
+ "officialBookingUrl": "https://flymco.com/parking-information/",
+ "officialLots": [
+  {
+   "name": "Parking Garage C",
+   "category": "official",
+   "area": "At Terminal C",
+   "address": "",
+   "access": "Walk to Terminal C; Terminals A and B via the 4-minute Terminal Link (APM) ride",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page lists rates and a 45-day maximum stay but does not publish operating hours."
+   },
+   "driveUpDailyMax": "$24 per 24-hour period",
+   "prebookRate": "$32 per 24-hour period when reserved online (Garage C is the only official reservable garage)",
+   "hourlyOrIncrement": "First 20 minutes free; $2 for 21–30 minutes; then $1 per additional 15 minutes up to $24",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 45 days. Payment: cash, Discover, American Express, MasterCard, Visa, E-PASS, SunPass Plus. The official site says reservations guarantee a space in Garage C.",
+   "heightRestriction": "7' 0\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://parking.flymco.com/book/MCO/Parking",
+   "visitNotes": "Most spaces are covered per the official page. EV charging: Level 3, Rows 59–62 and Level 5, Rows 59, 60 and 62. Patrolled by the Orlando Police Department – Airport Division.",
+   "sources": [
+    {
+     "label": "Official MCO Parking Garage C page",
+     "url": "https://flymco.com/parking-information/parking-garage-c/"
+    },
+    {
+     "label": "Official MCO parking reservations page",
+     "url": "https://flymco.com/parking-reservations/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Parking Garage A",
+   "category": "official",
+   "area": "At Terminals A and B (north side)",
+   "address": "",
+   "access": "Walk to Terminals A and B; Terminal C via the 4-minute Terminal Link (APM) ride",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page lists rates and a 45-day maximum stay but does not publish operating hours."
+   },
+   "driveUpDailyMax": "$24 per 24-hour period",
+   "prebookRate": "No online reservation is offered for this garage; the official site sells reservations only for Parking Garage C.",
+   "hourlyOrIncrement": "First 20 minutes free; $2 for 21–30 minutes; then $1 per additional 15 minutes up to $24",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 45 days. Payment: cash, Discover, American Express, MasterCard, Visa, E-PASS, SunPass Plus.",
+   "heightRestriction": "7' 0\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-information/parking-garage-a/",
+   "visitNotes": "Most spaces are covered per the official page. EV charging: Level 2, Row A. Patrolled by the Orlando Police Department – Airport Division.",
+   "sources": [
+    {
+     "label": "Official MCO Parking Garage A page",
+     "url": "https://flymco.com/parking-information/parking-garage-a/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Parking Garage B",
+   "category": "official",
+   "area": "At Terminals A and B (south side)",
+   "address": "",
+   "access": "Walk to Terminals A and B; Terminal C via the 4-minute Terminal Link (APM) ride",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page lists rates and a 45-day maximum stay but does not publish operating hours."
+   },
+   "driveUpDailyMax": "$24 per 24-hour period",
+   "prebookRate": "No online reservation is offered for this garage; the official site sells reservations only for Parking Garage C.",
+   "hourlyOrIncrement": "First 20 minutes free; $2 for 21–30 minutes; then $1 per additional 15 minutes up to $24",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 45 days. Payment: cash, Discover, American Express, MasterCard, Visa, E-PASS, SunPass Plus.",
+   "heightRestriction": "7' 0\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-information/parking-garage-b/",
+   "visitNotes": "Most spaces are covered per the official page. EV charging: Level 2, Row P. Patrolled by the Orlando Police Department – Airport Division.",
+   "sources": [
+    {
+     "label": "Official MCO Parking Garage B page",
+     "url": "https://flymco.com/parking-information/parking-garage-b/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Terminal Top",
+   "category": "official",
+   "area": "Terminal Top garage at Terminals A and B (levels 4–10)",
+   "address": "",
+   "access": "Walk to Terminals A and B; Terminal C via the 4-minute Terminal Link (APM) ride",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page lists rates and a 45-day maximum stay but does not publish operating hours."
+   },
+   "driveUpDailyMax": "$24 per 24-hour period",
+   "prebookRate": "No online reservation is offered for this garage; the official site sells reservations only for Parking Garage C.",
+   "hourlyOrIncrement": "First 20 minutes free; $2 for 21–30 minutes; then $1 per additional 15 minutes up to $24",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 45 days. Payment: cash, Discover, American Express, MasterCard, Visa, E-PASS, SunPass Plus.",
+   "heightRestriction": "7' 0\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-information/terminal-top/",
+   "visitNotes": "Most spaces are covered per the official page. EV charging: not listed on the page. Patrolled by the Orlando Police Department – Airport Division.",
+   "sources": [
+    {
+     "label": "Official MCO Terminal Top page",
+     "url": "https://flymco.com/parking-information/terminal-top/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "North Park Place Economy Lot",
+   "category": "official",
+   "area": "Economy lot at 5501 Cargo Road",
+   "address": "5501 Cargo Road, Orlando, FL",
+   "access": "Free 24/7 shuttle to and from Terminal A, Ground Transportation (Level 1), space A17",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page does not publish lot hours; it says the free shuttle to the terminals operates 24 hours per day, 7 days per week."
+   },
+   "driveUpDailyMax": "$14 per 24-hour period",
+   "hourlyOrIncrement": "First 10 minutes free; $5 for 11 minutes to 3 hours",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 90 days. No reservations required (or offered) per the official page. Enter by exiting right off Jeff Fuqua Blvd. onto Cargo Road.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-reservations/north-park-place-economy-lot/",
+   "visitNotes": "Fenced, uncovered lot patrolled by the Orlando Police Department – Airport Division. Accessible shuttle service is available.",
+   "sources": [
+    {
+     "label": "Official MCO North Park Place Economy Lot page",
+     "url": "https://flymco.com/parking-reservations/north-park-place-economy-lot/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "South Park Place Economy Lot",
+   "category": "official",
+   "area": "Economy lot at 10536 S. Jeff Fuqua Blvd.",
+   "address": "10536 S. Jeff Fuqua Blvd., Orlando, FL",
+   "access": "Free 24/7 shuttle to and from Terminal B (space B66) and Terminal C (space C286), Ground Transportation Level 1",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page does not publish lot hours; it says the free shuttle to the terminals operates 24 hours per day, 7 days per week."
+   },
+   "driveUpDailyMax": "$14 per 24-hour period",
+   "hourlyOrIncrement": "First 10 minutes free; $5 for 11 minutes to 3 hours",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 90 days. No reservations required (or offered) per the official page. The main parking page says oversized vehicles (over 7' 0\" or up to 25 feet long) can be accommodated here.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-reservations/south-park-place-economy-lot/",
+   "visitNotes": "Fenced, uncovered lot patrolled by the Orlando Police Department – Airport Division. Accessible shuttle service is available.",
+   "sources": [
+    {
+     "label": "Official MCO South Park Place Economy Lot page",
+     "url": "https://flymco.com/parking-reservations/south-park-place-economy-lot/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "West Park Economy Lot",
+   "category": "official",
+   "area": "Economy lot at 8202 Tradeport Drive",
+   "address": "8202 Tradeport Drive, Orlando, FL",
+   "access": "Free 24/7 shuttle to and from Terminal A (space A16) and Terminal C (space C-285), Ground Transportation Level 1",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page does not publish lot hours; it says the free shuttle to the terminals operates 24 hours per day, 7 days per week."
+   },
+   "driveUpDailyMax": "$14 per 24-hour period",
+   "hourlyOrIncrement": "First 10 minutes free; $5 for 11 minutes to 3 hours",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 90 days. No reservations required (or offered) per the official page. Exit SR 528 onto southbound Tradeport Drive. E-PASS/SunPass is not listed as a payment method here.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-reservations/west-park-economy-lot/",
+   "visitNotes": "Fenced, uncovered lot patrolled by the Orlando Police Department – Airport Division. Accessible shuttle service is available.",
+   "sources": [
+    {
+     "label": "Official MCO West Park Economy Lot page",
+     "url": "https://flymco.com/parking-reservations/west-park-economy-lot/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Valet Parking",
+   "category": "official",
+   "area": "Drop-off at the Terminal A, B, and C departure curbs",
+   "address": "",
+   "access": "Hand off your car at the departure curb of Terminal A, B, or C",
+   "hours": {
+    "monday": "6:00 AM – 11:00 PM",
+    "tuesday": "6:00 AM – 11:00 PM",
+    "wednesday": "6:00 AM – 11:00 PM",
+    "thursday": "6:00 AM – 11:00 PM",
+    "friday": "6:00 AM – 11:00 PM",
+    "saturday": "6:00 AM – 11:00 PM",
+    "sunday": "6:00 AM – 11:00 PM",
+    "notes": "The official valet page says valet is open from 6:00am to 11:00pm."
+   },
+   "driveUpDailyMax": "$35 per 24-hour period",
+   "hourlyOrIncrement": "$4 for the first 20 minutes, then $1 per additional 20 minutes up to 3 hours",
+   "rateNotes": "Official rates as listed on 2026-11-24. Maximum stay 45 days. Cards only (Discover, American Express, MasterCard, Visa).",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://flymco.com/parking-reservations/valet-parking/",
+   "visitNotes": "All spaces are covered per the official page.",
+   "sources": [
+    {
+     "label": "Official MCO Valet Parking page",
+     "url": "https://flymco.com/parking-reservations/valet-parking/"
+    }
+   ],
+   "rateAsOf": "2026-11-24",
+   "lastChecked": "2026-11-24"
+  }
+ ],
+ "listings": [
+  {
+   "name": "The Parking Spot Orlando (MCO)",
+   "category": "offsite",
+   "area": "Hazeltine National Dr off S. Semoran Blvd, next to the Renaissance Orlando Airport Hotel; 1.4 miles to the airport per the operator",
+   "address": "5500 Hazeltine National Drive, Orlando, FL 32812",
+   "phone": "407.851.5500",
+   "website": "https://www.theparkingspot.com/locations/orlando",
+   "bookingUrl": "https://www.theparkingspot.com/locations/orlando",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s Orlando page says “we’re open 24/7” and lists a 24/7 shuttle to and from MCO."
+   },
+   "shuttle": "The shuttle picks you up at your vehicle and helps with luggage; the page lists a 24/7 shuttle and says it serves Terminals A, B, and C.",
+   "offers": [
+    "Uncovered",
+    "Covered (10' clearance)",
+    "Premium covered (8' clearance; first drop-off on return)",
+    "Car wash"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "From S. Semoran Blvd, turn west on Hazeltine National Dr. Entry is by scanning your reservation QR code. The page says reservations can be changed up to 1 hour before check-in.",
+   "feeNotes": "The page title says Orlando rates start from $12.95/day (as listed on 2026-11-24); your price depends on dates in the reservation tool.",
+   "sources": [
+    {
+     "label": "The Parking Spot Orlando location page",
+     "url": "https://www.theparkingspot.com/locations/orlando"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Fast Park & Relax Orlando (MCO)",
+   "category": "offsite",
+   "area": "N. Frontage Road near the airport; about 5 minutes to the airport by shuttle per the operator",
+   "address": "7870 N. Frontage Road, Orlando, FL 32812",
+   "phone": "407-251-7555",
+   "website": "https://www.thefastpark.com/airport-parking/orlando-mco",
+   "bookingUrl": "https://www.thefastpark.com/airport-parking/orlando-mco",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s Orlando page says the lot is “Open & Staffed 24/7.”"
+   },
+   "shuttle": "Free shuttle; the page gives an average ride of about 5 minutes in normal conditions and says drivers help with luggage.",
+   "offers": [
+    "100% covered parking",
+    "Free shuttle",
+    "Relax for Rewards program"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "On 2026-11-24 the page carried a notice that the lot was at capacity for holiday parking reservations and that guests without a reservation would be accommodated as space allows. The listed phone is the Orlando manager’s line; the company line is 1-877-806-7275. The page’s “FastCharge” service is not described as EV charging.",
+   "feeNotes": "The page showed a daily parking rate of $15.21, excluding taxes and airport fees (as listed on 2026-11-24).",
+   "sources": [
+    {
+     "label": "Fast Park & Relax Orlando page",
+     "url": "https://www.thefastpark.com/airport-parking/orlando-mco"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Drive & Park MCO",
+   "category": "offsite",
+   "area": "Narcoossee Road east of the airport; the operator gives 2.7 to 3.5 miles to MCO on different pages",
+   "address": "7653 Narcoossee Road, Orlando, FL 32822",
+   "phone": "(407) 826-1076",
+   "website": "https://www.orlandoparking.com/",
+   "bookingUrl": "https://www.orlandoparking.com/booking",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The home page says “Open 24/7/365.” The contact page says the shuttle runs 24 hours a day, 7 days a week."
+   },
+   "shuttle": "Free air-conditioned shuttle with luggage help. The contact page says it runs 24/7 to and from Terminal A (call on return and a shuttle will be waiting); the home page says it serves all terminals.",
+   "offers": [
+    "Free valet parking",
+    "Free shuttle",
+    "Fenced lot with 24/7 monitoring"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": true,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Locally owned per the site. On 2026-11-24 the site said its online reservation system was down because of a Cloudflare outage and asked customers to call to book. The home page also lists (689) 686-3476.",
+   "feeNotes": "As listed on 2026-11-24: $5.99/day (+tax/fees) booked online; walk-in $9.99/day.",
+   "sources": [
+    {
+     "label": "Drive & Park MCO home page",
+     "url": "https://www.orlandoparking.com/"
+    },
+    {
+     "label": "Drive & Park MCO contact page",
+     "url": "https://www.orlandoparking.com/contact"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "OMNI Airport Parking Orlando",
+   "category": "offsite",
+   "area": "Narcoossee Road east of the airport; about a 6-minute shuttle ride to MCO per the operator",
+   "address": "7640 Narcoossee Road, Orlando, FL 32822",
+   "phone": "(407) 326-6676",
+   "website": "https://www.omniairportparking.com/",
+   "bookingUrl": "https://www.omniairportparking.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The home page says “Open 24/7” and “24/7 Always Open.”"
+   },
+   "shuttle": "Free shuttle to and from MCO every 10–15 minutes, about a 6-minute ride, per the operator.",
+   "offers": [
+    "Daily parking",
+    "Monthly parking",
+    "Boat & trailer parking"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Paved, fenced, well-lit lot with 24/7 video monitoring per the site. Check-in is by QR code; monthly members can use a license-plate-triggered gate.",
+   "feeNotes": "As listed on 2026-11-24: $8.99 daily rate; holiday rates starting at $15.99/day; monthly parking $120/month (+tax) with the second month 50% off.",
+   "sources": [
+    {
+     "label": "OMNI Airport Parking home page",
+     "url": "https://www.omniairportparking.com/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Gold Park Orlando",
+   "category": "offsite",
+   "area": "Narcoossee Road east of the airport",
+   "address": "7350 Narcoossee Rd, Orlando, FL 32822",
+   "phone": "407-601-4508",
+   "website": "https://goldparkmco.com/",
+   "bookingUrl": "https://goldparkmco.com/parking/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The site does not publish lot or shuttle hours."
+   },
+   "shuttle": "Free shuttle to MCO; the site lists a shuttle service time of 15 minutes. Show your confirmation email on arrival.",
+   "offers": [
+    "Daily parking",
+    "Monthly parking"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "The site spells the street “Narcoosee Rd.” It also advertises RV, boat, and trailer storage.",
+   "feeNotes": "The home page does not publish a dated daily rate; prices appear in the booking tool.",
+   "sources": [
+    {
+     "label": "Gold Park Orlando home page",
+     "url": "https://goldparkmco.com/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Comfort Suites Orlando International Airport",
+   "category": "hotel",
+   "area": "McCoy Road west of the airport; about 2 miles from MCO per the hotel",
+   "address": "1936 McCoy Road, Orlando, FL 32809",
+   "phone": "407-812-9100",
+   "website": "https://www.comfortsuitesmco.com/free-orlando-airport-shuttle.html",
+   "bookingUrl": "https://www.comfortsuitesmco.com/free-orlando-airport-shuttle.html",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+   },
+   "shuttle": "Free round-trip MCO shuttle daily from 4:30 a.m. to 1:30 a.m.; hourly departures from the hotel, and airport pickup on request (call 407-812-9100 after you collect your bags). Not 24 hours, per the hotel.",
+   "offers": [
+    "Park and Fly – up to 7 nights of parking",
+    "Park and Fly – up to 30 nights of parking",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "Packages must be booked under an eligible package rate, and a signed damage waiver is required, per the hotel page.",
+   "feeNotes": "The hotel page says additional parking is available for $7.99 per night with the 30-day package (as listed on 2026-11-24). Package prices are not published.",
+   "sources": [
+    {
+     "label": "Comfort Suites Orlando International Airport shuttle and Park and Fly page",
+     "url": "https://www.comfortsuitesmco.com/free-orlando-airport-shuttle.html"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Wyndham Garden Orlando Airport",
+   "category": "hotel",
+   "area": "McCoy Road west of the airport; five miles from MCO per the hotel",
+   "address": "2635 McCoy Road, Orlando, FL 32809",
+   "phone": "+1-407-635-2700",
+   "website": "https://www.wyndhamhotels.com/wyndham-garden/orlando-florida/wyndham-garden-orlando-airport/overview",
+   "bookingUrl": "https://www.wyndhamhotels.com/wyndham-garden/orlando-florida/wyndham-garden-orlando-airport/overview",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours. It says the front desk is staffed 24/7."
+   },
+   "shuttle": "Free airport shuttle from 4 a.m. to 1 a.m.; contact the hotel when you arrive for pickup, per the hotel page.",
+   "offers": [
+    "Park and Fly (extra nightly fee)",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page says it offers Park and Fly for an extra nightly fee.",
+   "feeNotes": "The hotel page does not publish the Park and Fly fee.",
+   "sources": [
+    {
+     "label": "Wyndham Garden Orlando Airport official page",
+     "url": "https://www.wyndhamhotels.com/wyndham-garden/orlando-florida/wyndham-garden-orlando-airport/overview"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "TownePlace Suites by Marriott Orlando Airport",
+   "category": "hotel",
+   "area": "Butler National Drive near the airport; 2.1 miles from MCO per the hotel",
+   "address": "5530 Butler National Drive, Orlando, FL 32812",
+   "phone": "+1 407-652-5210",
+   "website": "https://www.marriott.com/en-us/hotels/mcota-towneplace-suites-orlando-airport/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/mcota-towneplace-suites-orlando-airport/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours for park-and-fly guests."
+   },
+   "shuttle": "Complimentary round-trip airport shuttle; reservation required at +1 407-825-2001, per the hotel page. Shuttle hours are not published.",
+   "offers": [
+    "Park & Fly package",
+    "Complimentary on-site parking for hotel guests",
+    "EV charging (subject to availability)",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page lists Park and Fly service and says a fee applies to guests booking the Park & Fly package. Pet-friendly hotel ($150 per stay, one pet up to 50 lbs).",
+   "feeNotes": "The hotel page does not publish the Park & Fly fee.",
+   "sources": [
+    {
+     "label": "TownePlace Suites Orlando Airport official page",
+     "url": "https://www.marriott.com/en-us/hotels/mcota-towneplace-suites-orlando-airport/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  },
+  {
+   "name": "Fairfield Inn Orlando Airport",
+   "category": "hotel",
+   "area": "Augusta National Drive near the airport",
+   "address": "7100 Augusta National Drive, Orlando, FL 32822",
+   "phone": "+1 407-888-2666",
+   "website": "https://www.marriott.com/en-us/hotels/mcofa-fairfield-inn-orlando-airport/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/mcofa-fairfield-inn-orlando-airport/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary airport shuttle on request (+1 407-888-2666); the description says it runs to and from the airport at any time.",
+   "offers": [
+    "Park and Fly long-term parking (based on availability)",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page says the Park and Fly option for long-term parking is based on availability. It also lists the airport distance as 30.0 miles, which conflicts with its airport-hotel description; confirm with the hotel.",
+   "feeNotes": "As listed on 2026-11-24: Park and Fly $20 per night; on-site parking $17 per day for hotel guests.",
+   "sources": [
+    {
+     "label": "Fairfield Inn Orlando Airport official page",
+     "url": "https://www.marriott.com/en-us/hotels/mcofa-fairfield-inn-orlando-airport/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-24"
+  }
+ ]
+}
