@@ -1,0 +1,613 @@
+{
+ "slug": "fl-mia",
+ "city": "Miami",
+ "citySlug": "mia",
+ "state": "FL",
+ "stateName": "Florida",
+ "airportCode": "MIA",
+ "airportName": "Miami International Airport",
+ "focus": "",
+ "lastUpdated": "2026-11-25",
+ "intro": "This page covers MIA’s official Dolphin, Flamingo, and Ibis garages, terminal valet, and the Economy Park & Ride lot, with rates copied from the official miami-airport.com parking page on November 25, 2026. The garages cap at $25 per day, valet at $39, and the Economy Park & Ride at $12 plus a $0.35 transaction fee; only the Dolphin and Flamingo garages can be pre-paid online, with a non-refundable $2.99 reservation fee. Below the official lots are nine off-airport options: Park ’N Fly by The Parking Spot, the off-airport operator the official MIA parking page links to, and eight nearby hotels whose own pages describe a park-and-fly or park-stay offer (Element, two Sonesta hotels, and five Hilton-family hotels). MIA has few independent shuttle lots that publish their own booking pages, so this sample leans on hotels; it is not every lot near the airport. Hotel shuttle hours vary and several stop overnight, so check before an early or late flight. Rates are dated snapshots, not live quotes.",
+ "officialBookingUrl": "https://booking.mia-parking.com/",
+ "officialLots": [
+  {
+   "name": "Dolphin Garage",
+   "category": "official",
+   "area": "North garage, at Concourses D–E",
+   "address": "",
+   "access": "Walk to Concourses D and E; the official page says to use it when flying American Airlines, British Airways, JetBlue, or Qatar Airways",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official parking page lists rates, garage locations, and a 45-day maximum stay but does not publish garage operating hours."
+   },
+   "driveUpDailyMax": "$25 maximum daily rate (applies after 4 hours)",
+   "prebookRate": "Online pre-pay offered for the Dolphin and Flamingo garages up to a year in advance; the price is shown at booking and a $2.99 reservation fee is non-refundable",
+   "hourlyOrIncrement": "$2.00 per 20-minute increment up to the $25 daily maximum",
+   "rateNotes": "Official rates as listed on 2026-11-25. Maximum stay 45 days (vehicles are towed after 45 days). Payment: cash, Visa, MasterCard, American Express, Discover, Apple Pay, Samsung Pay. MIA Quick Pay stations let you pre-pay before reaching the exit lane. Reservations can be changed or cancelled up to 24 hours before the reservation time; with a reservation, scan the emailed QR code at the entrance instead of pulling a ticket.",
+   "heightRestriction": "7' 0\" (vehicles over 7 feet are directed to the Ibis Garage high-vehicle area or the Economy Park & Ride lot)",
+   "reservationRequired": false,
+   "bookingUrl": "https://booking.mia-parking.com/",
+   "visitNotes": "Valet drop-off is on the Departures (2nd) level. A parking guidance system shows open spaces with green lights. Accessible parking is on the ground level and Level 3; motorcycle parking is on the first floor ($12 per day). Garage questions: 305-876-7536.",
+   "sources": [
+    {
+     "label": "Official MIA Airport Parking Options page",
+     "url": "https://www.miami-airport.com/airport-parking.asp"
+    },
+    {
+     "label": "Official MIA parking reservation site",
+     "url": "https://booking.mia-parking.com/"
+    }
+   ],
+   "rateAsOf": "2026-11-25",
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Flamingo Garage",
+   "category": "official",
+   "area": "South garage, at Concourses E–J",
+   "address": "",
+   "access": "Walk to Concourses E through J; the official page says to use it when flying all other airlines (not American, British Airways, JetBlue, or Qatar)",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official parking page lists rates, garage locations, and a 45-day maximum stay but does not publish garage operating hours."
+   },
+   "driveUpDailyMax": "$25 maximum daily rate (applies after 4 hours)",
+   "prebookRate": "Online pre-pay offered for the Dolphin and Flamingo garages up to a year in advance; the price is shown at booking and a $2.99 reservation fee is non-refundable",
+   "hourlyOrIncrement": "$2.00 per 20-minute increment up to the $25 daily maximum",
+   "rateNotes": "Official rates as listed on 2026-11-25. Maximum stay 45 days (vehicles are towed after 45 days). Payment: cash, Visa, MasterCard, American Express, Discover, Apple Pay, Samsung Pay. MIA Quick Pay stations let you pre-pay before reaching the exit lane. Reservations can be changed or cancelled up to 24 hours before the reservation time.",
+   "heightRestriction": "7' 0\" (vehicles over 7 feet are directed to the Ibis Garage high-vehicle area or the Economy Park & Ride lot)",
+   "reservationRequired": false,
+   "bookingUrl": "https://booking.mia-parking.com/",
+   "visitNotes": "Valet drop-off is on the Departures (2nd) level. Accessible parking is on the ground level and Level 3; motorcycle parking is on the first floor.",
+   "sources": [
+    {
+     "label": "Official MIA Airport Parking Options page",
+     "url": "https://www.miami-airport.com/airport-parking.asp"
+    },
+    {
+     "label": "Official MIA parking reservation site",
+     "url": "https://booking.mia-parking.com/"
+    }
+   ],
+   "rateAsOf": "2026-11-25",
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Ibis Garage",
+   "category": "official",
+   "area": "Garage serving Concourses J–H",
+   "address": "",
+   "access": "Walk to Concourses J and H; the official page lists it for all airlines other than American, British Airways, JetBlue, and Qatar",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official parking page lists rates, garage locations, and a 45-day maximum stay but does not publish garage operating hours."
+   },
+   "driveUpDailyMax": "$25 maximum daily rate (applies after 4 hours)",
+   "prebookRate": "The official reservation site sells pre-paid spaces only in the Dolphin and Flamingo garages; no Ibis prebook rate is published",
+   "hourlyOrIncrement": "$2.00 per 20-minute increment up to the $25 daily maximum",
+   "rateNotes": "Official rates as listed on 2026-11-25. Maximum stay 45 days (vehicles are towed after 45 days). Payment: cash, Visa, MasterCard, American Express, Discover, Apple Pay, Samsung Pay. MIA Quick Pay stations let you pre-pay before reaching the exit lane.",
+   "heightRestriction": "Has the airport’s “High-Vehicle” parking area for vehicles over 7 feet, adjacent to the Dolphin (North) Garage’s east side",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.miami-airport.com/airport-parking.asp",
+   "visitNotes": "EV charging: 50 ChargePoint ports on Levels 1–5, available 24/7, priced at $0.38/kWh as listed on 2026-11-25. Accessible parking is on the ground level and Level 3.",
+   "sources": [
+    {
+     "label": "Official MIA Airport Parking Options page",
+     "url": "https://www.miami-airport.com/airport-parking.asp"
+    }
+   ],
+   "rateAsOf": "2026-11-25",
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Valet Parking",
+   "category": "official",
+   "area": "Departures (2nd) level of the Dolphin and Flamingo garages",
+   "address": "",
+   "access": "Pull up at the valet stand on the Departures level of the Dolphin or Flamingo garage and walk to check-in",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page does not publish valet hours. Valet stays are limited to 20 days. Valet questions: 305-876-0118."
+   },
+   "driveUpDailyMax": "$39 maximum daily rate",
+   "prebookRate": "No valet reservation is offered on the official page",
+   "hourlyOrIncrement": "$25 for 0–3 hours (first day only); $39 for 3–24 hours",
+   "rateNotes": "Official valet rates as listed on 2026-11-25. Maximum stay 20 days.",
+   "heightRestriction": "",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.miami-airport.com/airport-parking.asp",
+   "visitNotes": "EV charging spaces are listed at the Dolphin Garage valet on the Departures (2nd) level.",
+   "sources": [
+    {
+     "label": "Official MIA Airport Parking Options page",
+     "url": "https://www.miami-airport.com/airport-parking.asp"
+    }
+   ],
+   "rateAsOf": "2026-11-25",
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Economy Park & Ride Lot",
+   "category": "official",
+   "area": "Surface lot at 1350 NW 45 Ave, west of the terminals",
+   "address": "1350 NW 45 Ave, Miami, FL 33126",
+   "access": "Shuttle bus to and from the MIA terminals 24 hours a day, per the official page",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official page does not publish lot hours; it says the shuttle bus to and from the terminals runs 24 hours a day. About 350 spaces, availability varies."
+   },
+   "driveUpDailyMax": "$12.00 maximum per day, plus a $0.35 convenience fee per transaction",
+   "prebookRate": "No reservation is offered for this lot on the official page",
+   "hourlyOrIncrement": "$2.00 for each 20 minutes or part thereof, up to $12.00 per day",
+   "rateNotes": "Official rate as listed on 2026-11-25. Payment is by the PayByPhone app, website, or phone line (Visa, Mastercard, American Express, Discover, Apple Pay, Google Pay).",
+   "heightRestriction": "The official page lists this lot as an option for vehicles over 7 feet",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.miami-airport.com/airport-parking.asp",
+   "visitNotes": "Uncovered surface lot with accessible parking on the ground level. The lowest official daily rate at MIA as listed on 2026-11-25.",
+   "sources": [
+    {
+     "label": "Official MIA Airport Parking Options page",
+     "url": "https://www.miami-airport.com/airport-parking.asp"
+    }
+   ],
+   "rateAsOf": "2026-11-25",
+   "lastChecked": "2026-11-25"
+  }
+ ],
+ "listings": [
+  {
+   "name": "Park ’N Fly by The Parking Spot Miami (MIA)",
+   "category": "offsite",
+   "area": "NW 28th St just across FL-953 (LeJeune Rd) from the airport, a minute north of the MIA Rental Car Center; 1.6 miles to the airport per the operator",
+   "address": "3901 NW 28th St, Miami, FL 33142",
+   "phone": "855.642.4763",
+   "website": "https://www.theparkingspot.com/locations/miami",
+   "bookingUrl": "https://www.theparkingspot.com/locations/miami",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The operator page says the lot “will be open to meet all of your parking needs, anytime of the day,” but it does not publish a 24/7 hours table, so we did not mark it open 24 hours. Confirm before a late-night return."
+   },
+   "shuttle": "The shuttle picks you up at your vehicle, with luggage assistance from your car to the shuttle, per the operator page. Shuttle hours are not published.",
+   "offers": [
+    "Covered valet",
+    "Uncovered valet",
+    "Indoor parking",
+    "WiFi lounge"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": true,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": true,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Scan your reservation QR code to enter and follow the signs. Park N Fly has combined with The Parking Spot; existing Park N Fly reservations are honored. The official MIA parking page links to theparkingspot.com under “Off-airport options.”",
+   "feeNotes": "The operator page does not publish a dated rate; your price depends on dates in the reservation tool.",
+   "sources": [
+    {
+     "label": "Park ’N Fly by The Parking Spot Miami location page",
+     "url": "https://www.theparkingspot.com/locations/miami"
+    },
+    {
+     "label": "Official MIA Airport Parking Options page (off-airport options)",
+     "url": "https://www.miami-airport.com/airport-parking.asp"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Element by Marriott Miami International Airport",
+   "category": "hotel",
+   "area": "NW 25th St, 0.9 miles from MIA per the hotel",
+   "address": "3525 NW 25th Street, Miami, FL 33142",
+   "phone": "+1 305-636-1600",
+   "website": "https://www.marriott.com/en-us/hotels/miael-element-miami-international-airport/overview/",
+   "bookingUrl": "https://www.marriott.com/en-us/hotels/miael-element-miami-international-airport/overview/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary scheduled round-trip airport shuttle to MIA, per the hotel page. Shuttle hours are not published on the page.",
+   "offers": [
+    "Park and Fly offering",
+    "Long-term parking",
+    "Free airport shuttle",
+    "EV charging"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page lists “Park and Fly offering available” under parking and an electric car charging station. Ask the hotel for package terms.",
+   "feeNotes": "As listed on 2026-11-25: on-site parking $27.82 per day or $194.74 per week. Park-and-fly package prices are not published.",
+   "sources": [
+    {
+     "label": "Element Miami International Airport official page",
+     "url": "https://www.marriott.com/en-us/hotels/miael-element-miami-international-airport/overview/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Sonesta Miami Airport",
+   "category": "hotel",
+   "area": "NW LeJeune Road south of the airport, 1.3 miles from MIA per the hotel",
+   "address": "950 NW LeJeune Road, Miami, FL 33126",
+   "phone": "(305) 446-9000",
+   "website": "https://www.sonesta.com/hotels/fl10380-sonesta-miami-airport",
+   "bookingUrl": "https://www.sonesta.com/hotels/fl10380-sonesta-miami-airport",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary airport shuttle; the hotel page says reservations are not required and links to a live shuttle tracker. Shuttle hours are not published on the page.",
+   "offers": [
+    "Park’n Fly – leave your vehicle at the hotel while you travel",
+    "Park, Stay, and Soar offer (promo code PKSOAR, 1-night minimum)",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The Park’n Fly section says you can leave your vehicle in the hotel’s parking while you’re away and the airport shuttle will take you to MIA; contact the front desk for details. Sonesta’s Park, Stay, and Soar offer bundles a night’s stay with on-site parking for the length of your trip.",
+   "feeNotes": "As listed on 2026-11-25: hotel parking is $23 per night plus tax. Package prices are not published.",
+   "sources": [
+    {
+     "label": "Sonesta Miami Airport official page",
+     "url": "https://www.sonesta.com/hotels/fl10380-sonesta-miami-airport"
+    },
+    {
+     "label": "Sonesta Park, Stay, and Soar offer page",
+     "url": "https://www.sonesta.com/offers/park-stay-soar"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Sonesta Simply Suites Miami Airport Doral",
+   "category": "hotel",
+   "area": "NW 27th St in Doral, about 8 miles west of MIA per the hotel",
+   "address": "8855 NW 27th St., Miami, FL 33172",
+   "phone": "(305) 591-9099",
+   "website": "https://www.sonesta.com/hotels/fl8492-sonesta-simply-suites-miami-airport-doral",
+   "bookingUrl": "https://www.sonesta.com/hotels/fl8492-sonesta-simply-suites-miami-airport-doral",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Free airport shuttle 6:00 AM – 10:00 PM, per the hotel page; call the front desk when you land and the shuttle picks you up shortly. Reservations for the shuttle are not required.",
+   "offers": [
+    "Park, Stay, and Soar offer (promo code PKSOAR, 1-night minimum)",
+    "Free parking",
+    "Free airport shuttle",
+    "EV charging"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel page lists the Park, Stay, and Soar offer, which bundles a stay with on-site parking for the length of your trip, and says parking is free and guaranteed. The page lists electric vehicle charging stations. It is the farthest listing from the airport on this page.",
+   "feeNotes": "The hotel page says parking is free; package prices are not published.",
+   "sources": [
+    {
+     "label": "Sonesta Simply Suites Miami Airport Doral official page",
+     "url": "https://www.sonesta.com/hotels/fl8492-sonesta-simply-suites-miami-airport-doral"
+    },
+    {
+     "label": "Sonesta Park, Stay, and Soar offer page",
+     "url": "https://www.sonesta.com/offers/park-stay-soar"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Embassy Suites by Hilton Miami International Airport",
+   "category": "hotel",
+   "area": "NW South River Drive, 0.5 miles from MIA per the hotel",
+   "address": "3974 NW South River Drive, Miami, FL 33142",
+   "phone": "+1 305-634-5000",
+   "website": "https://www.hilton.com/en/hotels/miaspes-embassy-suites-miami-international-airport/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/miaspes-embassy-suites-miami-international-airport/offers/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary airport shuttle every 30 minutes, per the hotel page. Shuttle hours are not published on the page.",
+   "offers": [
+    "Park, Stay, & Go offer (parking plus airport shuttle)",
+    "Long-term airport parking",
+    "Free airport shuttle",
+    "EV charging (GE & Tesla)"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel’s offers page lists Hilton’s Park, Stay, & Go offer (parking plus shuttle service to and from select airports, at participating hotels). The parking policy lists long-term airport parking and GE & Tesla charging stations. The overview says the hotel is within two miles of MIA while the location section says 0.5 miles.",
+   "feeNotes": "As listed on 2026-11-25: self-parking $30.00 per day; long-term airport parking $17/day plus tax.",
+   "sources": [
+    {
+     "label": "Embassy Suites Miami International Airport official page",
+     "url": "https://www.hilton.com/en/hotels/miaspes-embassy-suites-miami-international-airport/"
+    },
+    {
+     "label": "Embassy Suites Miami International Airport offers page",
+     "url": "https://www.hilton.com/en/hotels/miaspes-embassy-suites-miami-international-airport/offers/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Hampton Inn Miami Airport East",
+   "category": "hotel",
+   "area": "NW 42nd Ave just off Route 953 (LeJeune Rd), about 2 miles from MIA per the hotel",
+   "address": "3449 NW 42nd Ave., Miami, FL 33142",
+   "phone": "+1 786-801-3136",
+   "website": "https://www.hilton.com/en/hotels/miaaehx-hampton-miami-airport-east/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/miaaehx-hampton-miami-airport-east/offers/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary airport shuttle 6 am – 12 am, per the hotel page. No shuttle overnight.",
+   "offers": [
+    "Park, Stay, & Go offer (parking plus airport shuttle)",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel’s offers page lists Hilton’s Park, Stay, & Go offer (parking plus shuttle service to and from select airports, at participating hotels). Parking is secured, uncovered self-parking with in/out privileges.",
+   "feeNotes": "As listed on 2026-11-25: self-parking $18.00 per day.",
+   "sources": [
+    {
+     "label": "Hampton Inn Miami Airport East official page",
+     "url": "https://www.hilton.com/en/hotels/miaaehx-hampton-miami-airport-east/"
+    },
+    {
+     "label": "Hampton Inn Miami Airport East offers page",
+     "url": "https://www.hilton.com/en/hotels/miaaehx-hampton-miami-airport-east/offers/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Hilton Miami Airport Blue Lagoon",
+   "category": "hotel",
+   "area": "Blue Lagoon Drive south of the airport, 4 miles from MIA per the hotel",
+   "address": "5101 Blue Lagoon Drive, Miami, FL 33126",
+   "phone": "+1 305-262-1000",
+   "website": "https://www.hilton.com/en/hotels/miaahhh-hilton-miami-airport-blue-lagoon/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/miaahhh-hilton-miami-airport-blue-lagoon/offers/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary airport shuttle to MIA every 30 minutes, 5:00 am – 12:30 am; pickup and drop-off on the Departures level at the Hotel Shuttle Zone signs, per the hotel page. No shuttle overnight.",
+   "offers": [
+    "Park, Stay, & Go offer (parking plus airport shuttle)",
+    "Park & Stay offer",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel’s offers page lists Hilton’s Park, Stay, & Go offer (parking plus shuttle service to and from select airports, at participating hotels). Self-parking is secured and uncovered with in/out privileges; Hertz Rental is on-site.",
+   "feeNotes": "As listed on 2026-11-25: on-site self-parking $38.00 per day.",
+   "sources": [
+    {
+     "label": "Hilton Miami Airport Blue Lagoon official page",
+     "url": "https://www.hilton.com/en/hotels/miaahhh-hilton-miami-airport-blue-lagoon/"
+    },
+    {
+     "label": "Hilton Miami Airport Blue Lagoon offers page",
+     "url": "https://www.hilton.com/en/hotels/miaahhh-hilton-miami-airport-blue-lagoon/offers/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Hampton Inn & Suites Miami-Airport South-Blue Lagoon",
+   "category": "hotel",
+   "area": "NW 57th Avenue by Waterford at Blue Lagoon, 4 miles from MIA per the hotel",
+   "address": "777 NW 57th Avenue, Miami, FL 33126",
+   "phone": "+1 305-262-5400",
+   "website": "https://www.hilton.com/en/hotels/miahshx-hampton-suites-miami-airport-south-blue-lagoon/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/miahshx-hampton-suites-miami-airport-south-blue-lagoon/offers/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Complimentary airport shuttle once per hour, 5 AM – 11 PM, per the hotel page. No shuttle overnight.",
+   "offers": [
+    "Park, Stay, & Go offer (parking plus airport shuttle)",
+    "Park & Stay offer",
+    "Covered parking",
+    "Free airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel’s offers page lists Hilton’s Park, Stay, & Go offer (parking plus shuttle service to and from select airports, at participating hotels). The parking policy lists secured and covered parking with in/out privileges. Pets are not allowed.",
+   "feeNotes": "As listed on 2026-11-25: self-parking $20.00 per day plus tax.",
+   "sources": [
+    {
+     "label": "Hampton Inn & Suites Miami-Airport South-Blue Lagoon official page",
+     "url": "https://www.hilton.com/en/hotels/miahshx-hampton-suites-miami-airport-south-blue-lagoon/"
+    },
+    {
+     "label": "Hampton Inn & Suites Miami-Airport South-Blue Lagoon offers page",
+     "url": "https://www.hilton.com/en/hotels/miahshx-hampton-suites-miami-airport-south-blue-lagoon/offers/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  },
+  {
+   "name": "Hilton Garden Inn Miami Airport West",
+   "category": "hotel",
+   "area": "NW 74th Ave near Doral, 3 miles from MIA per the hotel",
+   "address": "3550 NW 74th Ave, Miami, FL 33122",
+   "phone": "+1 305-629-7701",
+   "website": "https://www.hilton.com/en/hotels/miaaigi-hilton-garden-inn-miami-airport-west/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/miaaigi-hilton-garden-inn-miami-airport-west/offers/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Free 24-hour airport shuttle, per the hotel page.",
+   "offers": [
+    "Park, Stay, & Go offer (parking plus airport shuttle)",
+    "Free 24-hour airport shuttle",
+    "EV charging"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel’s offers page lists Hilton’s Park, Stay, & Go offer (parking plus shuttle service to and from select airports, at participating hotels). Self-park only; the parking policy lists on-site EV charging. The 24-hour claim applies to the shuttle, not published lot hours.",
+   "feeNotes": "As listed on 2026-11-25: self-parking $17.25 per day.",
+   "sources": [
+    {
+     "label": "Hilton Garden Inn Miami Airport West official page",
+     "url": "https://www.hilton.com/en/hotels/miaaigi-hilton-garden-inn-miami-airport-west/"
+    },
+    {
+     "label": "Hilton Garden Inn Miami Airport West offers page",
+     "url": "https://www.hilton.com/en/hotels/miaaigi-hilton-garden-inn-miami-airport-west/offers/"
+    }
+   ],
+   "lastChecked": "2026-11-25"
+  }
+ ]
+}
