@@ -1,0 +1,626 @@
+{
+ "slug": "wa-sea",
+ "city": "Seattle",
+ "citySlug": "sea",
+ "state": "WA",
+ "stateName": "Washington",
+ "airportCode": "SEA",
+ "airportName": "Seattle-Tacoma International Airport",
+ "focus": "",
+ "lastUpdated": "2026-11-26",
+ "intro": "This page covers SEA’s on-site garage: reservation-only Reserved Parking ($47 per day), drive-up General Parking ($37 per day, $8 hourly, $222 weekly), and the small outdoor Over-height lot, with rates copied from the official Port of Seattle parking page on November 26, 2026 (the Port says its rates include taxes and fees). The Port expects Reserved Parking to sell out on peak travel days, and SEA has no official economy lot, so the off-airport sample matters here. Below the official lots are ten off-airport options that publish their own pages: eight independent lots along S 170th St, International Blvd, and the airport’s west side (Doug Fox, two MasterPark valet lots, WallyPark, Extra Car, SeaTacPark, and two Park N Jet lots) plus two hotels whose own pages describe a park-and-fly package. It is not every lot near the airport. Most off-airport lots add airport access and SeaTac living wage fees on top of the daily rate. Rates are dated snapshots, not live quotes.",
+ "officialBookingUrl": "https://reservesea.portseattle.org/book/SEA/Parking?parkingCmd=collectParkingDetails",
+ "officialLots": [
+  {
+   "name": "Reserved Parking (SEA Airport garage)",
+   "category": "official",
+   "area": "SEA Airport garage, Level 4 (all rows) and Level 5 (rows N–W)",
+   "address": "",
+   "access": "Walk from the on-site garage to the terminal; reservation-only levels with a dedicated entrance and QR-code entry and exit",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official parking pages publish rates and garage levels but not garage operating hours."
+   },
+   "driveUpDailyMax": "",
+   "prebookRate": "$47.00 per 24-hour period (reservation only)",
+   "hourlyOrIncrement": "$10.00 overstay hourly rate, up to the daily maximum",
+   "rateNotes": "Official rates as listed on 2026-11-26; the official page says SEA public parking rates include all taxes and fees. Advance reservations are required to use this area. A November 13, 2026 Port news release says Reserved Parking added 641 stalls on Level 5 (1,871 reserved stalls total) and is expected to sell out on peak travel days.",
+   "heightRestriction": "6' 10\" garage height limit (taller vehicles use the Over-height lot)",
+   "reservationRequired": true,
+   "bookingUrl": "https://reservesea.portseattle.org/book/SEA/Parking?parkingCmd=collectParkingDetails",
+   "visitNotes": "30 free Level 2 EV charging stalls are in Reserved Parking on Level 4 (rows E and F), first come, first served; they cannot be reserved in advance. Reserved Parking customer service: 206-787-4888.",
+   "sources": [
+    {
+     "label": "Official SEA Parking Information and Rates page",
+     "url": "https://www.portseattle.org/sea/parking/parking-information"
+    },
+    {
+     "label": "Official Parking at SEA Airport page",
+     "url": "https://www.portseattle.org/sea/parking"
+    },
+    {
+     "label": "Official SEA reserved parking booking site",
+     "url": "https://reservesea.portseattle.org/book/SEA/Parking?parkingCmd=collectParkingDetails"
+    },
+    {
+     "label": "Port of Seattle news release, Nov 13, 2026",
+     "url": "https://www.portseattle.org/news/more-parking-options-now-available-ahead-thanksgiving-travel-sea"
+    }
+   ],
+   "rateAsOf": "2026-11-26",
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "General Parking (SEA Airport garage, drive-up)",
+   "category": "official",
+   "area": "SEA Airport garage, Levels 1–3 and 6–8 (all rows) and Level 5 (rows A–M)",
+   "address": "",
+   "access": "Walk from the on-site garage to the terminal",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official parking pages publish rates and garage levels but not garage operating hours."
+   },
+   "driveUpDailyMax": "$37.00 per day",
+   "prebookRate": "No prebook rate for General Parking; reservations are sold only for Reserved Parking",
+   "hourlyOrIncrement": "$8.00 hourly; $222.00 weekly",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-26; the official page says rates include all taxes and fees. Parking more than 30 days requires an online reservation or arrangements with the Public Parking Office, (206) 787-4069, or the vehicle may be treated as abandoned. The official page advertises the first 90 minutes free in General Parking from November 23–29, 7 pm to midnight only.",
+   "heightRestriction": "6' 10\" garage height limit",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.portseattle.org/sea/parking/parking-information",
+   "visitNotes": "64 free Level 2 EV charging stalls on Level 7 (rows E and F), first come, first served. ADA stalls are on Level 5. Drive-up parking questions: 206-787-5308. Without a reservation, the Port advises allowing extra time to find space at peak times.",
+   "sources": [
+    {
+     "label": "Official SEA Parking Information and Rates page",
+     "url": "https://www.portseattle.org/sea/parking/parking-information"
+    },
+    {
+     "label": "Official Parking at SEA Airport page",
+     "url": "https://www.portseattle.org/sea/parking"
+    },
+    {
+     "label": "Port of Seattle news release, Nov 13, 2026",
+     "url": "https://www.portseattle.org/news/more-parking-options-now-available-ahead-thanksgiving-travel-sea"
+    }
+   ],
+   "rateAsOf": "2026-11-26",
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Over-height Vehicle Parking",
+   "category": "official",
+   "area": "Outdoor lot at the garage’s southern entrance, off S 182nd St and Highway 99 / International Blvd",
+   "address": "",
+   "access": "Walking distance to the terminal, per the official page",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The official parking pages publish rates and garage levels but not garage operating hours."
+   },
+   "driveUpDailyMax": "$37.00 per day (General Parking rates, which the official table says include over-height parking)",
+   "prebookRate": "Not reservable; first come, first served",
+   "hourlyOrIncrement": "$8.00 hourly; $222.00 weekly",
+   "rateNotes": "Official rates as listed on 2026-11-26. Only 78 stalls (4 ADA), and the official page says the lot regularly reaches capacity.",
+   "heightRestriction": "For vehicles over 6' 10\"",
+   "reservationRequired": false,
+   "bookingUrl": "https://www.portseattle.org/sea/parking/parking-information",
+   "visitNotes": "Follow “Over-height Parking” signs from the Airport Expressway; at the entry plaza use the far-right lane and take a ticket.",
+   "sources": [
+    {
+     "label": "Official SEA Parking Information and Rates page",
+     "url": "https://www.portseattle.org/sea/parking/parking-information"
+    }
+   ],
+   "rateAsOf": "2026-11-26",
+   "lastChecked": "2026-11-26"
+  }
+ ],
+ "listings": [
+  {
+   "name": "Doug Fox Parking",
+   "category": "offsite",
+   "area": "S 170th St just off the Airport Expressway (first exit, on the left); the operator calls it the closest lot to Sea-Tac",
+   "address": "2626 South 170th Street, SeaTac, WA 98188",
+   "phone": "206-248-2956",
+   "website": "https://dougfoxparking.com/",
+   "bookingUrl": "https://dougfoxparking.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "Parking and shuttle service operate 24 hours a day, 7 days a week, 365 days a year, per the operator."
+   },
+   "shuttle": "24/7 on-demand shuttle picks you up and drops you off at your car; on return, call 206-248-2956 or use a courtesy phone in the transportation plaza. The operator says 9 in 10 rides take 11 minutes or less.",
+   "offers": [
+    "Self-park (keep your keys)",
+    "24/7 on-demand shuttle",
+    "Buy Now prepaid, $10 Reservation Only hold, or drive-up Standard Rate",
+    "Fenced, gated and staffed 24/7",
+    "Disabled parking and wheelchair-accessible shuttle on request"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Take a ticket at entry and park in any open spot. Reservations are recommended but not required. Oversize vehicles (wider than 8 ft or longer than 20 ft) need to contact the lot first.",
+   "feeNotes": "The operator says quotes include all taxes and fees and that booking early can save up to 30%; no fixed dated rate is published. Free cancellation up to 24 hours before the reservation time.",
+   "sources": [
+    {
+     "label": "Doug Fox Parking official site",
+     "url": "https://dougfoxparking.com/"
+    },
+    {
+     "label": "Doug Fox Parking contact page",
+     "url": "https://dougfoxparking.com/contact"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "MasterPark Lot B",
+   "category": "offsite",
+   "area": "S 170th St next to the airport entrance",
+   "address": "2907 South 170th Street, SeaTac, WA 98188",
+   "phone": "(206) 444-0500",
+   "website": "https://www.masterparking.com/",
+   "bookingUrl": "https://www.masterparking.com/reservation/book/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "MasterPark locations are open 24/7, 365 days a year, per the operator FAQ."
+   },
+   "shuttle": "Yellow MasterPark shuttles run continuously 24 hours a day, per the operator. On return, go to the courtesy vehicle area on the 3rd floor of the airport garage (islands #1 or #3) and call from the courtesy phone or the number on your claim check.",
+   "offers": [
+    "Valet parking",
+    "Covered drop-off and retrieval area",
+    "EV charging by Juicer (order at check-in)",
+    "Free 24-hour shuttle",
+    "Reservations optional; pay at exit"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": true,
+    "open24Hours": true,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Pull under the covered drop-off area; a valet parks your car (leave keys in the ignition). Shuttles marked B or G in the windshield. MasterPark does not accept motorcycles, dual-wheel or one-ton trucks, RVs, or trailers. Lot A is listed as closed.",
+   "feeNotes": "As listed on 2026-11-26 on the MasterPark booking page: $25.99 and $27.99 per 24 hours for standard vehicles (the page lists both without saying which applies to which lot) and $30.00 per 24 hours for trucks/oversize, “Both Lots”; after each 24-hour period $5.00 per hour up to the daily rate. Added fees: $3.00 airport access/transportation fee per stay, $1.35 living wage surcharge per 24 hours, and a $4.24 City of SeaTac line item. EV charging $20.00 per session.",
+   "sources": [
+    {
+     "label": "MasterPark FAQs",
+     "url": "https://www.masterparking.com/faqs/"
+    },
+    {
+     "label": "MasterPark booking page (rates and fees)",
+     "url": "https://www.masterparking.com/reservation/book/"
+    },
+    {
+     "label": "MasterPark How It Works",
+     "url": "https://www.masterparking.com/how-it-works/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "MasterPark Garage (Lot G)",
+   "category": "offsite",
+   "area": "International Blvd next to the airport",
+   "address": "16826 International Blvd, SeaTac, WA 98188",
+   "phone": "(206) 244-2400",
+   "website": "https://www.masterparking.com/",
+   "bookingUrl": "https://www.masterparking.com/reservation/book/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "MasterPark locations are open 24/7, 365 days a year, per the operator FAQ."
+   },
+   "shuttle": "Yellow MasterPark shuttles run continuously 24 hours a day, per the operator. On return, go to the courtesy vehicle area on the 3rd floor of the airport garage (islands #1 or #3) and call from the courtesy phone or the number on your claim check.",
+   "offers": [
+    "Valet parking",
+    "Covered drop-off and retrieval area",
+    "EV charging by Juicer (order at check-in)",
+    "Free 24-hour shuttle",
+    "Reservations optional; pay at exit"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": true,
+    "open24Hours": true,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Valet garage location; pull under the covered drop-off area and leave keys with the valet. Same vehicle restrictions as Lot B (no motorcycles, dual-wheel or one-ton trucks, RVs, or trailers).",
+   "feeNotes": "As listed on 2026-11-26 on the MasterPark booking page: $25.99 and $27.99 per 24 hours for standard vehicles (the page lists both without saying which applies to which lot) and $30.00 per 24 hours for trucks/oversize, “Both Lots”; after each 24-hour period $5.00 per hour up to the daily rate. Added fees: $3.00 airport access/transportation fee per stay, $1.35 living wage surcharge per 24 hours, and a $4.24 City of SeaTac line item. EV charging $20.00 per session.",
+   "sources": [
+    {
+     "label": "MasterPark FAQs",
+     "url": "https://www.masterparking.com/faqs/"
+    },
+    {
+     "label": "MasterPark booking page (rates and fees)",
+     "url": "https://www.masterparking.com/reservation/book/"
+    },
+    {
+     "label": "MasterPark official site",
+     "url": "https://www.masterparking.com/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "WallyPark Premier Garage (SEA)",
+   "category": "offsite",
+   "area": "International Blvd south of the airport",
+   "address": "18613 International Blvd, SeaTac, WA 98188",
+   "phone": "(206) 455-9611",
+   "website": "https://www.wallypark.com/seattle/",
+   "bookingUrl": "https://www.wallypark.com/seattle/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator page says open 24/7, 365 days a year."
+   },
+   "shuttle": "Car-to-terminal shuttle with luggage assistance. On return, text “shuttle” to (213) 886-3842 or use the WallyPark app, then go to the Courtesy Pickup area at Island 1 or 3 and look for the red and black shuttle. Frequency is not published on the operator page.",
+   "offers": [
+    "Garage self-park (covered subject to availability)",
+    "Uncovered self-park",
+    "Luggage assistance",
+    "Contactless reservations",
+    "Corporate discount program"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Covered self-park is subject to availability; the daily rate is the same for covered and uncovered. The page lists EV chargers but says EV charging is temporarily unavailable.",
+   "feeNotes": "As listed on 2026-11-26: online self-park rate $27.95–29.95 per day; discounted rates of $25.15 and $27.95 per day shown with a promo code valid on reservations of two days or longer checking in by 12/17/26. Taxes and fees not itemized on the page.",
+   "sources": [
+    {
+     "label": "WallyPark Seattle (SEA) location page",
+     "url": "https://www.wallypark.com/seattle/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Extra Car Airport Parking",
+   "category": "offsite",
+   "area": "International Blvd, about a 6-minute drive to the terminal per the operator",
+   "address": "16300 International Blvd, SeaTac, WA 98188",
+   "phone": "(206) 248-3452",
+   "website": "https://www.extracar.com/",
+   "bookingUrl": "https://www.extracar.com/reservation/book/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "Hours of operation 24/7/365, per the operator directions page."
+   },
+   "shuttle": "Shuttle to and from Sea-Tac, per the operator FAQ; the home page describes 24/7 shuttle service. Pickup location is not stated on the pages we checked.",
+   "offers": [
+    "Full-service valet parking",
+    "24/7 shuttle",
+    "Free online reservations",
+    "Smart Card prepaid days"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": true,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Full-service valet: hand off your keys at check-in; cars may be parked in the main lot or nearby secure overflow lots and moved between lots. Motorcycles are not accepted. Oversized vehicles are surcharged. Reservation help: (206) 246-7510 or reservations@extracar.com.",
+   "feeNotes": "The booking page says its listed rates are as of January 2026 and fees and taxes are subject to change; we did not copy a daily figure. 24-hour notice is asked for changes or a one-day fee applies.",
+   "sources": [
+    {
+     "label": "Extra Car official site",
+     "url": "https://www.extracar.com/"
+    },
+    {
+     "label": "Extra Car FAQ",
+     "url": "https://www.extracar.com/faq/"
+    },
+    {
+     "label": "Extra Car directions and hours",
+     "url": "https://www.extracar.com/directions/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "SeaTacPark",
+   "category": "offsite",
+   "area": "About a mile south of the airport, one block west of Hwy 99 and S 200th St; closest off-airport lot to I-5 per the operator",
+   "address": "2701 S 200th Street, SeaTac, WA 98198",
+   "phone": "206-824-2544",
+   "website": "https://www.seatacpark.com/",
+   "bookingUrl": "https://www.seatacpark.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "Hours: 24/7, per the operator site."
+   },
+   "shuttle": "Continuous GPS-equipped shuttle to and from the airport; text 206-395-9624 for the shuttle, per the operator.",
+   "offers": [
+    "Self-park",
+    "Continuous 24/7 shuttle",
+    "Prepaid reservation discounts",
+    "SeaTacPark Rewards",
+    "Corporate parking program"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Online shuttle tracker and app available from the operator site.",
+   "feeNotes": "As listed on 2026-11-26: $5 per hour; standard daily rate $24.99 per day; large truck/SUV $30.99 per day; all rates per 24-hour day. Not included: $4.00 airport access/transportation fee, $1.35 per day SeaTac living wage fee, and a $4.24 City of SeaTac tax line. Prepaid reservations get a discount off the standard rate.",
+   "sources": [
+    {
+     "label": "SeaTacPark rates",
+     "url": "https://www.seatacpark.com/rates"
+    },
+    {
+     "label": "SeaTacPark home page",
+     "url": "https://www.seatacpark.com/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Park N Jet Lot 1",
+   "category": "offsite",
+   "area": "Southwest corner of the airport, on 8th Ave S off S 188th St",
+   "address": "18220 8th Ave S, SeaTac, WA 98148",
+   "phone": "(206) 241-6600",
+   "website": "https://parknjetseatac.com/",
+   "bookingUrl": "https://parknjetseatac.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "“We are open 24/7. We never close, we are open 365 days a year,” per the operator FAQ."
+   },
+   "shuttle": "Complimentary shuttle runs 24x7 or on demand; wait could be up to 15 minutes if busy. Return pickup at Island 1A or 3A, per the operator.",
+   "offers": [
+    "Free 24/7 shuttle",
+    "Reservations (free cancellation 3+ hours before check-in)",
+    "Prepaid parking packages",
+    "24/7 camera monitoring"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "The operator says check-in plus the ride to the airport takes about 30 minutes. Minimum charge is two days; rates are calculated in half-day increments. Oversized or modified vehicles may be declined or surcharged. Pay online or at drop-off (Visa, MasterCard, American Express, cash).",
+   "feeNotes": "Total price is shown when you reserve; no dated daily rate is published. Late days beyond a checked-in reservation are billed at the regular undiscounted price, up to $40.00 per day, as listed on 2026-11-26.",
+   "sources": [
+    {
+     "label": "Park N Jet directions",
+     "url": "https://parknjetseatac.com/directions"
+    },
+    {
+     "label": "Park N Jet FAQ",
+     "url": "https://parknjetseatac.com/faq"
+    },
+    {
+     "label": "Park N Jet home page",
+     "url": "https://parknjetseatac.com/"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Park N Jet Lot 2",
+   "category": "offsite",
+   "area": "Northwest corner of the airport, on S 140th St off Des Moines Memorial Dr",
+   "address": "1244 S 140th St, Seattle, WA 98168",
+   "phone": "(206) 244-4500",
+   "website": "https://parknjetseatac.com/",
+   "bookingUrl": "https://parknjetseatac.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "“We are open 24/7. We never close, we are open 365 days a year,” per the operator FAQ."
+   },
+   "shuttle": "Complimentary shuttle runs 24x7 or on demand; wait could be up to 15 minutes if busy. Return pickup at Island 1A or 3A, per the operator.",
+   "offers": [
+    "Free 24/7 shuttle",
+    "Reservations (free cancellation 3+ hours before check-in)",
+    "Prepaid parking packages",
+    "24/7 camera monitoring"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Choose Lot 2 in the Park N Jet reservation form. Same policies as Lot 1: two-day minimum, half-day increments.",
+   "feeNotes": "Total price is shown when you reserve; no dated daily rate is published. Late days are billed up to $40.00 per day at the regular price, as listed on 2026-11-26.",
+   "sources": [
+    {
+     "label": "Park N Jet directions",
+     "url": "https://parknjetseatac.com/directions"
+    },
+    {
+     "label": "Park N Jet FAQ",
+     "url": "https://parknjetseatac.com/faq"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Coast Gateway Hotel (Park & Fly)",
+   "category": "hotel",
+   "area": "International Blvd, about a mile from the terminal per the hotel",
+   "address": "18415 International Blvd, SeaTac, WA 98188",
+   "phone": "206.248.8200",
+   "website": "https://www.coasthotels.com/coast-gateway-hotel",
+   "bookingUrl": "https://www.coasthotels.com/coast-gateway-hotel/deals/park-and-fly",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The package page says the off-site MasterPark Lot B used for package parking is a 24-hour secured lot; hotel parking hours are not otherwise published."
+   },
+   "shuttle": "24-hour complimentary shuttle to and from the airport, per the hotel. Coast Gateway is on the Port of Seattle’s hotel courtesy-shuttle list (Courtesy Island, 3rd floor of the garage).",
+   "offers": [
+    "Park & Fly: one night plus 4, 7, 10, or 14 days of parking",
+    "Complimentary breakfast",
+    "24-hour airport shuttle"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "Package parking is at off-site MasterPark Lot B, about one mile from the hotel. Additional parking days are at MasterPark’s going rates. Cancel at least 24 hours before 4 pm on arrival day to avoid a penalty.",
+   "feeNotes": "Package prices are not published on the page.",
+   "sources": [
+    {
+     "label": "Coast Gateway Hotel Park & Fly page",
+     "url": "https://www.coasthotels.com/coast-gateway-hotel/deals/park-and-fly"
+    },
+    {
+     "label": "Port of Seattle hotel and off-site courtesy shuttles list",
+     "url": "https://www.portseattle.org/page/hotel-and-site-courtesy-shuttles"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  },
+  {
+   "name": "Americas Best Value Airport Inn (Sleep Park & Fly)",
+   "category": "hotel",
+   "area": "International Blvd, 1.5 miles from the airport per the hotel",
+   "address": "20620 International Blvd, SeaTac, WA 98198",
+   "phone": "1-800-426-5060",
+   "website": "https://www.bestvalueairportinn.com/",
+   "bookingUrl": "https://www.bestvalueairportinn.com/specials-and-packages",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours."
+   },
+   "shuttle": "Free airport shuttle, per the hotel. Shuttle hours are not published on the page.",
+   "offers": [
+    "Sleep Park & Fly: 1 night, 7 days parking, airport shuttle",
+    "Free continental breakfast"
+   ],
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "Call the hotel to confirm package terms and shuttle times before an early flight.",
+   "feeNotes": "Package prices are not published on the page.",
+   "sources": [
+    {
+     "label": "Americas Best Value Airport Inn specials and packages",
+     "url": "https://www.bestvalueairportinn.com/specials-and-packages"
+    }
+   ],
+   "lastChecked": "2026-11-26"
+  }
+ ]
+}
