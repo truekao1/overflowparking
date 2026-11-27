@@ -51,8 +51,9 @@ Rules:
 Application drafts (not sent) live in `AFFILIATES.md`. Program pages with first-party or carefully labeled network terms:
 
 - Airport Parking Reservations (primary): https://airportparkingreservations.com/register/affiliate
-- On Air Parking (secondary, published CPA plus percentage): https://www.onairparking.com/affiliate
 - The Parking Spot (network listing, confirm in-dashboard): https://www.flexoffers.com/affiliate-programs/the-parking-spot-affiliate-program/
+
+On Air Parking and Rakuten Advertising were dropped on 27 November 2026. Do not reapply to either, and do not add On Air Parking or Rakuten links to the site.
 
 Official airport reservation pages and individual lot booking links are ordinary public links, not affiliate offers.
 

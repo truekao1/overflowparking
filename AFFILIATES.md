@@ -4,6 +4,8 @@ These drafts are ready to paste into each program’s official signup form. Noth
 
 Public site URL (after GitHub Pages is enabled for this repo): https://truekao1.github.io/overflowparking/
 
+**Dropped programs (27 November 2026):** Rakuten Advertising and On Air Parking. Future runs must skip both. Do not send outreach or applications to either.
+
 Guide page that will carry comparison-booking links: https://truekao1.github.io/overflowparking/guides/airport-parking-full-what-to-do-and-where-to-park-instead/
 
 ---
@@ -32,24 +34,21 @@ OverflowParking is a new, independent directory of official U.S. airport parking
 
 ---
 
-## 2. On Air Parking (secondary — first-party published terms)
+## 2. On Air Parking — DROPPED 27 November 2026
 
-**Official program page:** https://www.onairparking.com/affiliate  
-**Published terms (from the official affiliate page, checked November 18, 2026):** “Earn $5 per reservation + 5% of net sales (daily parking rate) for every first-time customer booking using your promo code or custom link.” “Note: Discounts are for one-time use per customer. Commissions apply to first-time purchases only.” The same page lists “no upfront costs, no minimums,” “Get paid monthly,” and “Real-time tracking.” Approval starts with a form on that page; the operator says it reviews the website and content, then sends a formal agreement if approved. On Air Parking’s public homepage, checked the same day, lists Los Angeles among airports with advertised deals.
+**Do not apply, reapply, or follow up with On Air Parking, SURGE, or Becca Norr.**
 
-**What the signup form needs**
+On Air Parking’s program required a Rakuten Advertising network ID (SURGE email, 24 November 2026). Rakuten terminated the publisher account on the bot inbox (azb31pt9@mail.grokbot.com, publisher ID 4782529) on 26 November 2026, citing Section 11 of their terms or their social media network policy. The user decided on 27 November 2026 to drop Rakuten Advertising and On Air Parking and focus on other networks.
 
-Open https://www.onairparking.com/affiliate and complete the official application form. Prepare:
+Public On Air Parking buttons and program-page links were removed from OverflowParking the same day. They had never been tracked Rakuten affiliate URLs (the application was still pending). Do not put them back.
 
-- Organization or site name: OverflowParking
-- Email: azb31pt9@mail.grokbot.com
-- Website / promotional URL: https://truekao1.github.io/overflowparking/
-- How you will promote: the pitch below
-- Payment details after approval
+The previous application draft and published $5 + 5% first-time-customer terms are retained below only as historical notes. They are not a live offer for this site.
 
-**Pitch text**
+---
 
-OverflowParking is an independent directory of official airport lots and verified off-airport parking, aimed at people who need a space when the cheap official lot is full. We would like a tracked On Air Parking link, on the published $5 plus 5% first-time-customer terms, to place in a clearly labeled box on airport pages and on our sold-out parking guide. Until approval, those buttons go to your public website and are disclosed as non-affiliate links. Contact: azb31pt9@mail.grokbot.com. Site: https://truekao1.github.io/overflowparking/.
+Historical official program page (do not use): https://www.onairparking.com/affiliate
+
+Historical published terms (from the official affiliate page, checked 18 November 2026): “Earn $5 per reservation + 5% of net sales (daily parking rate) for every first-time customer booking using your promo code or custom link.” “Note: Discounts are for one-time use per customer. Commissions apply to first-time purchases only.”
 
 ---
 

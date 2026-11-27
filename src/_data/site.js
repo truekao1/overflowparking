@@ -53,12 +53,5 @@ export default {
       publicUrl: "https://airportparkingreservations.com/",
       programUrl: "https://airportparkingreservations.com/register/affiliate",
     },
-    onAirParking: {
-      id: "onAirParking",
-      name: "On Air Parking",
-      url: "",
-      publicUrl: "https://www.onairparking.com/",
-      programUrl: "https://www.onairparking.com/affiliate",
-    },
   },
 };
