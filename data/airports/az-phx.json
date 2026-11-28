@@ -1,0 +1,835 @@
+{
+ "slug": "az-phx",
+ "city": "Phoenix",
+ "citySlug": "phx",
+ "state": "AZ",
+ "stateName": "Arizona",
+ "airportCode": "PHX",
+ "airportName": "Phoenix Sky Harbor International Airport",
+ "focus": "",
+ "lastUpdated": "2026-11-27",
+ "intro": "This page covers PHX’s official parking, with drive-up rates copied from the official Phoenix Sky Harbor rate table on November 27, 2026: the Terminal 3 and Terminal 4 garages ($33 per day), Sky Valet ($43) and reservation-only Premium ($37) in those garages, the West Economy Garage and East Economy Garages A & B ($19), the uncovered East Economy Lot and the 24th Street Station lot ($16), and the seasonal West Economy Park & Walk ($10). East Economy and 24th Street connect to the terminals by the free 24-hour PHX Sky Train; the West Economy options are a 12–15 minute walk with no shuttle. Below the official lots are nine off-airport options that publish their own pages: three The Parking Spot lots (two north of the airport, one south), Sky Harbor Airport Parking and PreFlight near 40th and 44th Streets, the two Airport Parking PHX lots on Van Buren (whose shuttle runs only 7 am–10 pm and only to the 44th Street Sky Train station), and two hotels whose own pages describe park-and-fly packages. It is not every lot near the airport, and PHX does not publish a list of authorized off-airport operators on the pages we checked. Rates are dated snapshots, not live quotes.",
+ "officialBookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+ "officialLots": [
+  {
+   "name": "Terminal 3 Garage",
+   "category": "official",
+   "area": "Garage at Terminal 3",
+   "address": "",
+   "access": "Walk from the garage to Terminal 3",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$33 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27. PHX recommends parking in the garage nearest your airline’s terminal.",
+   "heightRestriction": "6'10\" garage height limit",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "Pay at the exit gate by cash or card, or at Pay on Foot machines. Level 1 has no cashier booths; cash must be paid at the Pay on Foot machines near the elevators.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Terminal 4 Garage",
+   "category": "official",
+   "area": "Garage at Terminal 4",
+   "address": "",
+   "access": "Walk from the garage to Terminal 4",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$33 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27.",
+   "heightRestriction": "6'10\" garage height limit",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "Accessible parking is in all garages closest to the elevators, per the official parking page.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "West Economy Garage",
+   "category": "official",
+   "area": "West side of the airport, near Terminal 3",
+   "address": "",
+   "access": "About a 12-minute walk to Terminal 3, per the official page; no shuttle",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$19 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27. Cheapest covered on-airport option on the official rate table.",
+   "heightRestriction": "6'10\" garage height limit",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "No shuttle is available from this garage; plan for the walk.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "West Economy Park & Walk (seasonal)",
+   "category": "official",
+   "area": "Surface lot on the west side of the airport, near Terminal 3",
+   "address": "",
+   "access": "About a 15-minute walk to Terminal 3, per the official page; no shuttle",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$10 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27. The official page calls this a seasonal lot, so it may not be open on every date.",
+   "heightRestriction": "Not published",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "Uncovered. Accessible parking is at the east end of the Park & Walk, per the official parking page.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "East Economy Garages A & B",
+   "category": "official",
+   "area": "East Economy Parking area, east of Terminal 4",
+   "address": "",
+   "access": "PHX Sky Train from the East Economy station to Terminals 3 and 4; trains run about every three minutes, per the official page",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$19 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27. Follow signs to the East Economy Lot to reach the garages.",
+   "heightRestriction": "8'2\" height limit for East Economy, per the official FAQ",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "The official page says to scan the QR code at the shuttle stop for text or email reminders of where you parked.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    },
+    {
+     "label": "Official PHX Sky Train page",
+     "url": "https://www.skyharbor.com/ground-transportation/phx-sky-train/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "East Economy Lot (Uncovered)",
+   "category": "official",
+   "area": "East Economy Parking area, east of Terminal 4",
+   "address": "",
+   "access": "24/7 circulator shuttle in the lot to the East Economy PHX Sky Train station, then the Sky Train to Terminals 3 and 4",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$16 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27.",
+   "heightRestriction": "Over-height and oversize parking is in the uncovered economy areas, per the official parking page",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "Accessible parking is north of the PHX Sky Train station. The FAQ says the lot shuttle runs 24/7 between several stops and the Sky Train area.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    },
+    {
+     "label": "Official PHX Sky Train page",
+     "url": "https://www.skyharbor.com/ground-transportation/phx-sky-train/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "24th Street Station",
+   "category": "official",
+   "area": "West side of the airport, south of Buckeye Road, next to the 24th Street PHX Sky Train station (about 1,600 spaces)",
+   "address": "",
+   "access": "PHX Sky Train from the 24th Street station toward Terminal 3; the Sky Train is free and runs 24 hours a day",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$16 per day",
+   "prebookRate": "Online reservations available; the official page advertises “best available rates online” but does not publish a fixed prebook rate. Reservations carry a $2 non-refundable booking fee (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$6 first hour, $3 each additional 30 minutes",
+   "rateNotes": "Official drive-up rates as listed on 2026-11-27.",
+   "heightRestriction": "Not published",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "The Sky Train page says the 24th Street station is the waypoint between Terminal 3 and the Rental Car Center; between 10 p.m. and 5 a.m. service frequency may be reduced for maintenance.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    },
+    {
+     "label": "Official PHX Sky Train page",
+     "url": "https://www.skyharbor.com/ground-transportation/phx-sky-train/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Sky Valet (Terminals 3 & 4)",
+   "category": "official",
+   "area": "Terminal 3: first level near the departure drop-off; Terminal 4: Level 4 by the elevator bays",
+   "address": "",
+   "access": "Hand your car to a valet and walk to the terminal",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "$43 per day",
+   "prebookRate": "Reservations recommended; no fixed prebook rate published. $2 non-refundable booking fee on reservations (as listed on 2026-11-27).",
+   "hourlyOrIncrement": "$18 first hour",
+   "rateNotes": "Official rates as listed on 2026-11-27. The FAQ says the valet charge covers the garage fee. Reservations are highly recommended, especially around Thanksgiving and Christmas; drive-ups are accepted when space is available.",
+   "heightRestriction": "Not published",
+   "reservationRequired": false,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "Valet runs 24/7 at both terminals and can return your car at either terminal. Car wash (Car Care) can be added to a reservation.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Premium Parking (Terminals 3 & 4 Garages)",
+   "category": "official",
+   "area": "Reserved spaces in the Terminal 3 and Terminal 4 garages",
+   "address": "",
+   "access": "Walk from the garage to the terminal; the official page says premium gives the closest available access to your gate",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The official parking FAQ says PHX parking facilities are open 24 hours a day, 7 days a week."
+   },
+   "driveUpDailyMax": "",
+   "prebookRate": "$37 per day (reservation product, as listed on 2026-11-27)",
+   "hourlyOrIncrement": "Not published",
+   "rateNotes": "Official rate as listed on 2026-11-27. You must give a license plate number when booking; PHX verifies it during lot inspections.",
+   "heightRestriction": "6'10\" garage height limit",
+   "reservationRequired": true,
+   "bookingUrl": "https://onlineparking.skyharbor.aero/PhoenixBooking/",
+   "visitNotes": "Reservation product; book on the official reservation site.",
+   "sources": [
+    {
+     "label": "Official PHX Parking Rates & Directions page",
+     "url": "https://www.skyharbor.com/parking/parking-rates-directions/"
+    },
+    {
+     "label": "Official PHX Parking FAQs",
+     "url": "https://www.skyharbor.com/parking/parking-faqs/"
+    },
+    {
+     "label": "Official PHX parking reservation site",
+     "url": "https://onlineparking.skyharbor.aero/PhoenixBooking/"
+    }
+   ],
+   "rateAsOf": "2026-11-27",
+   "lastChecked": "2026-11-27"
+  }
+ ],
+ "listings": [
+  {
+   "name": "The Parking Spot 1",
+   "category": "offsite",
+   "area": "E Washington St just west of S 40th St, between I-10 and SR-143, north of the airport; the operator says it is the closest off-airport facility (1.8 mi by its listing)",
+   "address": "3750 East Washington Street, Phoenix, AZ 85034",
+   "phone": "602-393-4777",
+   "website": "https://www.theparkingspot.com/locations/phoenix",
+   "bookingUrl": "https://www.theparkingspot.com/locations/phoenix",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s PHX page says all three locations are open 24 hours a day, 7 days a week, 365 days a year, with 24/7 shuttle service."
+   },
+   "shuttle": "Free shuttle picks you up at your car; shuttles run every few minutes, 24/7, with typical rides of 3–4 minutes. Return pickup: Terminal 4 Door 7 (north curb); Terminal 3 Doors 9 or 11 at the blue Courtesy Vehicle sign. Live shuttle tracking in The Parking Spot app.",
+   "offers": [
+    "Covered parking (16' clearance)",
+    "Premium covered (first drop-off on return)",
+    "Shuttle picks you up at your vehicle",
+    "Luggage assistance",
+    "24/7 shuttle service",
+    "Pay Later or Pay Now reservations",
+    "Spot Club loyalty program (members skip the reservation fee)"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Over 800 fully covered spaces, per the operator. No valet, EV charging, or car wash at PHX locations, per its FAQ. Pets must ride in a carrier on the shuttle. No cash accepted.",
+   "feeNotes": "The Parking Spot lists a standard $5.99 reservation fee (waived for Spot Club members) and says Pay Now reservations are non-refundable (as listed on 2026-11-27). Its FAQ cites rates starting around $11/day uncovered and $16/day covered when pre-booked; live prices vary by date.",
+   "sources": [
+    {
+     "label": "The Parking Spot Phoenix locations page",
+     "url": "https://www.theparkingspot.com/locations/phoenix"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "The Parking Spot 2",
+   "category": "offsite",
+   "area": "E Van Buren St at N 40th St, between I-10 and SR-143, near the SR-202 junction; the operator recommends it for Scottsdale and the northeast Valley",
+   "address": "4040 East Van Buren Street, Phoenix, AZ 85008",
+   "phone": "602-286-9212",
+   "website": "https://www.theparkingspot.com/locations/phoenix",
+   "bookingUrl": "https://www.theparkingspot.com/locations/phoenix",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s PHX page says all three locations are open 24 hours a day, 7 days a week, 365 days a year, with 24/7 shuttle service."
+   },
+   "shuttle": "Free shuttle picks you up at your car; shuttles run every few minutes, 24/7, with typical rides of 3–4 minutes. Return pickup: Terminal 4 Door 7 (north curb); Terminal 3 Doors 9 or 11 at the blue Courtesy Vehicle sign. Live shuttle tracking in The Parking Spot app.",
+   "offers": [
+    "Covered parking (7'6\" clearance)",
+    "Premium covered (7'6\" clearance)",
+    "Shuttle picks you up at your vehicle",
+    "Luggage assistance",
+    "24/7 shuttle service",
+    "Pay Later or Pay Now reservations",
+    "Spot Club loyalty program (members skip the reservation fee)"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Low 7'6\" clearance; taller trucks should use The Parking Spot 1 (16') instead. No valet, EV charging, or car wash at PHX locations, per the FAQ. No cash accepted.",
+   "feeNotes": "The Parking Spot lists a standard $5.99 reservation fee (waived for Spot Club members) and says Pay Now reservations are non-refundable (as listed on 2026-11-27). Its FAQ cites rates starting around $11/day uncovered and $16/day covered when pre-booked; live prices vary by date.",
+   "sources": [
+    {
+     "label": "The Parking Spot Phoenix locations page",
+     "url": "https://www.theparkingspot.com/locations/phoenix"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "The Parking Spot South (formerly Blue Sky)",
+   "category": "offsite",
+   "area": "S 48th St just west of SR-143 at University Dr, south of the airport; the operator recommends it for Chandler, Mesa, Gilbert, Tempe, and Ahwatukee",
+   "address": "3025 S. 48th St, Phoenix, AZ 85040",
+   "phone": "602.244.8888",
+   "website": "https://www.theparkingspot.com/locations/phoenix",
+   "bookingUrl": "https://www.theparkingspot.com/locations/phoenix",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s PHX page says all three locations are open 24 hours a day, 7 days a week, 365 days a year, with 24/7 shuttle service."
+   },
+   "shuttle": "Free shuttle picks you up at your car; shuttles run every few minutes, 24/7, with typical rides of 3–4 minutes. Return pickup: Terminal 4 Door 7 (north curb); Terminal 3 Doors 9 or 11 at the blue Courtesy Vehicle sign. Live shuttle tracking in The Parking Spot app. The operator says this lot has the shortest shuttle ride of any off-airport lot, about 3 minutes.",
+   "offers": [
+    "Uncovered economy parking",
+    "Covered parking (8' clearance)",
+    "Shuttle picks you up at your vehicle",
+    "Luggage assistance",
+    "24/7 shuttle service",
+    "Pay Later or Pay Now reservations",
+    "Spot Club loyalty program (members skip the reservation fee)"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "The only Parking Spot PHX location with an uncovered economy option. Formerly called Blue Sky. No valet or EV charging at PHX locations, per the FAQ.",
+   "feeNotes": "The Parking Spot lists a standard $5.99 reservation fee (waived for Spot Club members) and says Pay Now reservations are non-refundable (as listed on 2026-11-27). Its FAQ cites rates starting around $11/day uncovered and $16/day covered when pre-booked; live prices vary by date.",
+   "sources": [
+    {
+     "label": "The Parking Spot Phoenix locations page",
+     "url": "https://www.theparkingspot.com/locations/phoenix"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Sky Harbor Airport Parking",
+   "category": "offsite",
+   "area": "S 40th St just south of Washington St, north of the airport; the operator says it is about 4 minutes from Terminal 4",
+   "address": "402 South 40th Street, Phoenix, AZ 85034",
+   "phone": "(602) 273-7007",
+   "website": "https://www.skyharborairportparking.net/",
+   "bookingUrl": "https://www.skyharborairportparking.net/reservation/book/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s FAQ says it is open 24 hours a day, 7 days a week, 365 days a year."
+   },
+   "shuttle": "Shuttle circulates to all terminals every 5–10 minutes (the home page says 7–10, the FAQ 5–7); drivers meet you at your vehicle within about 5 minutes of arrival and help with luggage.",
+   "offers": [
+    "Covered self-park (reservation required for covered)",
+    "Uncovered self-park",
+    "Luggage assistance",
+    "Club Sky rewards program",
+    "Monthly parking program"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Family owned and operated, per the operator, which calls itself Phoenix’s largest off-airport facility. Well-lit, fenced lot.",
+   "feeNotes": "The FAQ says cancelled reservations are fully refundable. Rates are on the reservation page and not copied here.",
+   "sources": [
+    {
+     "label": "Sky Harbor Airport Parking home page",
+     "url": "https://www.skyharborairportparking.net/"
+    },
+    {
+     "label": "Sky Harbor Airport Parking FAQs",
+     "url": "https://www.skyharborairportparking.net/faqs/"
+    },
+    {
+     "label": "Sky Harbor Airport Parking contact page",
+     "url": "https://www.skyharborairportparking.net/contact/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "PreFlight Airport Parking PHX",
+   "category": "offsite",
+   "area": "N 44th St just north of Washington St, near the 44th Street PHX Sky Train station",
+   "address": "44 North 44th Street, Phoenix, AZ 85034",
+   "phone": "480-925-9630",
+   "website": "https://www.preflightairportparking.com/location/PHX",
+   "bookingUrl": "https://www.preflightairportparking.com/location/PHX",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The location page does not state facility hours. It says buses arrive at both terminals every 5–9 minutes during regular hours, and that for airport pickups between 11 p.m. and 8 a.m. you should text or call 480-925-9630 with your party size and terminal."
+   },
+   "shuttle": "Free shuttle every 7–10 minutes with real-time tracking; 7–15 minute ride (the page also says 4–7 minutes). Return pickup: Terminal 3 north side, Door 11, outer curb; Terminal 4 north side, Door 7, outer curb, at the Courtesy Vehicle sign. Wheelchair-accessible shuttle on 24 hours’ notice.",
+   "offers": [
+    "Premium covered self-park (ground floor)",
+    "Economy covered self-park (2nd floor)",
+    "Rooftop self-park (uncovered)",
+    "Outdoor self-park (uncovered and carport spaces, first come)",
+    "Luggage assistance",
+    "Free tire inflation and battery jump",
+    "EV charging via 120V outlets (bring your own charger)"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Three-story garage plus an outdoor section. The page posted a construction notice that Terminal 3 was closed to pickups and drop-offs 10 p.m.–6 a.m. through at least November 15, with shuttles serving Terminal 4 only in those hours; check whether that still applies. EV charging is a 120V outlet based on availability.",
+   "feeNotes": "The page says cancellations made at least one hour before the start time are refunded less the reservation fee, unused days are non-refundable, and cash is not accepted for payment. Rates are not copied here.",
+   "sources": [
+    {
+     "label": "PreFlight Airport Parking PHX location page",
+     "url": "https://www.preflightairportparking.com/location/PHX"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Airport Parking PHX — Lot 1",
+   "category": "offsite",
+   "area": "E Van Buren St off the Hohokam Expressway (SR-143), north of the airport",
+   "address": "4728 E Van Buren St, Phoenix, AZ 85008",
+   "phone": "844-PHX-PARK (623-273-9243)",
+   "website": "https://www.airportparkingphoenix.com/location",
+   "bookingUrl": "https://www.airportparkingphoenix.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s location page lists hours as 24 hours a day, 7 days a week, 365 days a year. The shuttle runs only 7:00 am – 10:00 pm."
+   },
+   "shuttle": "Free shuttle daily 7:00 am – 10:00 pm to and from the PHX Sky Train lot at N 44th St and E Washington St (not to the terminals); ride the free PHX Sky Train from there. The operator says service may not be available on major holidays.",
+   "offers": [
+    "Self-park",
+    "Free shuttle to the 44th Street PHX Sky Train station, 7:00 am – 10:00 pm",
+    "VIP monthly membership for discounted rates",
+    "24/7 monitored lot"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Lot 1 has 80 spaces, per the operator. Operated by Phoenix Parking Solutions AZ, LLC. Late-night arrivals after 10 pm cannot use the shuttle; plan another ride from the 44th Street station.",
+   "feeNotes": "The home page lists a VIP membership at $15/month for 15% off most rates (as listed on 2026-11-27). Daily rates are on the operator’s pricing page and not copied here.",
+   "sources": [
+    {
+     "label": "Airport Parking PHX location page",
+     "url": "https://www.airportparkingphoenix.com/location"
+    },
+    {
+     "label": "Airport Parking PHX home page",
+     "url": "https://www.airportparkingphoenix.com/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Airport Parking PHX — Lot 2",
+   "category": "offsite",
+   "area": "E Van Buren St near N 40th St, off the Hohokam Expressway (SR-143), north of the airport",
+   "address": "4119 E Van Buren St, Phoenix, AZ 85008",
+   "phone": "844-PHX-PARK (623-273-9243)",
+   "website": "https://www.airportparkingphoenix.com/location",
+   "bookingUrl": "https://www.airportparkingphoenix.com/",
+   "hours": {
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "notes": "The operator’s location page lists hours as 24 hours a day, 7 days a week, 365 days a year. The shuttle runs only 7:00 am – 10:00 pm."
+   },
+   "shuttle": "Free shuttle daily 7:00 am – 10:00 pm to and from the PHX Sky Train lot at N 44th St and E Washington St (not to the terminals); ride the free PHX Sky Train from there. The operator says service may not be available on major holidays.",
+   "offers": [
+    "Self-park",
+    "Free shuttle to the 44th Street PHX Sky Train station, 7:00 am – 10:00 pm",
+    "VIP monthly membership for discounted rates",
+    "24/7 monitored lot"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": true,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": false
+   },
+   "visitNotes": "Lot 2 has 290 spaces, per the operator. Same operator, shuttle, and hours as Lot 1.",
+   "feeNotes": "The home page lists a VIP membership at $15/month for 15% off most rates (as listed on 2026-11-27). Daily rates are on the operator’s pricing page and not copied here.",
+   "sources": [
+    {
+     "label": "Airport Parking PHX location page",
+     "url": "https://www.airportparkingphoenix.com/location"
+    },
+    {
+     "label": "Airport Parking PHX home page",
+     "url": "https://www.airportparkingphoenix.com/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "Crowne Plaza Phoenix Airport - PHX (Park, Stay & Go)",
+   "category": "hotel",
+   "area": "E Washington St at 44th St, across from the 44th Street PHX Sky Train station; about 1 mile from the airport per the hotel",
+   "address": "4300 East Washington Street, Phoenix, AZ 85034",
+   "phone": "+1-602-273-7778",
+   "website": "https://www.ihg.com/crowneplaza/hotels/us/en/phoenix/phxea/hoteldetail",
+   "bookingUrl": "https://www.ihg.com/crowneplaza/hotels/us/en/phoenix/phxea/hoteldetail/amenities",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-garage hours. It lists the complimentary PHX airport shuttle as running 12:00 AM – 12:00 AM, Monday–Sunday, and describes it as a free 24-hour shuttle."
+   },
+   "shuttle": "Free 24-hour airport shuttle, per the hotel. The hotel also says it is directly across from the PHX Sky Train, which reaches Terminal 4 within about five minutes.",
+   "offers": [
+    "Park, Stay & Go package: covered garage parking and airport shuttle for up to eight days",
+    "Free 24-hour PHX airport shuttle",
+    "Free EV chargers",
+    "Dogs up to 50 lb allowed (fee)"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": true,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": true,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "Covered garage with 426 total spaces and free EV charging, per the hotel. Call to confirm package dates and terms.",
+   "feeNotes": "Package prices are not published. The hotel lists self-parking at $14 per day and a $50 per-stay pet fee (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "Crowne Plaza Phoenix Airport hotel page",
+     "url": "https://www.ihg.com/crowneplaza/hotels/us/en/phoenix/phxea/hoteldetail"
+    },
+    {
+     "label": "Crowne Plaza Phoenix Airport amenities page",
+     "url": "https://www.ihg.com/crowneplaza/hotels/us/en/phoenix/phxea/hoteldetail/amenities"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  },
+  {
+   "name": "DoubleTree Suites by Hilton Hotel Phoenix (Park and Fly)",
+   "category": "hotel",
+   "area": "N 44th St north of the airport, near SR-143 and the 202; the hotel says it is about 1.5 miles north of PHX",
+   "address": "320 North 44th St., Phoenix, Arizona, 85008-7698",
+   "phone": "+1 602-225-0500",
+   "website": "https://www.hilton.com/en/hotels/phxfvdt-doubletree-suites-phoenix/",
+   "bookingUrl": "https://www.hilton.com/en/hotels/phxfvdt-doubletree-suites-phoenix/",
+   "hours": {
+    "monday": "Not published",
+    "tuesday": "Not published",
+    "wednesday": "Not published",
+    "thursday": "Not published",
+    "friday": "Not published",
+    "saturday": "Not published",
+    "sunday": "Not published",
+    "notes": "The hotel page does not publish parking-lot hours. It lists the complimentary airport shuttle as available 4am to 11pm."
+   },
+   "shuttle": "Complimentary airport shuttle, 4am–11pm, per the hotel page.",
+   "offers": [
+    "Park and Fly packages (per the hotel’s parking policy)",
+    "Complimentary airport shuttle 4am–11pm",
+    "On-site self-parking"
+   ],
+   "offersNotes": "",
+   "flags": {
+    "shuttle": true,
+    "covered": false,
+    "valet": false,
+    "open24Hours": false,
+    "evCharging": false,
+    "authorizedOffAirport": false,
+    "hotelParkAndFly": true
+   },
+   "visitNotes": "The hotel lists covered parking, valet, and secured parking as not available, and EV charging as 2 miles away. Pets not allowed. Shuttle does not run overnight, so check it against early flights.",
+   "feeNotes": "Package prices are not published. The hotel lists on-site self-parking at $15.00 per day (as listed on 2026-11-27).",
+   "sources": [
+    {
+     "label": "DoubleTree Suites by Hilton Phoenix hotel page",
+     "url": "https://www.hilton.com/en/hotels/phxfvdt-doubletree-suites-phoenix/"
+    }
+   ],
+   "lastChecked": "2026-11-27"
+  }
+ ]
+}
